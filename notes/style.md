@@ -16,7 +16,7 @@ Either
 
 Went for 2.
 
-Bear in mind that NA𒆚 KÁM is horizontal.
+Bear in mind that NA𒆚 KÁM is horizontal. This tablet has them both, with KAM as KAMᵛ: https://cdli.ucla.edu/search/search_results.php?SearchMode=Text&ObjectID=P365742.
 
 ## 𒎌 MEŠ
 

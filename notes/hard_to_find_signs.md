@@ -1,10 +1,13 @@
+## 𒁂 BAG₃
+http://oracc.museum.upenn.edu/ogsl/signlist/l0066/o0000116/index.html ???
+
 ## 𒁑 BULUG
 
-
+𒌷𒀏: http://oracc.iaas.upenn.edu/dcclt/nineveh/P394160/html.
 
 ## 𒁻 DU&DU
 
-https://cdli.ucla.edu/search/archival_view.php?ObjectID=P394629.
+𒌷𒀏: https://cdli.ucla.edu/search/archival_view.php?ObjectID=P394629.
 
 > Note: https://cdli.ucla.edu/search/archival_view.php?ObjectID=P365407 says LAḪ₄ but clearly has a DU.DU=LAḪ₅.
 
