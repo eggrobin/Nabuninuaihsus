@@ -1,0 +1,52 @@
+## 𒁑 BULUG
+
+
+
+## 𒁻 DU&DU
+
+https://cdli.ucla.edu/search/archival_view.php?ObjectID=P394629.
+
+> Note: https://cdli.ucla.edu/search/archival_view.php?ObjectID=P365407 says LAḪ₄ but clearly has a DU.DU=LAḪ₅.
+
+## 𒂈 DUN₄
+
+As part of šudun = šú.dun₄.
+
+𒌷𒀏: https://cdli.ucla.edu/search/archival_view.php?ObjectID=P451932.
+
+pa-an GEŠ ŠUDUN-ia ú-ter-ra-⸢a⸣-[…]  
+𒉺𒀭𒄑𒋙𒂈𒅀𒌑𒌁𒊏𒀀  
+![𒉺𒀭𒄑𒋙𒂈𒅀𒌑𒌁𒊏𒀀](https://cdn.discordapp.com/attachments/533816279165960192/799412234610147358/unknown.png)
+
+## TODO: 𒃳 GAL.GAD&GAD.GAR&GAR (KINDAGAL)
+
+𒌷𒀏: http://oracc.museum.upenn.edu/dcclt/nineveh/P399148.4.3 but not on the part of the tablet we have.
+
+## 𒃴 GALAM
+
+𒌷𒀏: http://oracc.museum.upenn.edu/dcclt/nineveh/P365225.19.3#P365https://cdli.ucla.edu/search/archival_view.php?ObjectID=P422664.
+
+## 𒃹 GAN₂&GAN₂
+
+𒌷𒀏: http://oracc.museum.upenn.edu/dcclt/nineveh/P397287.6.3#P397287.1.
+
+## 𒄐 GISAL
+
+Look for it with the reading ŋisal.
+
+𒌷𒀏: http://oracc.iaas.upenn.edu/dcclt/nineveh/P289805/html.
+
+##  𒅃 IDIM&IDIM.BUR
+
+𒌷𒀏: http://oracc.iaas.upenn.edu/dcclt/nineveh/P365226/html.
+
+## 𒅐 IM%IM
+
+𒌷𒀏, partially broken line drawing: http://oracc.museum.upenn.edu/dcclt/nineveh/P382646.87.3#P382646.82.
+
+𒌷𒀏, partially broken: http://oracc.iaas.upenn.edu/dcclt/nineveh/P365776.90.1 (found via http://oracc.museum.upenn.edu/epsd2/signlist/index.html).
+
+## 𒅒
+
+𒌷𒀏: http://oracc.iaas.upenn.edu/dcclt/nineveh/P365765.114.1.
+
