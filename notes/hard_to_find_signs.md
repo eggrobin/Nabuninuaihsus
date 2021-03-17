@@ -49,7 +49,12 @@ Look for it with the reading ŋisal.
 
 𒌷𒀏, partially broken: http://oracc.iaas.upenn.edu/dcclt/nineveh/P365776.90.1 (found via http://oracc.museum.upenn.edu/epsd2/signlist/index.html).
 
-## 𒅒
+## 𒅒 4×IM
 
 𒌷𒀏: http://oracc.iaas.upenn.edu/dcclt/nineveh/P365765.114.1.
 
+## 𒆒 KAD₄
+
+𒌷𒀏: http://oracc.museum.upenn.edu/dcclt/signlists/P382557.11.3#P382557.6
+
+𒌷𒀏: http://oracc.museum.upenn.edu/dcclt/P240227.106.3#P240227.101
