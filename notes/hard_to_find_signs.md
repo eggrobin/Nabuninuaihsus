@@ -21,6 +21,12 @@ pa-an GEŠ ŠUDUN-ia ú-ter-ra-⸢a⸣-[…]
 𒉺𒀭𒄑𒋙𒂈𒅀𒌑𒌁𒊏𒀀  
 ![𒉺𒀭𒄑𒋙𒂈𒅀𒌑𒌁𒊏𒀀](https://cdn.discordapp.com/attachments/533816279165960192/799412234610147358/unknown.png)
 
+## TODO: 𒃱 GAD&GAD.GAR&GAR (KINDA)
+
+NA, 𒄷𒍣𒊑𒈾; no image: http://oracc.museum.upenn.edu/dcclt/signlists/P338311.129.3#P338311.124.
+
+> Note: https://cdli.ucla.edu/search/archival_view.php?ObjectID=P400233 says KINDA but the line art has that as 𒃻 rather than GAD&GAD.GAR&GAR; possibly erroneous?
+
 ## TODO: 𒃳 GAL.GAD&GAD.GAR&GAR (KINDAGAL)
 
 𒌷𒀏: http://oracc.museum.upenn.edu/dcclt/nineveh/P399148.4.3 but not on the part of the tablet we have.

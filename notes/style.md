@@ -1,6 +1,9 @@
-## 𒋙 ŠÚ
 
-𒌋 or 𒀹? We pick 𒀹.
+## 𒁴 DIM (TIM)
+
+Highly variable in style.
+
+TODO(egg): list an exemplar for the style we picked.
 
 ## 𒄇 GIDIM
 
@@ -17,6 +20,14 @@ Either
 Went for 2.
 
 Bear in mind that NA𒆚 KÁM is horizontal. This tablet has them both, with KAM as KAMᵛ: https://cdli.ucla.edu/search/search_results.php?SearchMode=Text&ObjectID=P365742.
+
+## 𒄷 ḪU (MUŠEN)
+
+Went for something like 𒈦𒋙 instead of 𒈦𒌋𒁹 as in Labat or Borger, e.g. http://oracc.iaas.upenn.edu/blms/P357120/html r 8′ in *us* 𒊻 = ŠE.ḪU 𒊺.𒄷.
+
+## 𒋙 ŠÚ
+
+𒌋 or 𒀹? We pick 𒀹.
 
 ## 𒎌 MEŠ
 
