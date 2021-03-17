@@ -1,3 +1,6 @@
+## 𒊬 ŠAR
+
+The left-hand-side varies, we went with https://cdli.ucla.edu/search/archival_view.php?ObjectID=P396599.
 
 ## 𒁴 DIM (TIM)
 
