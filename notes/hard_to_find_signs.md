@@ -90,6 +90,7 @@ Same as above.
 ## TODO: 𒆔 KAD₅&KAD₅
 
 MA, 𒌷𒀸𒋩: http://oracc.iaas.upenn.edu/dcclt/P368988. Consistent enough with NA 𒆓 = 𒋗.𒆑 that it may make sense to use it.
+See comments in https://cdli.ucla.edu/search/revhistory.php/?txtpnumber=368988.
 
 Listed in the Oracc Global Sign List (OGSL) as esirₓ, but only attested in the Oracc Digital Corpus of Cuneiform Lexical Texts as til₆ (which the OGSL gives as the reading for KAD₅.KAD₅).
 
