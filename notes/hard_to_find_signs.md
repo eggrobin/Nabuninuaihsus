@@ -86,3 +86,11 @@ Same as above.
 𒌷𒀏: http://oracc.iaas.upenn.edu/dcclt/P346083.
 
 𒌷𒀸𒋩; no image: https://cdli.ucla.edu/search/archival_view.php?ObjectID=P247813.
+
+## TODO: 𒆔 KAD₅&KAD₅
+
+MA, 𒌷𒀸𒋩: http://oracc.iaas.upenn.edu/dcclt/P368988. Consistent enough with NA 𒆓 = 𒋗.𒆑 that it may make sense to use it.
+
+Listed in the Oracc Global Sign List (OGSL) as esirₓ, but only attested in the Oracc Digital Corpus of Cuneiform Lexical Texts as til₆ (which the OGSL gives as the reading for KAD₅.KAD₅).
+
+DCCLT has esirₓ as LAK173 (Ebla, ED IIIa) mostly, and TAK₄ and KAD₅ in one NB tablet (http://oracc.iaas.upenn.edu/dcclt/P349924).
