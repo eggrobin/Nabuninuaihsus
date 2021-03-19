@@ -5761,14 +5761,13 @@ EndChar
 
 StartChar: u12197
 Encoding: 74135 74135 425
-Width: 1000
+Width: 1121
 VWidth: 1000
 Flags: W
 HStem: 0 21G<0 124.743 875.257 1000>
 LayerCount: 2
 Fore
-Refer: 139 61712 N 1 0 0 1 0 0 2
-Validated: 5
+Refer: 314 74024 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u12198
