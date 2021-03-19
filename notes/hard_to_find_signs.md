@@ -80,3 +80,9 @@ Same as above.
 𒌷𒀏: http://oracc.museum.upenn.edu/dcclt/signlists/P382557.11.3#P382557.6
 
 𒌷𒀏: http://oracc.museum.upenn.edu/dcclt/P240227.106.3#P240227.101
+
+## 𒆓 KAD₅
+
+𒌷𒀏: http://oracc.iaas.upenn.edu/dcclt/P346083.
+
+𒌷𒀸𒋩; no image: https://cdli.ucla.edu/search/archival_view.php?ObjectID=P247813.
