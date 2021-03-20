@@ -5,7 +5,7 @@
 𒌷𒄩𒀜𒌅𒊭? no photo, no line art: http://oracc.iaas.upenn.edu/dcclt/P434723.
 
 
-## 𒁂 BAG₃
+## ❌: 𒁂 BAG₃
 http://oracc.museum.upenn.edu/ogsl/signlist/l0066/o0000116/index.html ???
 
 ## 𒁑 BULUG
@@ -95,3 +95,7 @@ See comments in https://cdli.ucla.edu/search/revhistory.php/?txtpnumber=368988.
 Listed in the Oracc Global Sign List (OGSL) as esirₓ, but only attested in the Oracc Digital Corpus of Cuneiform Lexical Texts as til₆ (which the OGSL gives as the reading for KAD₅.KAD₅).
 
 DCCLT has esirₓ as LAK173 (Ebla, ED IIIa) mostly, and TAK₄ and KAD₅ in one NB tablet (http://oracc.iaas.upenn.edu/dcclt/P349924).
+
+## ❌: 𒆙 KAL%KAL
+
+http://oracc.museum.upenn.edu/ogsl/signlist/l0075/o0001576/index.html, only in DCCLT reconstructed in an Ea composite, no photo.
