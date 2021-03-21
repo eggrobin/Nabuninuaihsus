@@ -5821,7 +5821,7 @@ StartChar: u1219C
 Encoding: 74140 74140 430
 Width: 1081
 VWidth: 1000
-Flags: HWO
+Flags: HW
 HStem: 0 21G<0 124.743 875.257 1000>
 LayerCount: 2
 Fore
@@ -5857,14 +5857,13 @@ EndChar
 
 StartChar: u1219F
 Encoding: 74143 74143 433
-Width: 1000
+Width: 1668
 VWidth: 1000
 Flags: W
 HStem: 0 21G<0 124.743 875.257 1000>
 LayerCount: 2
 Fore
-Refer: 139 61712 N 1 0 0 1 0 0 2
-Validated: 5
+Refer: 179 73889 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u121A0
