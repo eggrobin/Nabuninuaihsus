@@ -28,6 +28,15 @@ Bear in mind that NA𒆚 KÁM is horizontal. This tablet has them both, with KA
 
 Went for something like 𒈦𒋙 instead of 𒈦𒌋𒁹 as in Labat or Borger, e.g. http://oracc.iaas.upenn.edu/blms/P357120/html r 8′ in *us* 𒊻 = ŠE.ḪU 𒊺.𒄷.
 
+## 𒆦 KISAL
+
+In NA, looks like, and in Labat is identified with, a 𒉌𒄑 ligature.  Three styles in 𒌷𒀏, depending on which of the horizontal wedges of the 𒉌 touch the vertical wedge of the 𒄑:
+1. neither, i.e. 𒉌+𒄑, e.g., https://cdli.ucla.edu/dl/lineart/P393735_l.jpg.
+2. only the top one, e.g., https://cdli.ucla.edu/dl/lineart/P394491_l.jpg, https://cdli.ucla.edu/dl/lineart/P401722_l.jpg.
+3. both, e.g., https://cdli.ucla.edu/dl/lineart/P397529_l.jpg; this is the style used by both Borger and Labat.
+
+Went for 2.
+
 ## 𒋙 ŠÚ
 
 𒌋 or 𒀹? We pick 𒀹.

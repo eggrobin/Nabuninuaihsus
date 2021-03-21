@@ -57,7 +57,7 @@ NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 120 40 15
+WinInfo: 0 40 15
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -5918,7 +5918,7 @@ StartChar: u121A4
 Encoding: 74148 74148 438
 Width: 1121
 VWidth: 1000
-Flags: HWO
+Flags: HW
 VStem: 508.478 27.0928<-0.0380533 297.667> 738.477 27.0928<-0.0380533 297.667> 968.477 27.0928<-0.0380533 297.667>
 LayerCount: 2
 Fore
@@ -5948,14 +5948,17 @@ EndChar
 
 StartChar: u121A6
 Encoding: 74150 74150 440
-Width: 1000
+Width: 1361
 VWidth: 1000
-Flags: W
-HStem: 0 21G<0 124.743 875.257 1000>
+Flags: HWO
+VStem: 343.478 27.0928<-0.0380533 186.46> 573.477 27.0928<-0.0380533 186.46>
 LayerCount: 2
 Fore
-Refer: 139 61712 N 1 0 0 1 0 0 2
-Validated: 5
+Refer: 10 61702 N 1 0 0 1 285 -175 2
+Refer: 8 61700 N 1 0 0 1 495 0 2
+Refer: 13 61705 N 1 0 0 1 535 425 2
+Refer: 291 74001 N 1 0 0 1 700 0 2
+Refer: 8 61700 N 1 0 0 1 265 0 2
 EndChar
 
 StartChar: u121A7
@@ -5967,7 +5970,6 @@ HStem: 0 21G<0 124.743 875.257 1000>
 LayerCount: 2
 Fore
 Refer: 139 61712 N 1 0 0 1 0 0 2
-Validated: 5
 EndChar
 
 StartChar: u121A8
