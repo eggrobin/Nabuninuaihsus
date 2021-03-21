@@ -71,6 +71,8 @@ Look for it with the reading ŋisal.
 MB: http://oracc.museum.upenn.edu/dcclt/signlists/P342645.217.3#P342645.212,
 https://cdli.ucla.edu/dl/photo/P342645_d.jpg.
 
+Effectively part of 𒀱, attested in 𒌷𒀏, so it may make sense to use that.
+
 ## TODO? 𒉁 NAGA<sup>180</sup>
 
 Same as above.
@@ -99,3 +101,11 @@ DCCLT has esirₓ as LAK173 (Ebla, ED IIIa) mostly, and TAK₄ and KAD₅ in one
 ## ❌: 𒆙 KAL%KAL
 
 http://oracc.museum.upenn.edu/ogsl/signlist/l0075/o0001576/index.html, only in DCCLT reconstructed in an Ea composite, no photo.
+
+## ❌: 𒆝 KASKAL.(LAGAB×U)&(LAGAB×U) (ŠUBTU₆)
+
+http://oracc.museum.upenn.edu/ogsl/signlist/l0075/o0001581/index.html. OB and MB only on CDLI.
+
+## ❌: 𒆞 (KASKAL.LAGAB×U)&(KASKAL.LAGAB×U) (ŠUBTU₇)
+
+http://oracc.museum.upenn.edu/ogsl/signlist/l0075/o0000625/index.html. Not on CDLI.
