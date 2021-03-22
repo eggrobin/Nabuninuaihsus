@@ -6,7 +6,7 @@
 
 
 ## ❌: 𒁂 BAG₃
-http://oracc.museum.upenn.edu/ogsl/signlist/l0066/o0000116/index.html ???
+http://oracc.museum.upenn.edu/ogsl/signlist/l0066/o0000116/index.html ???  No sign list given.
 
 ## 𒁑 BULUG
 
@@ -66,16 +66,19 @@ Look for it with the reading ŋisal.
 
 𒌷𒀏: http://oracc.iaas.upenn.edu/dcclt/nineveh/P365765.114.1.
 
-## TODO? 𒉃 NAGA@NAGA
+## TODO: 𒉃 NAGA@NAGA
 
 MB: http://oracc.museum.upenn.edu/dcclt/signlists/P342645.217.3#P342645.212,
 https://cdli.ucla.edu/dl/photo/P342645_d.jpg.
 
-Effectively part of 𒀱, attested in 𒌷𒀏, so it may make sense to use that.
+Effectively part of 𒀱, attested in 𒌷𒀏.
 
-## TODO? 𒉁 NAGA<sup>180</sup>
+NA, 𒄷𒍣𒊑𒈾; no image: http://oracc.iaas.upenn.edu/dcclt/pager#P338311.89. MSL has something consistent with the relevant part of 𒀱 in NA style.
 
-Same as above.
+## TODO: 𒉁 NAGA<sup>180</sup>
+
+No NA attestation in http://oracc.museum.upenn.edu/ogsl/signlist/l0078/o0000471/index.html, but
+effectively part of 𒉃 and 𒀱, so it makes sense to interpolate.
 
 ## 𒆒 KAD₄
 
@@ -109,3 +112,11 @@ http://oracc.museum.upenn.edu/ogsl/signlist/l0075/o0001581/index.html. OB and MB
 ## ❌: 𒆞 (KASKAL.LAGAB×U)&(KASKAL.LAGAB×U) (ŠUBTU₇)
 
 http://oracc.museum.upenn.edu/ogsl/signlist/l0075/o0000625/index.html. Not on CDLI.
+
+## ❌: 𒆩 KISIM₅&KISIM₅ (GINGIRA)
+
+http://oracc.museum.upenn.edu/ogsl/signlist/l0075/o0001740/index.html. Not on CDLI.
+
+## ❌: 𒆫 KU&HI×AŠ₂.KU&HI×AŠ₂
+
+http://oracc.museum.upenn.edu/ogsl/signlist/l0075/o0001746/index.html.
