@@ -57,7 +57,7 @@ NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 120 40 15
+WinInfo: 80 40 15
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -1193,19 +1193,24 @@ HStem: 0 21G<0 124.743 875.257 1000>
 LayerCount: 2
 Fore
 Refer: 139 61712 N 1 0 0 1 0 0 2
-Validated: 5
 EndChar
 
 StartChar: u12031
 Encoding: 73777 73777 67
-Width: 1000
+Width: 6408
 VWidth: 1000
-Flags: W
+Flags: HW
 HStem: 0 21G<0 124.743 875.257 1000>
 LayerCount: 2
 Fore
-Refer: 139 61712 N 1 0 0 1 0 0 2
-Validated: 5
+Refer: 63 73773 N -0 -1 1 0 2804 3603.87 2
+Refer: 594 74304 N -0 -1 1 0 2804 2823.87 2
+Refer: 63 73773 N 0 1 -1 0 3603.87 -2804 2
+Refer: 594 74304 N 0 1 -1 0 3603.87 -2024 2
+Refer: 63 73773 N -1 0 0 -1 6407.87 799.862 2
+Refer: 594 74304 N -1 0 0 -1 5627.87 799.862 2
+Refer: 63 73773 N 1 0 0 1 0 0 2
+Refer: 594 74304 N 1 0 0 1 780 0 2
 EndChar
 
 StartChar: u12032
@@ -6034,7 +6039,7 @@ StartChar: u121AC
 Encoding: 74156 74156 446
 Width: 701
 VWidth: 1000
-Flags: HWO
+Flags: HW
 HStem: 0 21G<0 124.743 875.257 1000>
 LayerCount: 2
 Fore
@@ -7885,7 +7890,6 @@ HStem: 0 21G<0 124.743 875.257 1000>
 LayerCount: 2
 Fore
 Refer: 139 61712 N 1 0 0 1 0 0 2
-Validated: 5
 EndChar
 
 StartChar: u12242
@@ -7902,14 +7906,14 @@ EndChar
 
 StartChar: u12243
 Encoding: 74307 74307 597
-Width: 1000
+Width: 4388
 VWidth: 1000
-Flags: W
+Flags: HW
 HStem: 0 21G<0 124.743 875.257 1000>
 LayerCount: 2
 Fore
-Refer: 139 61712 N 1 0 0 1 0 0 2
-Validated: 5
+Refer: 594 74304 S -1 0 0 -1 4387.87 799.863 2
+Refer: 594 74304 S 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u12244

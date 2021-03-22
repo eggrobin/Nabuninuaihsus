@@ -1,3 +1,12 @@
+## 𒀱 4×(AN.NAGA) (DALḪAMUN₄)
+
+The scribe of our only NA attestation, https://www.britishmuseum.org/collection/object/W_K-4349,
+uses tilted wedges on the left-hand-side of 𒊬, 𒉀, etc., rather than the horizontal wedges we use.
+
+We use this attestation to guide the composition of the sign (which is just « as written », there are no
+structural simplifications and no reduction in size), but we use our glyph for 𒉀 in 𒀱, rather than
+mimicking those of K. 4349.
+
 ## 𒊬 ŠAR
 
 The left-hand-side varies, we went with https://cdli.ucla.edu/search/archival_view.php?ObjectID=P396599.

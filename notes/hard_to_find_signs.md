@@ -1,4 +1,11 @@
-## TODO: 𒀱 4×(AN.NAGA) (DALḪAMUN₄)
+## TODO?: 𒀰 (AN.NAGA)@(AN.NAGA)
+
+Unattested in http://oracc.museum.upenn.edu/ogsl/signlist/l0065/o0000620/index.html, but it might make sense to interpolate/extrapolate
+from 𒀱/𒉃 which are attested in NA (the former even in 𒌷𒀏).
+
+The sign seems to be (via Borger) from http://dx.doi.org/10.1515/zava.1975.65.2.161, which is very OB.
+
+## 𒀱 4×(AN.NAGA) (DALḪAMUN₄)
 
 𒌷𒀏: https://www.britishmuseum.org/collection/object/W_K-4349, https://www.britishmuseum.org/collection/image/476810001 (found via https://twitter.com/cooleiform/status/942303349499678721).
 
@@ -66,19 +73,18 @@ Look for it with the reading ŋisal.
 
 𒌷𒀏: http://oracc.iaas.upenn.edu/dcclt/nineveh/P365765.114.1.
 
-## TODO: 𒉃 NAGA@NAGA
+## 𒉃 NAGA@NAGA (DALḪAMUN₇)
 
 MB: http://oracc.museum.upenn.edu/dcclt/signlists/P342645.217.3#P342645.212,
 https://cdli.ucla.edu/dl/photo/P342645_d.jpg.
 
-Effectively part of 𒀱, attested in 𒌷𒀏.
+NA, 𒄷𒍣𒊑𒈾; no image: http://oracc.iaas.upenn.edu/dcclt/pager#P338311.89.
+The glyph in MSL 3, p. 113, is in NA style and consistent with our 𒉀 followed by the same, rotated 180°.
 
-NA, 𒄷𒍣𒊑𒈾; no image: http://oracc.iaas.upenn.edu/dcclt/pager#P338311.89. MSL has something consistent with the relevant part of 𒀱 in NA style.
+## TODO?: 𒉁 NAGA<sup>180</sup>
 
-## TODO: 𒉁 NAGA<sup>180</sup>
-
-No NA attestation in http://oracc.museum.upenn.edu/ogsl/signlist/l0078/o0000471/index.html, but
-effectively part of 𒉃 and 𒀱, so it makes sense to interpolate.
+No NA attestation in http://oracc.museum.upenn.edu/ogsl/signlist/l0078/o0000471/index.html,
+but part of 𒉃 and 𒀱, so it might make sense to interpolate.
 
 ## 𒆒 KAD₄
 
