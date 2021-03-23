@@ -98,10 +98,12 @@ No NA attestation in http://oracc.museum.upenn.edu/ogsl/signlist/l0078/o0000471/
 
 ## TODO: 𒆔 KAD₅&KAD₅
 
-MA, 𒌷𒀸𒋩: http://oracc.iaas.upenn.edu/dcclt/P368988. Consistent enough with NA 𒆓 = 𒋗.𒆑 that it may make sense to use it.
+MA, 𒌷𒀸𒋩: http://oracc.iaas.upenn.edu/dcclt/P368988; this is the source for this sign in Borger.
+Consistent enough with NA 𒆓 = 𒋗.𒆑 that it makes sense to use it as a reference.
 See comments in https://cdli.ucla.edu/search/revhistory.php/?txtpnumber=368988.
 
 Listed in the Oracc Global Sign List (OGSL) as esirₓ, but only attested in the Oracc Digital Corpus of Cuneiform Lexical Texts as til₆ (which the OGSL gives as the reading for KAD₅.KAD₅).
+Borger gives the reading til₆.
 
 DCCLT has esirₓ as LAK173 (Ebla, ED IIIa) mostly, and TAK₄ and KAD₅ in one NB tablet (http://oracc.iaas.upenn.edu/dcclt/P349924).
 
