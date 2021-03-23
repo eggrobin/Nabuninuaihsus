@@ -33,6 +33,7 @@ In other words, if:
 2. the glyph for X in 𒀭𒀝𒌷𒀏𒄴𒈽 is 𝔛,
 3. neo-Assyrian attestations of X&X are hard to come by,
 4. we find a tablet which writes 𝑋 as 𝑋, and X&X as 𝑋&𝑋,
+
 The glyph for X&X in 𒀭𒀝𒌷𒀏𒄴𒈽 will be 𝔛&𝔛.
 
 #### Rationale
