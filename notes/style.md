@@ -1,5 +1,20 @@
 ## Generalities
 
+### Attestations
+
+If a sign cannot be found in a neo-Assyrian tablet (preferably from 𒌷𒀏), or at least in a middle Assyrian
+tablet in a style consistent with the neo-Assyrian signs, no attempt is made at including it in the font, even
+if it is an &-, @-, <sup>180</sup>-, or 4×- composition of attested signs.  We look, ideally, for photographs;
+failing that, for autographs. We do not use the glyphs from modern sign lists (Labat, Borger, etc.) as references.
+
+#### Rationale
+
+To quote 𒁹𒍣𒊬,
+> Who are we to presume no simplifications would be made[?]
+
+Modern sign lists tend to condense broader style variation than we aim for here, and occasionaly miss some subtler
+details.
+
 ### Composite signs
 
 When a composite sign is frequent enough, we look for systematic divergences between the composite and its
@@ -20,11 +35,6 @@ In other words, if:
 4. we find a tablet which writes 𝑋 as 𝑋, and X&X as 𝑋&𝑋,
 The glyph for X&X in 𒀭𒀝𒌷𒀏𒄴𒈽 will be 𝔛&𝔛.
 
-If a sign cannot be found in a neo-Assyrian tablet (preferably from 𒌷𒀏), no attempt is made at including
-it in the font, even if it is an &-, @-, <sup>180</sup>, or 4×- composition of attested signs.  We look, ideally,
-for photographs; failing that, for autographs.
-We do not use the glyphs from modern sign lists (Labat, Borger, etc.) as references.
-
 #### Rationale
 
 We consider that rare and complex signs would likely be thought of as compositions of more common ones, and thus
@@ -33,12 +43,6 @@ that no scribe would write 𒉀 differently in 𒀱—which they would write exc
 In contrast, when etymologically composite are common (in particular when they have basic syllabic values, e.g.
 𒉪 NIR = NUN&NUN vs. 𒉣 NUN), they may be learned as separate signs, and thus diverge; however in that case,
 we have an ample supply of examples with which to tease out the systematic divergence from the individual styles.
-
-As for looking for attestations on actual tablets, to quote 𒁹𒍣𒊬,
-> Who are we to presume no simplifications would be made[?]
-
-Modern sign lists tend to condense broader style variation than we aim for here, and occasionaly miss some subtler
-details.
 
 ## Observations on individual signs
 
