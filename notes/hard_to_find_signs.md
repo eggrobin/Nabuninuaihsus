@@ -1,7 +1,6 @@
-## TODO?: 𒀰 (AN.NAGA)@(AN.NAGA)
+## ❌: 𒀰 (AN.NAGA)@(AN.NAGA)
 
-Unattested in http://oracc.museum.upenn.edu/ogsl/signlist/l0065/o0000620/index.html, but it might make sense to interpolate/extrapolate
-from 𒀱/𒉃 which are attested in NA (the former even in 𒌷𒀏).
+Unattested in http://oracc.museum.upenn.edu/ogsl/signlist/l0065/o0000620/index.html.
 
 The sign seems to be (via Borger) from http://dx.doi.org/10.1515/zava.1975.65.2.161, which is very OB.
 
@@ -81,10 +80,9 @@ https://cdli.ucla.edu/dl/photo/P342645_d.jpg.
 NA, 𒄷𒍣𒊑𒈾; no image: http://oracc.iaas.upenn.edu/dcclt/pager#P338311.89.
 The glyph in MSL 3, p. 113, is in NA style and consistent with our 𒉀 followed by the same, rotated 180°.
 
-## TODO?: 𒉁 NAGA<sup>180</sup>
+## ❌: 𒉁 NAGA<sup>180</sup>
 
-No NA attestation in http://oracc.museum.upenn.edu/ogsl/signlist/l0078/o0000471/index.html,
-but part of 𒉃 and 𒀱, so it might make sense to interpolate.
+No NA attestation in http://oracc.museum.upenn.edu/ogsl/signlist/l0078/o0000471/index.html.
 
 ## 𒆒 KAD₄
 
