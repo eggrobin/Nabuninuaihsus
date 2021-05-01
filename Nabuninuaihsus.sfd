@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1608649326
-ModificationTime: 946727936
+ModificationTime: 1619891752
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -42,7 +42,7 @@ HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
 OS2Vendor: 'PfEd'
-Lookup: 258 0 0 "Xsux kerning" { "Tall vertical wedges" [240,0,4] } ['    ' ('DFLT' <'dflt' > 'xsux' <'dflt' > ) ]
+Lookup: 258 0 0 "Xsux kerning" { "Tall vertical wedges" [240,0,4] } ['kern' ('DFLT' <'dflt' > 'xsux' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
 KernClass2: 2 2 "Tall vertical wedges"
@@ -57,7 +57,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 60 30 26
+WinInfo: 30 30 26
 BeginPrivate: 0
 EndPrivate
 Grid
