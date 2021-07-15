@@ -6074,14 +6074,15 @@ EndChar
 
 StartChar: u121AF
 Encoding: 74159 74159 449
-Width: 1000
+Width: 1115
 VWidth: 1000
-Flags: W
+Flags: HW
 HStem: 0 21G<0 124.743 875.257 1000>
 LayerCount: 2
 Fore
-Refer: 139 61712 N 1 0 0 1 0 0 2
-Validated: 5
+Refer: 10 61702 N 1 0 0 1 285 -285 2
+Refer: 873 74583 N 1 0 0 1 140 175.5 2
+Refer: 7 61699 N 1 0 0 1 885 0 2
 EndChar
 
 StartChar: u121B0
