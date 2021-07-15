@@ -126,3 +126,7 @@ http://oracc.museum.upenn.edu/ogsl/signlist/l0075/o0001740/index.html. Not on CD
 ## ❌: 𒆫 KU&HI×AŠ₂.KU&HI×AŠ₂
 
 http://oracc.museum.upenn.edu/ogsl/signlist/l0075/o0001746/index.html.
+
+## ❌: 𒆱 KUL@g
+
+http://oracc.iaas.upenn.edu/ogsl/signlist/l0075/noto0000292/index.html wonders whether this sign exists… 🙃
