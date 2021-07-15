@@ -112,3 +112,7 @@ the latter more frequent but the former attested here and there. Labat lists the
 
 Looks roughly like 𒋰𒑖𒑖𒑖𒑖, but the last 𒑖 gets emphasized. This is not the case for 𒉣 NUN.
 
+### 𒆲 KUN
+Do the horizontal wedges to the right of the 𒎗 cross the vertical ones? Sometimes they do: https://cdli.ucla.edu/dl/photo/P365742.jpg;
+sometimes they don’t: https://cdli.ucla.edu/dl/photo/P393807.jpg.  The scribe of P365742 does a lot more horizontal-vertical overlap than we do,
+in particular in 𒌑, so we go with non-overlapping for consistency of style.
