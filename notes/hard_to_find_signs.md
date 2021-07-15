@@ -130,3 +130,7 @@ http://oracc.museum.upenn.edu/ogsl/signlist/l0075/o0001746/index.html.
 ## ❌: 𒆱 KUL@g
 
 http://oracc.iaas.upenn.edu/ogsl/signlist/l0075/noto0000292/index.html wonders whether this sign exists… 🙃
+
+## 𒆴 KUR@KUR
+
+MA, 𒌷𒀸𒋩: https://cdli.ucla.edu/dl/photo/P345960.jpg.
