@@ -134,3 +134,7 @@ http://oracc.iaas.upenn.edu/ogsl/signlist/l0075/noto0000292/index.html wonders w
 ## 𒆴 KUR@KUR
 
 MA, 𒌷𒀸𒋩: https://cdli.ucla.edu/dl/photo/P345960.jpg.
+
+## 𒆵 KUŠU₂
+
+MA: http://oracc.museum.upenn.edu/dcclt/signlists/P370411.52.3#P370411.47.  Right after 𒉄 NAGAR and consistent with it (these lists are structural), and 𒉄 is easier to find.
