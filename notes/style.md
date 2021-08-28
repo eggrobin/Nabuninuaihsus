@@ -116,3 +116,7 @@ Looks roughly like 𒋰𒑖𒑖𒑖𒑖, but the last 𒑖 gets emphasized. This
 Do the horizontal wedges to the right of the 𒎗 cross the vertical ones? Sometimes they do: https://cdli.ucla.edu/dl/photo/P365742.jpg;
 sometimes they don’t: https://cdli.ucla.edu/dl/photo/P393807.jpg.  The scribe of P365742 does a lot more horizontal-vertical overlap than we do,
 in particular in 𒌑, so we go with non-overlapping for consistency of style.
+
+### 𒆸 LAGAB
+The square form given as standard NA by both Borger and Labat seems rarer than the tilted-top (Labat MA) or tilted-top-and-bottom (Labat NA) forms.
+We pick the latter, e.g. https://cdli.ucla.edu/dl/photo/P394514.jpg; we could just as well have picked the former, e.g. https://cdli.ucla.edu/dl/photo/P394562.jpg.
