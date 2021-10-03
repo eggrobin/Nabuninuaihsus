@@ -120,7 +120,3 @@ in particular in 𒌑, so we go with non-overlapping for consistency of style.
 ### 𒆸 LAGAB
 The square form given as standard NA by both Borger and Labat seems rarer than the tilted-top (Labat MA) or tilted-top-and-bottom (Labat NA) forms.
 We pick the latter, e.g. https://cdli.ucla.edu/dl/photo/P394514.jpg; we could just as well have picked the former, e.g. https://cdli.ucla.edu/dl/photo/P394562.jpg.
-
-### 𒇫 4×LAGAB (GURU₂₂)
-Attested in http://oracc.museum.upenn.edu/dcclt/signlists/P453275.48.3#P453275.43 https://cdli.ucla.edu/search/search_results.php?SearchMode=Text&ObjectID=P453275 https://www.britishmuseum.org/collection/object/W_1914-0407-28.
-The CDLI and BM autographs seem to disagree though, and the photo has too low a resolution to figure out what is actually going on.  Assuming the four 𒆸 are rotated as for the other 4× signs.

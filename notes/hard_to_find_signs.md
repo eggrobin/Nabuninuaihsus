@@ -138,3 +138,11 @@ MA, 𒌷𒀸𒋩: https://cdli.ucla.edu/dl/photo/P345960.jpg.
 ## 𒆵 KUŠU₂
 
 MA: http://oracc.museum.upenn.edu/dcclt/signlists/P370411.52.3#P370411.47.  Right after 𒉄 NAGAR and consistent with it (these lists are structural), and 𒉄 is easier to find.
+
+### 𒇫 4×LAGAB (GURU₂₂)
+Attested in http://oracc.museum.upenn.edu/dcclt/signlists/P453275.48.3#P453275.43 https://cdli.ucla.edu/search/search_results.php?SearchMode=Text&ObjectID=P453275 https://www.britishmuseum.org/collection/object/W_1914-0407-28.
+The CDLI and BM autographs seem to disagree though—with one either being sloppy or reflecting sloppy stylusmanship—, and the photo has too low a resolution to figure out what is actually going on.  Assuming the four 𒆸 are rotated as for the other 4× signs.
+
+### 𒇬 LAGAR
+Easiest to find as part of 𒉣𒇬 TUR₃=NUN.LAGAR.
+Examples: https://cdli.ucla.edu/search/search_results.php?SearchMode=Text&ObjectID=P394759, https://cdli.ucla.edu/search/search_results.php?SearchMode=Text&ObjectID=P396196.
