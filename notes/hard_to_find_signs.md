@@ -146,3 +146,7 @@ The CDLI and BM autographs seem to disagree though—with one either being slopp
 ### 𒇬 LAGAR
 Easiest to find as part of 𒉣𒇬 TUR₃=NUN.LAGAR.
 Examples: https://cdli.ucla.edu/search/search_results.php?SearchMode=Text&ObjectID=P394759, https://cdli.ucla.edu/search/search_results.php?SearchMode=Text&ObjectID=P396196.
+
+### 𒇰 LAGAR@g&LAGAR@g.ŠE (SUMUNDA)
+
+http://oracc.iaas.upenn.edu/dcclt/nineveh/P382646. https://oracc.iaas.upenn.edu/dcclt/nineveh/P397628 too partial to be usable.

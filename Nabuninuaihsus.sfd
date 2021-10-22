@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1608649326
-ModificationTime: 1634254433
+ModificationTime: 1634921334
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -1486,7 +1486,7 @@ Flags: HW
 HStem: 0 21G<0 124.743 875.257 1000>
 LayerCount: 2
 Fore
-Refer: 11 61703 N 1 0 0 1 944 -225 2
+Refer: 11 61703 S 1 0 0 1 944 -225 2
 Refer: 11 61703 N 1 0 0 1 5 -335 2
 Refer: 11 61703 N 1 0 0 1 5 -165 2
 Refer: 11 61703 N 1 0 0 1 5 5 2
@@ -1495,8 +1495,8 @@ Refer: 83 73793 N 1 0 0 1 0 175 2
 Refer: 13 61705 N 1 0 0 1 884 -239 2
 Refer: 9 61701 N 1 0 0 1 1224 225 2
 Refer: 1058 61715 N 1 0 0 1 1199 256 2
-Refer: 11 61703 N 1 0 0 1 944 -75 2
-Refer: 11 61703 N 1 0 0 1 944 75 2
+Refer: 11 61703 S 1 0 0 1 944 -75 2
+Refer: 11 61703 S 1 0 0 1 944 75 2
 Refer: 7 61699 N 1 0 0 1 1494 0 2
 EndChar
 
@@ -2253,7 +2253,7 @@ Flags: W
 HStem: 0 21G<0 124.743 875.257 1000>
 LayerCount: 2
 Fore
-Refer: 88 73798 N 1 0 0 1 0 0 2
+Refer: 88 73798 S 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u12081
@@ -6044,7 +6044,7 @@ HStem: 0 21G<0 124.743 875.257 1000>
 LayerCount: 2
 Fore
 Refer: 1058 61715 N 1 0 0 1 -45 30 2
-Refer: 2 74838 N 1 0 0 1 470 0 2
+Refer: 2 74838 S 1 0 0 1 470 0 2
 Refer: 2 74838 N 1 0 0 1 240 0 2
 EndChar
 
@@ -6825,7 +6825,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 11 61703 N 1 0 0 1 260 285 2
-Refer: 1058 61715 N 1 0 0 1 -45 170 2
+Refer: 1058 61715 N 1 0 0 1 -45 171 2
 Refer: 8 61700 N 1 0 0 1 255 0 2
 Refer: 7 61699 N 1 0 0 1 755 0.5 2
 EndChar
@@ -6858,13 +6858,13 @@ StartChar: u121EF
 Encoding: 74223 74223 513
 Width: 1127
 VWidth: 1000
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
-Refer: 10 61702 N 1 0 0 1 540 285 2
+Refer: 10 61702 S 1 0 0 1 540 285 2
 Refer: 7 61699 N 1 0 0 1 895 0.5 2
 Refer: 8 61700 N 1 0 0 1 255 0 2
-Refer: 1058 61715 N 1 0 0 1 -45 170 2
+Refer: 1058 61715 N 1 0 0 1 -45 171 2
 Refer: 11 61703 N 1 0 0 1 475 -285 2
 Refer: 11 61703 N 1 0 0 1 475 -85 2
 Refer: 11 61703 N 1 0 0 1 475 115 2
@@ -6872,14 +6872,23 @@ EndChar
 
 StartChar: u121F0
 Encoding: 74224 74224 514
-Width: 1000
+Width: 1750
 VWidth: 1000
-Flags: W
+Flags: HWO
 HStem: 0 21G<0 124.743 875.257 1000>
 LayerCount: 2
 Fore
-Refer: 139 61712 N 1 0 0 1 0 0 2
-Validated: 5
+Refer: 11 61703 N 1 0 0 1 490 -285 2
+Refer: 11 61703 N 1 0 0 1 490 -135 2
+Refer: 11 61703 N 1 0 0 1 490 15 2
+Refer: 11 61703 N 1 0 0 1 490 165 2
+Refer: 10 61702 N 1 0 0 1 540 285 2
+Refer: 6 61698 N 1 0 0 1 290 -446 2
+Refer: 6 61698 N 1 0 0 1 290 -166 2
+Refer: 1058 61715 N 1 0 0 1 -45 171 2
+Refer: 1058 61715 N 1 0 0 1 -45 -89 2
+Refer: 2 74838 N 1 0 0 1 895 0 2
+Refer: 716 74426 N 1 0 0 1 1065 0 2
 EndChar
 
 StartChar: u121F1
