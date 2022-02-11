@@ -123,3 +123,4 @@ We pick the latter, e.g. https://cdli.ucla.edu/dl/photo/P394514.jpg; we could ju
 
 ### 𒇸 LIL
 Three different styles attested in the relevant period, > on the right-hand side with a NA 𒊺 inside (e.g. P394325), = on the right-hand side with a NA 𒊺 inside (e.g. P365742), = on the right-hand side with a 𒌍 inside (e.g. P394923).
+We pick the second one.
