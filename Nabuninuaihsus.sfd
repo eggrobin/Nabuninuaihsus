@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1608649326
-ModificationTime: 1644640693
+ModificationTime: 1644641750
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -10224,7 +10224,7 @@ StartChar: u122FC
 Encoding: 74492 74492 782
 Width: 853
 VWidth: 1000
-Flags: HWO
+Flags: HW
 HStem: 0 21G<0 124.743 875.257 1000>
 LayerCount: 2
 Fore
@@ -10246,14 +10246,16 @@ EndChar
 
 StartChar: u122FE
 Encoding: 74494 74494 784
-Width: 1000
+Width: 1067
 VWidth: 1000
-Flags: W
-HStem: 0 21G<0 124.743 875.257 1000>
+Flags: HWO
+VStem: 643.477 27.0928<-0.0380533 297.667>
 LayerCount: 2
 Fore
-Refer: 139 61712 N 1 0 0 1 0 0 2
-Validated: 5
+Refer: 1057 61714 N 1 0 0 1 649 32 2
+Refer: 9 61701 N 1 0 0 1 565 0 2
+Refer: 7 61699 N 1 0 0 1 545 0 2
+Refer: 9 61701 N 1 0 0 1 285 0 2
 EndChar
 
 StartChar: u122FF
