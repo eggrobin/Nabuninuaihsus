@@ -23,14 +23,14 @@ WEDGES = {
 }
 
 font = fontforge.open("Nabuninuaihsus.sfd")
-for gid in font:
-  if not gid.startswith("u12"):
+for glyph_name in font:
+  if not glyph_name.startswith("u12"):
     continue
-  if any (part == "uniF110" for part, transform, _ in font[gid].references):
+  if any (part == "uniF110" for part, transform, _ in font[glyph_name].references):
     continue
-  cp = chr(int(gid[1:], base=16))
-  print(gid, cp, unicodedata.name(cp))
-  for part, transform, _ in font[gid].references:
+  cp = chr(int(glyph_name[1:], base=16))
+  print(glyph_name, cp, unicodedata.name(cp))
+  for part, transform, _ in font[glyph_name].references:
     a11, a12, a21, a22, x, y = transform
     det = a11 * a22 - a12 * a21
     scale = math.sqrt(det)
