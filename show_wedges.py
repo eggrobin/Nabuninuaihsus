@@ -42,9 +42,8 @@ for gid in font:
         name = unicodedata.name(cp).removeprefix("CUNEIFORM ")
       except:
         pass
-    print(name,
-          f"scaled {scale}" if scale != 1 else "",
-          f"rotated {math.degrees(rotation)}°" if rotation else "",
-          "at",
-          x,
-          y)
+    print(f"""{name or "":20} {
+            f"scaled {scale}" if scale != 1 else ""
+          } {
+            f"rotated {math.degrees(rotation)}°" if rotation else ""
+          } at ({x}, {y})""")
