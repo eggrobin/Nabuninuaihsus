@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1608649326
-ModificationTime: 1754789757
+ModificationTime: 1754791051
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -57,7 +57,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 104 52 19
+WinInfo: 0 52 19
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -9487,14 +9487,23 @@ EndChar
 
 StartChar: u122C0
 Encoding: 74432 74432 722
-Width: 1000
+Width: 1769
 VWidth: 1000
-Flags: W
-HStem: 0 21G<0 124.743 875.257 1000>
+Flags: HW
+VStem: 793.423 27.0928<-0.0380533 186.46> 1023.43 27.0928<-0.0380533 186.46> 1253.43 27.0928<-0.0380533 186.46>
 LayerCount: 2
 Fore
-Refer: 139 61712 N 1 0 0 1 0 0 2
-Validated: 5
+Refer: 83 73793 N 1 0 0 1 1009.95 285 2
+Refer: 1058 61715 N 1 0 0 1 1315.95 -144 2
+Refer: 8 61700 N 0 1 -1 0 520.106 109.291 2
+Refer: 8 61700 N 0 1 -1 0 520.106 339.291 2
+Refer: 8 61700 N 0 1 -1 0 520.106 569.291 2
+Refer: 8 61700 N 1 0 0 1 714.946 0 2
+Refer: 8 61700 N 1 0 0 1 1174.95 0 2
+Refer: 9 61701 N 1 0 0 1 734.946 285 2
+Refer: 9 61701 N 1 0 0 1 1014.95 285 2
+Refer: 13 61705 N 1 0 0 1 874.946 -35 2
+Refer: 8 61700 N 1 0 0 1 944.946 0 2
 EndChar
 
 StartChar: u122C1
@@ -10961,14 +10970,13 @@ EndChar
 
 StartChar: u12336
 Encoding: 74550 74550 840
-Width: 1000
+Width: 1769
 VWidth: 1000
 Flags: W
 HStem: 0 21G<0 124.743 875.257 1000>
 LayerCount: 2
 Fore
-Refer: 139 61712 N 1 0 0 1 0 0 2
-Validated: 5
+Refer: 722 74432 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u12337
