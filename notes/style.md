@@ -124,3 +124,15 @@ We pick the latter, e.g. https://cdli.ucla.edu/dl/photo/P394514.jpg; we could ju
 ### 𒇸 LIL
 Three different styles attested in the relevant period, > on the right-hand side with a NA 𒊺 inside (e.g. P394325), = on the right-hand side with a NA 𒊺 inside (e.g. P365742), = on the right-hand side with a 𒌍 inside (e.g. P394923).
 We pick the second one.
+
+# 𒋻 TAR
+Several forms, including an archaizing one that resembles the references glyph, forms where the bottom wedge is angled (cf. Vansevéren’s Assurbanipal), forms where the bottom one is shorter.
+Example of the form chosen here: https://oracc.museum.upenn.edu/saao/P334486.25
+
+# 𒐉 𒐼 𒐿 𒐾 4(diš)
+The standard paints us into a strange corner by being even more disunified than MZL (which distinguishes 𒐉 and 𒐼).
+𒐿: https://oracc.museum.upenn.edu/saao/P334317.2.4
+𒐾: https://oracc.museum.upenn.edu/saao/P334317.4.4
+𒐼: https://oracc.museum.upenn.edu/saao/P334317.6.8
+
+𒐉 is practically not a thing in NA, but by definition it has to look like ZA.
