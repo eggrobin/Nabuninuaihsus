@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1608649326
-ModificationTime: 1754791901
+ModificationTime: 1754793931
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -61,8 +61,8 @@ WinInfo: 0 52 19
 BeginPrivate: 0
 EndPrivate
 Grid
--1600 -185 m 4
- 3200 -185 l 1028
+-1600 -185 m 0
+ 3200 -185 l 1024
   Named: "imin bottom"
 -1600 895 m 0
  3200 895 l 1024
@@ -3996,8 +3996,8 @@ Fore
 Refer: 797 74507 N 1 0 0 1 0 0 2
 Refer: 10 61702 N 1 0 0 1 685 -230 2
 Refer: 10 61702 N 1 0 0 1 685 230 2
-Refer: 11 61703 N 1 0 0 1 685 0 2
-Refer: 9 61701 N 1 0 0 1 685 0 2
+Refer: 11 61703 S 1 0 0 1 685 0 2
+Refer: 9 61701 S 1 0 0 1 685 0 2
 EndChar
 
 StartChar: u1210B
@@ -7557,7 +7557,7 @@ StartChar: u12225
 Encoding: 74277 74277 567
 Width: 1460
 VWidth: 1000
-Flags: HWO
+Flags: HW
 VStem: 643.423 27.0928<-0.0380533 297.667>
 LayerCount: 2
 Fore
@@ -7626,10 +7626,10 @@ Flags: HW
 HStem: 0 21G<0 124.743 875.257 1000>
 LayerCount: 2
 Fore
-Refer: 9 61701 N 1 0 0 1 659 -190 2
-Refer: 15 61707 N 1 0 0 1 869 -120 2
-Refer: 9 61701 N 1 0 0 1 659 40 2
-Refer: 15 61707 N 1 0 0 1 869 110 2
+Refer: 9 61701 S 1 0 0 1 659 -190 2
+Refer: 15 61707 S 1 0 0 1 869 -120 2
+Refer: 9 61701 S 1 0 0 1 659 40 2
+Refer: 15 61707 S 1 0 0 1 869 110 2
 Refer: 797 74507 N 1 0 0 1 0 0 2
 EndChar
 
@@ -10127,14 +10127,16 @@ EndChar
 
 StartChar: u122F3
 Encoding: 74483 74483 773
-Width: 1000
+Width: 1004
 VWidth: 1000
-Flags: W
-HStem: 0 21G<0 124.743 875.257 1000>
+Flags: HWO
 LayerCount: 2
 Fore
-Refer: 139 61712 N 1 0 0 1 0 0 2
-Validated: 5
+Refer: 74 73784 N 0.707107 -0.707107 0.707107 0.707107 167.316 465.758 2
+Refer: 15 61707 N 1 0 0 1 495 -65 2
+Refer: 15 61707 N 1 0 0 1 495 165 2
+Refer: 9 61701 N 1 0 0 1 284.946 -136 2
+Refer: 9 61701 N 1 0 0 1 284.946 94 2
 EndChar
 
 StartChar: u122F4
