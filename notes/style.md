@@ -136,3 +136,6 @@ The standard paints us into a strange corner by being even more disunified than 
 𒐼: https://oracc.museum.upenn.edu/saao/P334317.6.8
 
 𒐉 is practically not a thing in NA, but by definition it has to look like ZA.
+
+# 𒈲 (MUŠ)
+The 𒌋 is often raised rather than aligned on the 𒀸 as in earlier periods.
