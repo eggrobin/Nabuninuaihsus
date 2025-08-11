@@ -147,3 +147,10 @@ Everywhere, but see, e.g., P313562. bottom row spaced further, bottom left wedge
 # 𒐍 and 𒑄 8(diš)
 Surprisingly, I found a 𒐍, in https://cdli.earth/P335913. Same emphasis as in 𒉪, rendered in the same way.
 𒑄 is everywhere, with wider spacing on the bottom row as for 𒐊, see, e.g., P237866.
+
+# 𒋬 TAᵛ
+Really 𒑊, rather than one 𒌋, in P336417, P336506 (both from astrologers).
+Also in extispicy reports: P334785.
+Some attestations look like the reference glyph.
+P336290 might have two 𒀹s?
+P335555 also.
