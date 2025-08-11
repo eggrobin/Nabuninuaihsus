@@ -7,8 +7,11 @@ font.selection.all()
 font.unlinkReferences()
 font.removeOverlap()
 for glyph_name in font:
-  font[glyph_name].left_side_bearing = int(font[glyph_name].left_side_bearing + 60)
-  font[glyph_name].right_side_bearing = int(font[glyph_name].right_side_bearing + 60)
+  if any (part == "uniF110" for part, transform, _ in font[glyph_name].references):
+    font[glyph_name].clear()
+  else:
+    font[glyph_name].left_side_bearing = int(font[glyph_name].left_side_bearing + 60)
+    font[glyph_name].right_side_bearing = int(font[glyph_name].right_side_bearing + 60)
 font.ascent = 800
 font.descent = 200
 font.os2_typoascent = 800
@@ -40,8 +43,11 @@ font.selection.all()
 font.unlinkReferences()
 font.removeOverlap()
 for glyph_name in font:
-  font[glyph_name].left_side_bearing = int(font[glyph_name].left_side_bearing + 60)
-  font[glyph_name].right_side_bearing = int(font[glyph_name].right_side_bearing + 60)
+  if any (part == "uniF110" for part, transform, _ in font[glyph_name].references):
+    font[glyph_name].clear()
+  else:
+    font[glyph_name].left_side_bearing = int(font[glyph_name].left_side_bearing + 60)
+    font[glyph_name].right_side_bearing = int(font[glyph_name].right_side_bearing + 60)
 font.ascent = 800
 font.descent = 200
 font.os2_typoascent = 800
