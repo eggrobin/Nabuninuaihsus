@@ -122,8 +122,8 @@ The square form given as standard NA by both Borger and Labat seems rarer than t
 We pick the latter, e.g. https://cdli.ucla.edu/dl/photo/P394514.jpg; we could just as well have picked the former, e.g. https://cdli.ucla.edu/dl/photo/P394562.jpg.
 
 ### 𒇸 LIL
-Three different styles attested in the relevant period, > on the right-hand side with a NA 𒊺 inside (e.g. P394325), = on the right-hand side with a NA 𒊺 inside (e.g. P365742), = on the right-hand side with a 𒌍 inside (e.g. P394923).
-We pick the second one.
+Three different styles attested in the relevant period, > on the right-hand side with a NA 𒊺 inside (e.g. P394325, P335202), = on the right-hand side with a NA 𒊺 inside (e.g. P365742), = on the right-hand side with a 𒌍 inside (e.g. P394923).
+We pick the first one; lower wedge of the > horizontal, as in P335202, same as for our 𒃴 GALAM.
 
 # 𒋻 TAR
 Several forms, including an archaizing one that resembles the references glyph, forms where the bottom wedge is angled (cf. Vansevéren’s Assurbanipal), forms where the bottom one is shorter.
