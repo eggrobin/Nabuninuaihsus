@@ -1,4 +1,5 @@
 import fontforge
+import os
 
 font = fontforge.open("Nabuninuaihsus.sfd")
 
@@ -21,16 +22,20 @@ font.os2_winascent_add = False
 font.os2_windescent = 200
 font.os2_windescent_add = False
 font.generate("Nabuninuaihsus.otf")
+font.close()
 
 font = fontforge.open("Nabuninuaihsus.sfd")
 
-for c in (0xF122, 0xF123, 0xF124, 0xF128, 0xF132, 0xF133, 0xF137):
+for c in (0xF122, 0xF123, 0xF124, 0xF128, 0xF12A, 0xF132, 0xF133, 0xF137):
   font.selection.none()
   font.selection.select(("unicode",), c)
   font.copy()
   font.selection.none()
   font.selection.select(("unicode",), c - 0x20)
   font.paste()
+font.save("Nabuninuaihsus Sans - TEMP.sfd")
+font.close()
+font = fontforge.open("Nabuninuaihsus Sans - TEMP.sfd")
 font.selection.all()
 font.unlinkReferences()
 font.removeOverlap()
@@ -53,3 +58,5 @@ font.familyname = "Nabuninuaihsus Sans"
 font.fontname = "NabuninuaihsusSans"
 font.fullname = "Nabuninuaihsus Sans"
 font.generate("Nabuninuaihsus Sans.otf")
+font.close()
+os.remove("Nabuninuaihsus Sans - TEMP.sfd")
