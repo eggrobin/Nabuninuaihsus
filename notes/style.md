@@ -137,5 +137,13 @@ The standard paints us into a strange corner by being even more disunified than 
 
 𒐉 is practically not a thing in NA, but by definition it has to look like ZA.
 
-# 𒈲 (MUŠ)
+# 𒈲 MUŠ
 The 𒌋 is often raised rather than aligned on the 𒀸 as in earlier periods.
+1
+
+# 𒐊 5(diš)
+Everywhere, but see, e.g., P313562. bottom row spaced further, bottom left wedge less shifted inward or not at all.
+
+# 𒐍 and 𒑄 8(diš)
+Surprisingly, I found a 𒐍, in https://cdli.earth/P335913. Same emphasis as in 𒉪, rendered in the same way.
+𒑄 is everywhere, with wider spacing on the bottom row as for 𒐊, see, e.g., P237866.
