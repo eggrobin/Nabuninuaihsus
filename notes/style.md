@@ -170,3 +170,9 @@ By way of the value arba, e.g., in P333995.
 # 𒀬 AMAR×ŠE (SISKUR)
 Sometimes without the leftmost 𒌋, e.g., in P334654, like some MB forms in Labat.
 We do it with the 𒌋, consistently with our 𒀫, like in P334002.
+
+# 𒌵  URI
+Various forms. From Balasî: P336417, P336493, P336457, P336439.
+From Akullanu, P336529, very squished.
+From Aššurbanipal, P313882.
+P336417 is pretty clear.
