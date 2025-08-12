@@ -157,3 +157,6 @@ P335555 also.
 
 # 𒋦 SUḪUR
 Common but messy. P335387, and K.4950=P395803 on https://www.ebl.lmu.de/signs/SUHUR: The 𒐀 is a 𒑲, the usual bottom horizontal and top slanted like 𒃴.
+
+# 𒇡 LAGAB×ŠUM (ZAR)
+Tends to start with a 𒋙, like our 𒆸. See, e.g., P333958, https://www.ebl.lmu.de/signs/%7CLAGAB%C3%97SUM%7C, left NA form in Labat.
