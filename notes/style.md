@@ -176,3 +176,6 @@ Various forms. From Balasî: P336417, P336493, P336457, P336439.
 From Akullanu, P336529, very squished.
 From Aššurbanipal, P313882.
 P336417 is pretty clear.
+
+### 𒌁 ŠE.NUN&NUN (TIR)
+See 𒉪, the same emphasis is visible (clear from https://www.ebl.lmu.de/signs/%7C%C5%A0E.NUN%26NUN%7C).
