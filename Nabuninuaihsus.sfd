@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1608649326
-ModificationTime: 1754963259
+ModificationTime: 1754963582
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -57,7 +57,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 26 18
+WinInfo: 650 26 18
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -5073,18 +5073,11 @@ StartChar: u12153
 Encoding: 74067 74067 357
 Width: 692
 VWidth: 1000
-Flags: HW
+Flags: W
 VStem: 78.4775 27.0928<445.962 501.664> 308.478 27.0928<445.962 501.664> 308.478 27.0928<0.796484 53.4014> 538.477 27.0928<445.962 501.664>
 LayerCount: 2
 Fore
-Refer: 6 61698 N 1 0 0 1 460 95 2
-Refer: 6 61698 N 1 0 0 1 230 95 2
-Refer: 6 61698 N 1 0 0 1 0 95 2
-Refer: 1062 61719 N 1 0 0 1 0 -185 2
-Refer: 6 61698 N 1 0 0 1 460 -185 2
-Refer: 6 61698 N 1 0 0 1 230 -185 2
-Refer: 6 61698 N 1 0 0 1 0 -185 2
-Validated: 5
+Refer: 1006 74818 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u12154
@@ -6854,7 +6847,7 @@ StartChar: u121E1
 Encoding: 74209 74209 499
 Width: 1130
 VWidth: 1000
-Flags: HWO
+Flags: HW
 HStem: 0 21G<0.133364 124.876 875.39 1000.13>
 LayerCount: 2
 Fore
@@ -12570,14 +12563,19 @@ EndChar
 
 StartChar: u1240C
 Encoding: 74764 74764 952
-Width: 1000
+Width: 919
 VWidth: 1000
-Flags: W
-HStem: 0 21G<0 124.743 875.257 1000>
+Flags: HWO
+VStem: 78.4771 27.0928<445.962 501.664> 308.478 27.0928<445.962 501.664> 308.478 27.0928<0.796484 53.4014> 538.477 27.0928<445.962 501.664>
 LayerCount: 2
 Fore
-Refer: 139 61712 N 1 0 0 1 0 0 2
-Validated: 5
+Refer: 6 61698 N 1 0 0 1 689.535 0 2
+Refer: 8 61700 N 1 0 0 1 579.535 0 2
+Refer: 6 61698 N 1 0 0 1 459.535 0 2
+Refer: 8 61700 N 1 0 0 1 349.535 0 2
+Refer: 6 61698 N 1 0 0 1 229.535 0 2
+Refer: 6 61698 N 1 0 0 1 -0.465602 0 2
+Refer: 8 61700 N 1 0 0 1 -0.465579 0 2
 EndChar
 
 StartChar: u1240D
@@ -13225,14 +13223,19 @@ EndChar
 
 StartChar: u12442
 Encoding: 74818 74818 1006
-Width: 1000
+Width: 692
 VWidth: 1000
 Flags: W
-HStem: 0 21G<0 124.743 875.257 1000>
+VStem: 78.4775 27.0928<445.962 501.664> 308.478 27.0928<445.962 501.664> 308.478 27.0928<0.796484 53.4014> 538.477 27.0928<445.962 501.664>
 LayerCount: 2
 Fore
-Refer: 139 61712 N 1 0 0 1 0 0 2
-Validated: 5
+Refer: 6 61698 N 1 0 0 1 460 95 2
+Refer: 6 61698 N 1 0 0 1 230 95 2
+Refer: 6 61698 N 1 0 0 1 0 95 2
+Refer: 1062 61719 N 1 0 0 1 0 -185 2
+Refer: 6 61698 N 1 0 0 1 460 -185 2
+Refer: 6 61698 N 1 0 0 1 230 -185 2
+Refer: 6 61698 N 1 0 0 1 0 -185 2
 EndChar
 
 StartChar: u12443

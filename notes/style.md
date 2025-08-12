@@ -160,3 +160,6 @@ Common but messy. P335387, and K.4950=P395803 on https://www.ebl.lmu.de/signs/SU
 
 # 𒇡 LAGAB×ŠUM (ZAR)
 Tends to start with a 𒋙, like our 𒆸. See, e.g., P333958, https://www.ebl.lmu.de/signs/%7CLAGAB%C3%97SUM%7C, left NA form in Labat.
+
+# 7(diš)
+The 𒐌 is completely artificial. This should be attested though…
