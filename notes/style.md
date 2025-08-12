@@ -154,3 +154,6 @@ Also in extispicy reports: P334785.
 Some attestations look like the reference glyph.
 P336290 might have two 𒀹s?
 P335555 also.
+
+# 𒋦 SUḪUR
+Common but messy. P335387, and K.4950=P395803 on https://www.ebl.lmu.de/signs/SUHUR: The 𒐀 is a 𒑲, the usual bottom horizontal and top slanted like 𒃴.
