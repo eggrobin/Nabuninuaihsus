@@ -8,7 +8,7 @@ font.unlinkReferences()
 font.removeOverlap()
 for glyph_name in font:
   if any (part == "uniF110" for part, transform, _ in font[glyph_name].references):
-    font[glyph_name].clear()
+    font.remove(glyph_name)
   else:
     font[glyph_name].left_side_bearing = int(font[glyph_name].left_side_bearing + 60)
     font[glyph_name].right_side_bearing = int(font[glyph_name].right_side_bearing + 60)
@@ -44,7 +44,7 @@ font.unlinkReferences()
 font.removeOverlap()
 for glyph_name in font:
   if any (part == "uniF110" for part, transform, _ in font[glyph_name].references):
-    font[glyph_name].clear()
+    font.remove(glyph_name)
   else:
     font[glyph_name].left_side_bearing = int(font[glyph_name].left_side_bearing + 60)
     font[glyph_name].right_side_bearing = int(font[glyph_name].right_side_bearing + 60)
