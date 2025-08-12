@@ -166,3 +166,7 @@ The 𒐌 is completely artificial. This should be attested though…
 
 # 𒐂 4(aš) + the duplicate encoding limmu₂
 By way of the value arba, e.g., in P333995.
+
+# 𒀬 AMAR×ŠE (SISKUR)
+Sometimes without the leftmost 𒌋, e.g., in P334654, like some MB forms in Labat.
+We do it with the 𒌋, consistently with our 𒀫, like in P334002.
