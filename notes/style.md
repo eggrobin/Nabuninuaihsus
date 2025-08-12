@@ -177,5 +177,8 @@ From Akullanu, P336529, very squished.
 From Aššurbanipal, P313882.
 P336417 is pretty clear.
 
-### 𒌁 ŠE.NUN&NUN (TIR)
+# 𒌁 ŠE.NUN&NUN (TIR)
 See 𒉪, the same emphasis is visible (clear from https://www.ebl.lmu.de/signs/%7C%C5%A0E.NUN%26NUN%7C).
+
+# 𒋚 ŠAḪ
+𒌗.𒉪, with the same emphasis on the 𒉪.
