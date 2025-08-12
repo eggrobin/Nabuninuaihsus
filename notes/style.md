@@ -163,3 +163,6 @@ Tends to start with a 𒋙, like our 𒆸. See, e.g., P333958, https://www.ebl.l
 
 # 7(diš)
 The 𒐌 is completely artificial. This should be attested though…
+
+# 𒐂 4(aš) + the duplicate encoding limmu₂
+By way of the value arba, e.g., in P333995.
