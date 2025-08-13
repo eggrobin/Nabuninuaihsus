@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1608649326
-ModificationTime: 1755126982
+ModificationTime: 1755128871
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -57,7 +57,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 130 26 18
+WinInfo: 650 26 18
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -6119,9 +6119,9 @@ VWidth: 1000
 Flags: W
 LayerCount: 2
 Fore
-Refer: 1058 61715 N 1 0 0 1 869 30 2
-Refer: 1058 61715 N 1 0 0 1 669 30 2
-Refer: 1058 61715 N 1 0 0 1 469 30 2
+Refer: 1058 61715 S 1 0 0 1 869 30 2
+Refer: 1058 61715 S 1 0 0 1 669 30 2
+Refer: 1058 61715 S 1 0 0 1 469 30 2
 Refer: 40 73750 N 1 0 0 1 0 0 2
 Validated: 5
 EndChar
@@ -6437,7 +6437,7 @@ StartChar: u121C0
 Encoding: 74176 74176 466
 Width: 891
 VWidth: 1000
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 9 61701 S 0.75 0 0 0.75 478.276 67.4708 2
@@ -6543,14 +6543,14 @@ EndChar
 
 StartChar: u121C9
 Encoding: 74185 74185 475
-Width: 1000
+Width: 1018
 VWidth: 1000
-Flags: W
-HStem: 0 21G<0 124.743 875.257 1000>
+Flags: HW
 LayerCount: 2
 Fore
-Refer: 139 61712 N 1 0 0 1 0 0 2
-Validated: 5
+Refer: 9 61701 N 1 0 0 1 498.133 0 2
+Refer: 11 61703 N 1 0 0 1 498.133 0 2
+Refer: 458 74168 N 1 0 0 1 0.133364 0 2
 EndChar
 
 StartChar: u121CA
@@ -8453,14 +8453,21 @@ EndChar
 
 StartChar: u12260
 Encoding: 74336 74336 626
-Width: 1000
-VWidth: 1000
-Flags: W
-HStem: 0 21G<0 124.743 875.257 1000>
+Width: 1625
+Flags: HW
+VStem: 967.061 20.3196<34.9028 174.776 369.403 411.179> 1139.56 20.3196<369.403 411.179> 1139.56 20.3196<34.9028 174.776> 1473.48 27.0928<-0.0380533 297.667>
 LayerCount: 2
 Fore
-Refer: 139 61712 N 1 0 0 1 0 0 2
-Validated: 5
+Refer: 1058 61715 N 1 0 0 1 1039 30 2
+Refer: 1058 61715 N 1 0 0 1 839 30 2
+Refer: 1058 61715 N 1 0 0 1 639 30 2
+Refer: 2 74838 N 1 0 0 1 1395 0 2
+Refer: 9 61701 N 1 0 0 1 285 0 2
+Refer: 11 61703 N 1 0 0 1 0 230 2
+Refer: 11 61703 N 1 0 0 1 0 -230 2
+Refer: 10 61702 N 1 0 0 1 934 285 2
+Refer: 10 61702 N 1 0 0 1 934 -285 2
+Refer: 797 74507 N 1 0 0 1 295 0 2
 EndChar
 
 StartChar: u12261
@@ -10803,14 +10810,12 @@ EndChar
 
 StartChar: u12318
 Encoding: 74520 74520 810
-Width: 1000
-VWidth: 1000
-Flags: W
+Width: 1625
+Flags: WO
 HStem: 0 21G<0 124.743 875.257 1000>
 LayerCount: 2
 Fore
-Refer: 139 61712 N 1 0 0 1 0 0 2
-Validated: 5
+Refer: 626 74336 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u12319
