@@ -139,7 +139,6 @@ The standard paints us into a strange corner by being even more disunified than 
 
 # 𒈲 MUŠ
 The 𒌋 is often raised rather than aligned on the 𒀸 as in earlier periods.
-1
 
 # 𒐊 5(diš)
 Everywhere, but see, e.g., P313562. bottom row spaced further, bottom left wedge less shifted inward or not at all.
@@ -180,5 +179,8 @@ P336417 is pretty clear.
 # 𒌁 ŠE.NUN&NUN (TIR)
 See 𒉪, the same emphasis is visible (clear from https://www.ebl.lmu.de/signs/%7C%C5%A0E.NUN%26NUN%7C).
 
-# 𒋚 ŠAḪ
+# 𒋚 ŠUBUR (ŠAḪ)
 𒌗.𒉪, with the same emphasis on the 𒉪.
+
+# 𒇀 LAGAB×BAD (GIGIR)
+Consistent with our 𒆸 in P334420, P334541 (less clear perhaps in P335183).
