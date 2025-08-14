@@ -195,3 +195,7 @@ The top-right 𒀸 is quite far up, see, e.g., P313554, P335771.
 
 # TODO(egg): 9 written 𒑉
 See P334447.
+
+# 𒑳 (and TODO(egg): 𒑴)
+
+P335409 seems to have both (tricolon for the .:. r. 11′, quadcolon for the :. r. 14′)
