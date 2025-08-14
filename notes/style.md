@@ -208,3 +208,6 @@ downward horizontal (cf. 𒊩, 𒁑, etc.).
 The lower horizontal is aligned with the left horizontal (as in 𒁑), but that requires the
 𒁹 to be lowered, which is inconsistent with our design of 𒊩 etc. (compare 𒊩 on P334154 r 10,
 also with a lowered 𒁹). So instead we lower the lower horizontal to fit the 𒊺.
+
+# 𒋝 SIG
+The 𒋙s seem to be more spaced out than in sign lists. Making it two 𒋙s with 0 bearings rather than packing it as close as 𒈫.

@@ -3,7 +3,7 @@ FontName: Nabuninuaihsus
 FullName: Nabuninuaihsus
 FamilyName: Nabuninuaihsus
 Weight: Regular
-Copyright: Copyright (c) 2020, robin
+Copyright: Copyright (c) 2020-2025, Robin Leroy
 UComments: "2020-12-22: Created with FontForge (http://fontforge.org)"
 Version: 001.000
 ItalicAngle: 0
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1608649326
-ModificationTime: 1755139504
+ModificationTime: 1755140199
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -10056,14 +10056,14 @@ EndChar
 
 StartChar: u122DD
 Encoding: 74461 74461 751
-Width: 1000
+Width: 678
 VWidth: 1000
-Flags: W
-HStem: 0 21G<0 124.743 875.257 1000>
+Flags: HWO
+HStem: 0 21G<40.1334 164.876 915.39 1040.13>
 LayerCount: 2
 Fore
-Refer: 139 61712 N 1 0 0 1 0 0 2
-Validated: 5
+Refer: 747 74457 S 1 0 0 1 380.133 0 2
+Refer: 747 74457 N 1 0 0 1 40.1334 0 2
 EndChar
 
 StartChar: u122DE
@@ -13721,7 +13721,7 @@ EndChar
 StartChar: u12469
 Encoding: 74857 74857 1044
 Width: 804
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 797 74507 N 1 0 0 1 0 143 2
