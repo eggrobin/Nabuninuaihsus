@@ -3,15 +3,19 @@ import os
 
 font = fontforge.open("Nabuninuaihsus.sfd")
 
+for glyph_name in font:
+  if any (part == "uniF110" for part, transform, _ in font[glyph_name].references):
+    font.removeGlyph(glyph_name)
 font.selection.all()
 font.unlinkReferences()
 font.removeOverlap()
 for glyph_name in font:
-  if any (part == "uniF110" for part, transform, _ in font[glyph_name].references):
-    font.remove(glyph_name)
-  else:
-    font[glyph_name].left_side_bearing = int(font[glyph_name].left_side_bearing + 60)
-    font[glyph_name].right_side_bearing = int(font[glyph_name].right_side_bearing + 60)
+  if font[glyph_name].unicode >= 0xE000 and font[glyph_name].unicode < 0xF8FF:
+    font.removeGlyph(glyph_name)
+for glyph_name in font:
+  font[glyph_name].left_side_bearing = int(font[glyph_name].left_side_bearing + 60)
+  font[glyph_name].right_side_bearing = int(font[glyph_name].right_side_bearing + 60)
+
 font.ascent = 800
 font.descent = 200
 font.os2_typoascent = 800
@@ -39,15 +43,18 @@ for c in (0xF122, 0xF123, 0xF124, 0xF128, 0xF12A, 0xF132, 0xF133, 0xF137):
 font.save("Nabuninuaihsus Sans - TEMP.sfd")
 font.close()
 font = fontforge.open("Nabuninuaihsus Sans - TEMP.sfd")
+for glyph_name in font:
+  if any (part == "uniF110" for part, transform, _ in font[glyph_name].references):
+    font.removeGlyph(glyph_name)
 font.selection.all()
 font.unlinkReferences()
 font.removeOverlap()
 for glyph_name in font:
-  if any (part == "uniF110" for part, transform, _ in font[glyph_name].references):
-    font.remove(glyph_name)
-  else:
-    font[glyph_name].left_side_bearing = int(font[glyph_name].left_side_bearing + 60)
-    font[glyph_name].right_side_bearing = int(font[glyph_name].right_side_bearing + 60)
+  if font[glyph_name].unicode >= 0xE000 and font[glyph_name].unicode < 0xF8FF:
+    font.removeGlyph(glyph_name)
+for glyph_name in font:
+  font[glyph_name].left_side_bearing = int(font[glyph_name].left_side_bearing + 60)
+  font[glyph_name].right_side_bearing = int(font[glyph_name].right_side_bearing + 60)
 font.ascent = 800
 font.descent = 200
 font.os2_typoascent = 800
