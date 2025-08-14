@@ -212,5 +212,5 @@ also with a lowered 𒁹). So instead we lower the lower horizontal to fit the �
 # 𒋝 SIG
 The 𒋙s seem to be more spaced out than in sign lists. Making it two 𒋙s with 0 bearings rather than packing it as close as 𒈫.
 
-# 𒉾
+# 𒉾 PEŠ₂ (KILIM)
 𒋙+𒋙+𒋙+𒁷 as in the sign lists, here tightly packed 𒋙 as in 𒂗. See P258805, P334261.
