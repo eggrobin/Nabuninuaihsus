@@ -189,5 +189,9 @@ Consistent with our 𒆸 in P334420, P334541 (less clear perhaps in P335183).
 Same on the 𒆸, see P336419, P336437, P335305.
 The 𒄬 consistently crosses into the rightmost 𒁹 (that is shown in the sign lists too).
 
+# 𒌇 TUK
+
+The top-right 𒀸 is quite far up, see, e.g., P313554, P335771.
+
 # TODO(egg): 9 written 𒑉
-See P334447
+See P334447.
