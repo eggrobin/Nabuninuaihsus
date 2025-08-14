@@ -199,3 +199,12 @@ See P334447.
 # 𒑳 (and TODO(egg): 𒑴)
 
 P335409 seems to have both (tricolon for the .:. r. 11′, quadcolon for the :. r. 14′)
+
+# 𒁵 DIM×ŠE (MUN)
+P161814 (Balasî) and P334154 (Mannu-ki-Libbali) have two horizontals enclosing the 𒊺 on the RHS,
+instead of two downward diagonals and one upward as in the reference forms in Labat and Borger.
+But whereas Labat’s top NA form has only the top horizontal, both of these retain one of the
+downward horizontal (cf. 𒊩, 𒁑, etc.).
+The lower horizontal is aligned with the left horizontal (as in 𒁑), but that requires the
+𒁹 to be lowered, which is inconsistent with our design of 𒊩 etc. (compare 𒊩 on P334154 r 10,
+also with a lowered 𒁹). So instead we lower the lower horizontal to fit the 𒊺.
