@@ -216,7 +216,7 @@ The 𒋙s seem to be more spaced out than in sign lists. Making it two 𒋙s wit
 𒋙+𒋙+𒋙+𒁷 as in the sign lists, here tightly packed 𒋙 as in 𒂗. See P258805, P334261.
 
 # 𒑐, 𒑑, 𒑒, 𒑔
-Making those as wide as 𒑏 which shares its glyph with our 𒈦 MAŠ, instead of narrower like our 𒉺 PA and 𒀾 AŠ₂.
+Making those as wide as 𒑏 which shares its glyph with our 𒈦 MAŠ, instead of narrower like our 𒉺 PA and 𒀾 AŠ₂ (should those be wider?).
 𒌋 sticks out really far in P335976; it is touching the 𒁹 in P335368 (although that one is at the right edge, where the 𒁹 is off to the right in 𒑑 too). P335856 has more of a middle ground. We use our mid-length wedge for the top 𒀸 of 𒑒.  On 𒑔, 𒌋s shifted, lower aligned with the middle 𒀸 rather than the bottom one, as in P335100 (slightly damaged), P335326, P335368 (and even P335976, although here they are far off to the right).
 
 # 𒈭
