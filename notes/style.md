@@ -218,3 +218,7 @@ The 𒋙s seem to be more spaced out than in sign lists. Making it two 𒋙s wit
 # 𒑐, 𒑑, 𒑒, 𒑔
 Making those as wide as 𒑏 which shares its glyph with our 𒈦 MAŠ, instead of narrower like our 𒉺 PA and 𒀾 AŠ₂.
 𒌋 sticks out really far in P335976; it is touching the 𒁹 in P335368 (although that one is at the right edge, where the 𒁹 is off to the right in 𒑑 too). P335856 has more of a middle ground. We use our mid-length wedge for the top 𒀸 of 𒑒.  On 𒑔, 𒌋s shifted, lower aligned with the middle 𒀸 rather than the bottom one, as in P335100 (slightly damaged), P335326, P335368 (and even P335976, although here they are far off to the right).
+
+# 𒈭
+More like the NA form on the left-hand page in Labat than the index form, four diagonally stacked diagonals on the right. But not so low. Examples: P237636, P336429. Maybe the wedges on the left should be more like 𒐏 rather than 𒊺?
+But see, e.g., P397330 from the eBL palæography section.
