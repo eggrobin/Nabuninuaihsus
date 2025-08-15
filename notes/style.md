@@ -222,3 +222,7 @@ Making those as wide as 𒑏 which shares its glyph with our 𒈦 MAŠ, instead 
 # 𒈭
 More like the NA form on the left-hand page in Labat than the index form, four diagonally stacked diagonals on the right. But not so low. Examples: P237636, P336429. Maybe the wedges on the left should be more like 𒐏 rather than 𒊺?
 But see, e.g., P397330 from the eBL palæography section.
+
+# 𒂙 EN×GAN₂@t (BURU₁₄, BURU₁₅ in Labat)
+Four horizontals on the left, each one above and to the right of the previous one, rather than with the two middle ones forming a stack that protrudes to the left, as in the Labat index form or Vansevéren’s Assurbanipal glyph, or three horizontals as in Borger’s index form. See P336510 and various examples from the eBL palæography section.
+Some of the eBL examples (K.10998 r 3, K.12375 r 5', K.127 iv r 7') have a stack of two verticals on the right. We go with one vertical, spaced for emphasis (30).
