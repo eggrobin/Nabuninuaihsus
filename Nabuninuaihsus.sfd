@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1608649326
-ModificationTime: 1755322142
+ModificationTime: 1755357651
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -42,6 +42,7 @@ HheadAOffset: 0
 HheadDescent: -200
 HheadDOffset: 0
 OS2Vendor: 'PfEd'
+Lookup: 4 0 1 "Standard Ligatures" { "Standard Ligatures"  } ['liga' ('DFLT' <'dflt' > 'xsux' <'dflt' > ) ]
 Lookup: 258 0 0 "Xsux kerning" { "Tall vertical wedges" [240,0,4] } ['kern' ('DFLT' <'dflt' > 'xsux' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
@@ -57,7 +58,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 340 20 10
+WinInfo: 160 20 10
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -89,7 +90,7 @@ Grid
  3198 380 l 1024
   Named: "ash"
 EndSplineSet
-BeginChars: 1114113 1096
+BeginChars: 1114114 1097
 
 StartChar: u12000
 Encoding: 73728 73728 0
@@ -5510,7 +5511,7 @@ StartChar: u12174
 Encoding: 74100 74100 390
 Width: 1657
 VWidth: 1000
-Flags: HWO
+Flags: HW
 VStem: 723.477 27.0928<-0.0380533 297.667> 1503.48 27.0928<-0.0380533 297.667>
 LayerCount: 2
 Fore
@@ -14544,6 +14545,19 @@ Flags: W
 LayerCount: 2
 Back
 Refer: 1063 61720 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: u12038_u122E9
+Encoding: 1114113 -1 1096
+Width: 1419
+VWidth: 1000
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 9 61701 S 1 0 0 1 284.946 -55 2
+Refer: 763 74473 N 1 0 0 1 279.946 0 2
+Ligature2: "Standard Ligatures" u12038 u122E9
+LCarets2: 1 0
 EndChar
 EndChars
 EndSplineFont
