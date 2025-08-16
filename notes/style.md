@@ -252,3 +252,6 @@ K.3399 ii o 33' from eBL palæography looks consistent with our style of 𒀝 bu
 
 # 𒆹 LAGAB×A (AMBAR)
 Our usual 𒆸. P335653 has a consistent top, though its bottom is horizontal.
+
+# 𒇇 LAGAB×(GUD&GUD) (U₈)
+P335816 has our usual 𒆸 but empty. P336429 has a horizontal bottom and open top and some chicken scratches in there.
