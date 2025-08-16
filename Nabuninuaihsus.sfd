@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1608649326
-ModificationTime: 1755361550
+ModificationTime: 1755363211
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -58,7 +58,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 540 20 10
+WinInfo: 900 20 10
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -12511,26 +12511,23 @@ EndChar
 
 StartChar: u12400
 Encoding: 74752 74752 940
-Width: 1000
-VWidth: 1000
-Flags: W
-HStem: 0 21G<0 124.743 875.257 1000>
+Width: 940
+Flags: HW
 LayerCount: 2
 Fore
-Refer: 139 61712 N 1 0 0 1 0 0 2
-Validated: 5
+Refer: 9 61701 S 1 0 0 1 284.946 -1 2
+Refer: 15 61707 S 1 0 0 1 494.946 69 2
 EndChar
 
 StartChar: u12401
 Encoding: 74753 74753 941
-Width: 1000
-VWidth: 1000
-Flags: W
-HStem: 0 21G<0 124.743 875.257 1000>
+Width: 914
+Flags: HW
 LayerCount: 2
 Fore
-Refer: 139 61712 N 1 0 0 1 0 0 2
-Validated: 5
+Refer: 9 61701 N 1 0 0 1 844.946 -1 2
+Refer: 9 61701 N 1 0 0 1 564.946 -1 2
+Refer: 9 61701 N 1 0 0 1 284.946 -1 2
 EndChar
 
 StartChar: u12402
@@ -12547,62 +12544,79 @@ EndChar
 
 StartChar: u12403
 Encoding: 74755 74755 943
-Width: 1000
-VWidth: 1000
-Flags: W
-HStem: 0 21G<0 124.743 875.257 1000>
+Width: 1220
+Flags: HW
 LayerCount: 2
 Fore
-Refer: 139 61712 N 1 0 0 1 0 0 2
-Validated: 5
+Refer: 9 61701 N 1 0 0 1 564.946 95 2
+Refer: 15 61707 N 1 0 0 1 774.946 165 2
+Refer: 9 61701 N 1 0 0 1 284.946 -135 2
+Refer: 15 61707 N 1 0 0 1 494.946 -65 2
+Refer: 9 61701 N 1 0 0 1 284.946 95 2
 EndChar
 
 StartChar: u12404
 Encoding: 74756 74756 944
-Width: 1000
-VWidth: 1000
-Flags: W
-HStem: 0 21G<0 124.743 875.257 1000>
+Width: 1220
+Flags: HW
 LayerCount: 2
 Fore
-Refer: 139 61712 N 1 0 0 1 0 0 2
-Validated: 5
+Refer: 9 61701 S 1 0 0 1 564.946 -135 2
+Refer: 15 61707 S 1 0 0 1 774.946 -65 2
+Refer: 9 61701 S 1 0 0 1 284.946 -135 2
+Refer: 9 61701 S 1 0 0 1 564.946 95 2
+Refer: 15 61707 S 1 0 0 1 774.946 165 2
+Refer: 9 61701 S 1 0 0 1 284.946 95 2
 EndChar
 
 StartChar: u12405
 Encoding: 74757 74757 945
-Width: 1000
-VWidth: 1000
-Flags: W
-HStem: 0 21G<0 124.743 875.257 1000>
+Width: 1500
+Flags: HW
 LayerCount: 2
 Fore
-Refer: 139 61712 N 1 0 0 1 0 0 2
-Validated: 5
+Refer: 9 61701 S 1 0 0 1 284.946 -135 2
+Refer: 9 61701 S 1 0 0 1 284.946 95 2
+Refer: 9 61701 N 1 0 0 1 844.946 95 2
+Refer: 15 61707 N 1 0 0 1 1054.95 165 2
+Refer: 9 61701 N 1 0 0 1 564.946 -135 2
+Refer: 15 61707 N 1 0 0 1 774.946 -65 2
+Refer: 9 61701 N 1 0 0 1 564.946 95 2
 EndChar
 
 StartChar: u12406
 Encoding: 74758 74758 946
-Width: 1000
-VWidth: 1000
-Flags: W
-HStem: 0 21G<0 124.743 875.257 1000>
+Width: 1500
+Flags: HW
+HStem: 0 21G<280 404.743 1155.26 1280>
 LayerCount: 2
 Fore
-Refer: 139 61712 N 1 0 0 1 0 0 2
-Validated: 5
+Refer: 9 61701 N 1 0 0 1 284.946 -135 2
+Refer: 9 61701 N 1 0 0 1 284.946 95 2
+Refer: 9 61701 N 1 0 0 1 564.946 -135 2
+Refer: 9 61701 N 1 0 0 1 564.946 95 2
+Refer: 15 61707 N 1 0 0 1 1054.95 -65 2
+Refer: 9 61701 N 1 0 0 1 844.946 -135 2
+Refer: 15 61707 S 1 0 0 1 1054.95 165 2
+Refer: 9 61701 N 1 0 0 1 844.946 95 2
 EndChar
 
 StartChar: u12407
 Encoding: 74759 74759 947
-Width: 1000
-VWidth: 1000
-Flags: W
+Width: 1780
+Flags: HW
 HStem: 0 21G<0 124.743 875.257 1000>
 LayerCount: 2
 Fore
-Refer: 139 61712 N 1 0 0 1 0 0 2
-Validated: 5
+Refer: 9 61701 S 1 0 0 1 284.946 -135 2
+Refer: 9 61701 S 1 0 0 1 284.946 95 2
+Refer: 9 61701 S 1 0 0 1 564.946 -135 2
+Refer: 9 61701 S 1 0 0 1 564.946 95 2
+Refer: 15 61707 S 1 0 0 1 1054.95 -65 2
+Refer: 9 61701 S 1 0 0 1 844.946 -135 2
+Refer: 9 61701 S 1 0 0 1 1124.95 95 2
+Refer: 15 61707 S 1 0 0 1 1334.95 165 2
+Refer: 9 61701 S 1 0 0 1 844.946 95 2
 EndChar
 
 StartChar: u12408
@@ -12730,14 +12744,16 @@ EndChar
 
 StartChar: u12411
 Encoding: 74769 74769 957
-Width: 1000
-VWidth: 1000
-Flags: W
-HStem: 0 21G<0 124.743 875.257 1000>
+Width: 804
+Flags: HW
 LayerCount: 2
 Fore
-Refer: 139 61712 N 1 0 0 1 0 0 2
-Validated: 5
+Refer: 797 74507 N 1 0 0 1 420 -293 2
+Refer: 797 74507 N 1 0 0 1 0 -293 2
+Refer: 797 74507 N 1 0 0 1 210 -293 2
+Refer: 797 74507 N 1 0 0 1 420 143 2
+Refer: 797 74507 N 1 0 0 1 210 143 2
+Refer: 797 74507 N 1 0 0 1 0 143 2
 EndChar
 
 StartChar: u12412
