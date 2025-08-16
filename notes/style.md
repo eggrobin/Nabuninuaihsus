@@ -230,3 +230,7 @@ Some of the eBL examples (K.10998 r 3, K.12375 r 5', K.127 iv r 7') have a stack
 # 𒑱
 Most of the : in SAAo are actually 𒑲.
 One more on the vertical side in P335539 o 9, contrast those at the bottom.
+
+# 𒐞 (in nāgir ekalli)
+Note the raised 𒌋. P335780 is very clear.
+On full-sized 𒌋 vs. the small one, it is very large in P335872, but reaches down only to the mid-height of the 𒁹 in P335780 or P333950.
