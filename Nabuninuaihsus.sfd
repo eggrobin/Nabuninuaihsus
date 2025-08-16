@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1608649326
-ModificationTime: 1755318610
+ModificationTime: 1755319280
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -57,7 +57,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 800 20 10
+WinInfo: 660 20 10
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -2792,11 +2792,11 @@ Flags: W
 VStem: 232.478 27.0928<-0.0380533 297.667> 922.477 27.0928<139.962 436.769> 1152.48 27.0928<139.962 436.769> 2028.48 27.0928<-0.0380533 297.667> 2258.48 27.0928<-0.0380533 297.667> 2488.48 27.0928<-0.0380533 297.667> 2718.48 27.0928<-0.0380533 297.667>
 LayerCount: 2
 Fore
-Refer: 13 61705 N 1 0 0 1 2194 175 2
-Refer: 7 61699 N 1 0 0 1 2640 0 2
-Refer: 7 61699 N 1 0 0 1 2410 0 2
-Refer: 7 61699 N 1 0 0 1 2180 0 2
-Refer: 7 61699 N 1 0 0 1 1950 0 2
+Refer: 13 61705 S 1 0 0 1 2194 175 2
+Refer: 7 61699 S 1 0 0 1 2640 0 2
+Refer: 7 61699 S 1 0 0 1 2410 0 2
+Refer: 7 61699 S 1 0 0 1 2180 0 2
+Refer: 7 61699 S 1 0 0 1 1950 0 2
 Refer: 754 74464 N 1 0 0 1 0 0 2
 EndChar
 
@@ -6287,10 +6287,10 @@ VStem: 513.477 27.0928<-1.03805 296.667> 1873.48 27.0928<-0.0380533 297.667> 210
 LayerCount: 2
 Fore
 Refer: 9 61701 N 1 0 0 1 1545 0 2
-Refer: 7 61699 N 1 0 0 1 1795 0 2
-Refer: 9 61701 N 1 0 0 1 1825 0 2
-Refer: 7 61699 N 1 0 0 1 2025 0 2
-Refer: 7 61699 N 1 0 0 1 2255 0 2
+Refer: 7 61699 S 1 0 0 1 1795 0 2
+Refer: 9 61701 S 1 0 0 1 1825 0 2
+Refer: 7 61699 S 1 0 0 1 2025 0 2
+Refer: 7 61699 S 1 0 0 1 2255 0 2
 Refer: 18 61710 N 1 0 0 1 570 0 2
 Refer: 7 61699 N 1 0 0 1 435 -1 2
 Refer: 11 61703 N 1 0 0 1 5 0 2
@@ -9669,8 +9669,8 @@ Flags: W
 VStem: 982.477 27.0928<-3.03805 294.667> 1212.48 27.0928<136.962 433.769>
 LayerCount: 2
 Fore
-Refer: 329 74039 N 1 0 0 1 650 -3 2
-Refer: 716 74426 N 1 0 0 1 0 0 2
+Refer: 329 74039 S 1 0 0 1 650 -3 2
+Refer: 716 74426 S 1 0 0 1 0 0 2
 Validated: 5
 EndChar
 
@@ -10187,14 +10187,17 @@ EndChar
 
 StartChar: u122E4
 Encoding: 74468 74468 758
-Width: 1000
+Width: 1605
 VWidth: 1000
-Flags: W
-HStem: 0 21G<0 124.743 875.257 1000>
+Flags: HWO
+HStem: 0 21G<0.128481 124.871 875.385 1000.13>
 LayerCount: 2
 Fore
-Refer: 139 61712 N 1 0 0 1 0 0 2
-Validated: 5
+Refer: 716 74426 N 1 0 0 1 0.128481 0 2
+Refer: 7 61699 S 1 0 0 1 915.128 0 2
+Refer: 9 61701 S 1 0 0 1 945.128 0 2
+Refer: 7 61699 S 1 0 0 1 1145.13 0 2
+Refer: 7 61699 S 1 0 0 1 1375.13 0 2
 EndChar
 
 StartChar: u122E5
