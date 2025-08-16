@@ -243,3 +243,6 @@ See also merged 𒋓 in P335688 or P336558 (top of the enclosure also horizontal
 # 𒌣 𒌤 UMUM, DE₂, etc.
 Often merged with 𒉠/𒌘, i.e., with 𒌍 rather than 𒐑 inside, e.g., P335671, P335587 (SIMUG), P336234 (DE₂, per copy), and so merged in our font.
 See eBL palæography for K.4426 = P395542 for an example of ×𒐑.
+
+# 𒇥 LAGAB×U (PU₂)
+Our usual 𒆸. eBL palæography is sad here, see P335293.
