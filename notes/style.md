@@ -237,3 +237,7 @@ On full-sized 𒌋 vs. the small one, it is very large in P335872, but reaches d
 
 # 𒉢 NU₁₁
 Horizontal bottom as in P334409 (maybe also P334221 and others from the same sender? hard to read), similar to our style for 𒁴, 𒁵, etc.
+
+# 𒌣 𒌤 UMUM, DE₂, etc.
+Often merged with 𒉠/𒌘, i.e., with 𒌍 rather than 𒐑 inside, e.g., P335671, P335587 (SIMUG), P336234 (DE₂, per copy), and so merged in our font.
+See eBL palæography for K.4426 = P395542 for an example of ×𒐑.
