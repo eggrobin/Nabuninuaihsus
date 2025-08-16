@@ -226,3 +226,7 @@ But see, e.g., P397330 from the eBL palæography section.
 # 𒂙 EN×GAN₂@t (BURU₁₄, BURU₁₅ in Labat)
 Four horizontals on the left, each one above and to the right of the previous one, rather than with the two middle ones forming a stack that protrudes to the left, as in the Labat index form or Vansevéren’s Assurbanipal glyph, or three horizontals as in Borger’s index form. See P336510 and various examples from the eBL palæography section.
 Some of the eBL examples (K.10998 r 3, K.12375 r 5', K.127 iv r 7') have a stack of two verticals on the right. We go with one vertical, spaced for emphasis (30).
+
+# 𒑱
+Most of the : in SAAo are actually 𒑲.
+One more on the vertical side in P335539 o 9, contrast those at the bottom.
