@@ -230,13 +230,15 @@ Some of the eBL examples (K.10998 r 3, K.12375 r 5', K.127 iv r 7') have a stack
 # 𒑱
 Most of the : in SAAo are actually 𒑲.
 One more on the vertical side in P335539 o 9, contrast those at the bottom.
+Also P365898.
 
 # 𒐞 (in nāgir ekalli)
 Note the raised 𒌋. P335780 is very clear.
 On full-sized 𒌋 vs. the small one, it is very large in P335872, but reaches down only to the mid-height of the 𒁹 in P335780 or P333950.
 
-# 𒉢 NU₁₁
+# 𒉢 NU₁₁ 𒋓 ŠIR
 Horizontal bottom as in P334409 (maybe also P334221 and others from the same sender? hard to read), similar to our style for 𒁴, 𒁵, etc.
+See also merged 𒋓 in P335688 or P336558 (top of the enclosure also horizontal there).
 
 # 𒌣 𒌤 UMUM, DE₂, etc.
 Often merged with 𒉠/𒌘, i.e., with 𒌍 rather than 𒐑 inside, e.g., P335671, P335587 (SIMUG), P336234 (DE₂, per copy), and so merged in our font.
