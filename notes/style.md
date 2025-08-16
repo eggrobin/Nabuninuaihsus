@@ -249,3 +249,6 @@ Our usual 𒆸. eBL palæography is sad here, see P335293.
 
 # 𒀞 AK×ERIN₂ (𒀞)
 K.3399 ii o 33' from eBL palæography looks consistent with our style of 𒀝 but hard to read.  P336258 is a bit better.
+
+# 𒆹 LAGAB×A (AMBAR)
+Our usual 𒆸. P335653 has a consistent top, though its bottom is horizontal.
