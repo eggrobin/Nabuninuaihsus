@@ -234,3 +234,6 @@ One more on the vertical side in P335539 o 9, contrast those at the bottom.
 # 𒐞 (in nāgir ekalli)
 Note the raised 𒌋. P335780 is very clear.
 On full-sized 𒌋 vs. the small one, it is very large in P335872, but reaches down only to the mid-height of the 𒁹 in P335780 or P333950.
+
+# 𒉢 NU₁₁
+Horizontal bottom as in P334409 (maybe also P334221 and others from the same sender? hard to read), similar to our style for 𒁴, 𒁵, etc.
