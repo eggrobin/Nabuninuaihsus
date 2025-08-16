@@ -246,3 +246,6 @@ See eBL palæography for K.4426 = P395542 for an example of ×𒐑.
 
 # 𒇥 LAGAB×U (PU₂)
 Our usual 𒆸. eBL palæography is sad here, see P335293.
+
+# 𒀞 AK×ERIN₂ (𒀞)
+K.3399 ii o 33' from eBL palæography looks consistent with our style of 𒀝 but hard to read.  P336258 is a bit better.
