@@ -1,5 +1,6 @@
 import fontforge
 import os
+import re
 
 font = fontforge.open("Nabuninuaihsus.sfd")
 
@@ -73,3 +74,9 @@ font.fullname = "Nabuninuaihsus Sans"
 font.generate("Nabuninuaihsus Sans.otf")
 font.close()
 os.remove("Nabuninuaihsus Sans - TEMP.sfd")
+
+for font_name in ("Nabuninuaihsus", "Nabuninuaihsus Sans"):
+  font = fontforge.open(f"{font_name}.otf")
+  for glyph_name in font:
+    name = re.sub(r"u([0-9A-F]{5})", lambda name: chr(int(name.group(1), base=16)), glyph_name)
+    font[glyph_name].layers[1].export(f"glyphs/{font_name}/{name}.svg")
