@@ -255,3 +255,10 @@ Our usual 𒆸. P335653 has a consistent top, though its bottom is horizontal.
 
 # 𒇇 LAGAB×(GUD&GUD) (U₈)
 P335816 has our usual 𒆸 but empty. P336429 has a horizontal bottom and open top and some chicken scratches in there.
+
+# 𒌋𒌆 U.TUG₂ (DUL)
+Sometimes merged with 𒇯, i.e., missing the 𒌋/𒀹 at the top right, e.g., P334231 (Balasî), P335867, P285574 (from copy), P334159.
+
+Compare, e.g., P334001 (Akkullanu), P335667, where it is clear.
+
+Sometimes contrasted in transliteration, e.g., P334291.

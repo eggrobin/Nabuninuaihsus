@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1608649326
-ModificationTime: 1755469419
+ModificationTime: 1755644686
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -51,14 +51,13 @@ KernClass2: 2 2 "Tall vertical wedges"
  76 u12000 u12001 u12002 u12079 u12129 u121F2 u121F3 u12228 u1222B u1238C u12456
  0 {} 0 {} 0 {} 120 {}
 LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
-Encoding: UnicodeFull
-Compacted: 1
+Encoding: Custom
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 20 10
+WinInfo: 0 61 21
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -90,10 +89,10 @@ Grid
  3198 380 l 1024
   Named: "ash"
 EndSplineSet
-BeginChars: 1114114 1097
+BeginChars: 1098 1098
 
 StartChar: u12000
-Encoding: 73728 73728 0
+Encoding: 56 73728 0
 Width: 466
 VWidth: 1000
 Flags: HMW
@@ -105,7 +104,7 @@ Validated: 5
 EndChar
 
 StartChar: u12079
-Encoding: 73849 73849 1
+Encoding: 177 73849 1
 Width: 231
 VWidth: 1000
 Flags: HMW
@@ -227,7 +226,7 @@ Validated: 5
 EndChar
 
 StartChar: u12456
-Encoding: 74838 74838 2
+Encoding: 1064 74838 2
 Width: 231
 VWidth: 1000
 Flags: W
@@ -240,7 +239,7 @@ Validated: 5
 EndChar
 
 StartChar: u12001
-Encoding: 73729 73729 3
+Encoding: 57 73729 3
 Width: 743
 VWidth: 1000
 Flags: W
@@ -254,7 +253,7 @@ Validated: 5
 EndChar
 
 StartChar: uniF100
-Encoding: 61696 61696 4
+Encoding: 6 61696 4
 Width: 370
 VWidth: 1000
 Flags: W
@@ -303,7 +302,7 @@ Validated: 41
 EndChar
 
 StartChar: uniF101
-Encoding: 61697 61697 5
+Encoding: 7 61697 5
 Width: 370
 VWidth: 1000
 Flags: W
@@ -331,7 +330,7 @@ Validated: 33
 EndChar
 
 StartChar: uniF102
-Encoding: 61698 61698 6
+Encoding: 8 61698 6
 Width: 370
 VWidth: 1000
 Flags: W
@@ -347,7 +346,7 @@ Validated: 5
 EndChar
 
 StartChar: uniF103
-Encoding: 61699 61699 7
+Encoding: 9 61699 7
 Width: 370
 VWidth: 1000
 Flags: W
@@ -377,7 +376,7 @@ Validated: 37
 EndChar
 
 StartChar: uniF104
-Encoding: 61700 61700 8
+Encoding: 10 61700 8
 Width: 370
 VWidth: 1000
 Flags: W
@@ -407,7 +406,7 @@ Validated: 37
 EndChar
 
 StartChar: uniF105
-Encoding: 61701 61701 9
+Encoding: 11 61701 9
 Width: 370
 VWidth: 1000
 Flags: W
@@ -420,7 +419,7 @@ Validated: 5
 EndChar
 
 StartChar: uniF106
-Encoding: 61702 61702 10
+Encoding: 12 61702 10
 Width: 370
 VWidth: 1000
 Flags: W
@@ -433,7 +432,7 @@ Validated: 5
 EndChar
 
 StartChar: uniF107
-Encoding: 61703 61703 11
+Encoding: 13 61703 11
 Width: 520
 VWidth: 1000
 Flags: W
@@ -445,7 +444,7 @@ Refer: 8 61700 N 0 1 -1 0 520.106 284.291 2
 EndChar
 
 StartChar: uniF108
-Encoding: 61704 61704 12
+Encoding: 14 61704 12
 Width: 370
 VWidth: 1000
 Flags: W
@@ -475,7 +474,7 @@ Validated: 37
 EndChar
 
 StartChar: uniF109
-Encoding: 61705 61705 13
+Encoding: 15 61705 13
 Width: 370
 VWidth: 1000
 Flags: W
@@ -488,7 +487,7 @@ Validated: 5
 EndChar
 
 StartChar: uniF10A
-Encoding: 61706 61706 14
+Encoding: 16 61706 14
 Width: 370
 VWidth: 1000
 Flags: W
@@ -518,7 +517,7 @@ Validated: 37
 EndChar
 
 StartChar: uniF10B
-Encoding: 61707 61707 15
+Encoding: 17 61707 15
 Width: 370
 VWidth: 1000
 Flags: W
@@ -531,7 +530,7 @@ Validated: 5
 EndChar
 
 StartChar: uniF10C
-Encoding: 61708 61708 16
+Encoding: 18 61708 16
 Width: 689
 VWidth: 1000
 Flags: W
@@ -641,7 +640,7 @@ Refer: 6 61698 N 1 0 0 1 -0.465603 0 2
 EndChar
 
 StartChar: uniF10D
-Encoding: 61709 61709 17
+Encoding: 19 61709 17
 Width: 370
 VWidth: 1000
 Flags: W
@@ -654,7 +653,7 @@ Validated: 5
 EndChar
 
 StartChar: uniF10E
-Encoding: 61710 61710 18
+Encoding: 20 61710 18
 Width: 370
 VWidth: 1000
 Flags: W
@@ -666,7 +665,7 @@ Refer: 16 61708 S 0.707107 0.707107 -0.707107 0.707107 558.177 -225.036 2
 EndChar
 
 StartChar: uniF10F
-Encoding: 61711 61711 19
+Encoding: 21 61711 19
 Width: 370
 VWidth: 1000
 Flags: W
@@ -696,7 +695,7 @@ Validated: 37
 EndChar
 
 StartChar: u12002
-Encoding: 73730 73730 20
+Encoding: 58 73730 20
 Width: 923
 VWidth: 1000
 Flags: W
@@ -709,7 +708,7 @@ Refer: 1 73849 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u12003
-Encoding: 73731 73731 21
+Encoding: 59 73731 21
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -721,7 +720,7 @@ Validated: 5
 EndChar
 
 StartChar: u12004
-Encoding: 73732 73732 22
+Encoding: 60 73732 22
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -733,7 +732,7 @@ Validated: 5
 EndChar
 
 StartChar: u12005
-Encoding: 73733 73733 23
+Encoding: 61 73733 23
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -745,7 +744,7 @@ Validated: 5
 EndChar
 
 StartChar: u12006
-Encoding: 73734 73734 24
+Encoding: 62 73734 24
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -757,7 +756,7 @@ Validated: 5
 EndChar
 
 StartChar: u12007
-Encoding: 73735 73735 25
+Encoding: 63 73735 25
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -769,7 +768,7 @@ Validated: 5
 EndChar
 
 StartChar: u12008
-Encoding: 73736 73736 26
+Encoding: 64 73736 26
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -781,7 +780,7 @@ Validated: 5
 EndChar
 
 StartChar: u12009
-Encoding: 73737 73737 27
+Encoding: 65 73737 27
 Width: 1440
 VWidth: 1000
 Flags: W
@@ -797,7 +796,7 @@ Refer: 9 61701 N 1 0 0 1 285 -56 2
 EndChar
 
 StartChar: u1200A
-Encoding: 73738 73738 28
+Encoding: 66 73738 28
 Width: 775
 VWidth: 1000
 Flags: W
@@ -813,7 +812,7 @@ Validated: 5
 EndChar
 
 StartChar: u1200B
-Encoding: 73739 73739 29
+Encoding: 67 73739 29
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -825,7 +824,7 @@ Validated: 5
 EndChar
 
 StartChar: u1200C
-Encoding: 73740 73740 30
+Encoding: 68 73740 30
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -837,7 +836,7 @@ Validated: 5
 EndChar
 
 StartChar: u1200D
-Encoding: 73741 73741 31
+Encoding: 69 73741 31
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -849,7 +848,7 @@ Validated: 5
 EndChar
 
 StartChar: u1200E
-Encoding: 73742 73742 32
+Encoding: 70 73742 32
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -861,7 +860,7 @@ Validated: 5
 EndChar
 
 StartChar: u1200F
-Encoding: 73743 73743 33
+Encoding: 71 73743 33
 Width: 1631
 Flags: W
 VStem: 972.061 20.3196<34.9028 174.776 369.403 411.179> 1144.56 20.3196<369.403 411.179> 1144.56 20.3196<34.9028 174.776> 1478.48 27.0928<-0.0380533 297.667>
@@ -877,7 +876,7 @@ Refer: 797 74507 S 1 0 0 1 300 0 2
 EndChar
 
 StartChar: u12010
-Encoding: 73744 73744 34
+Encoding: 72 73744 34
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -889,7 +888,7 @@ Validated: 5
 EndChar
 
 StartChar: u12011
-Encoding: 73745 73745 35
+Encoding: 73 73745 35
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -901,7 +900,7 @@ Validated: 5
 EndChar
 
 StartChar: u12012
-Encoding: 73746 73746 36
+Encoding: 74 73746 36
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -913,7 +912,7 @@ Validated: 5
 EndChar
 
 StartChar: u12013
-Encoding: 73747 73747 37
+Encoding: 75 73747 37
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -925,7 +924,7 @@ Validated: 5
 EndChar
 
 StartChar: u12014
-Encoding: 73748 73748 38
+Encoding: 76 73748 38
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -937,7 +936,7 @@ Validated: 5
 EndChar
 
 StartChar: u12015
-Encoding: 73749 73749 39
+Encoding: 77 73749 39
 Width: 1625
 Flags: HW
 VStem: 1473.48 27.0928<445.962 501.664> 1473.48 27.0928<-0.0380533 186.46>
@@ -955,7 +954,7 @@ Refer: 1058 61715 N 1 0 0 1 1039 30 2
 EndChar
 
 StartChar: u12016
-Encoding: 73750 73750 40
+Encoding: 78 73750 40
 Width: 1203
 VWidth: 1000
 Flags: W
@@ -968,7 +967,7 @@ Validated: 5
 EndChar
 
 StartChar: u12017
-Encoding: 73751 73751 41
+Encoding: 79 73751 41
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -980,7 +979,7 @@ Validated: 5
 EndChar
 
 StartChar: u12018
-Encoding: 73752 73752 42
+Encoding: 80 73752 42
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -992,7 +991,7 @@ Validated: 5
 EndChar
 
 StartChar: u12019
-Encoding: 73753 73753 43
+Encoding: 81 73753 43
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -1004,7 +1003,7 @@ Validated: 5
 EndChar
 
 StartChar: u1201A
-Encoding: 73754 73754 44
+Encoding: 82 73754 44
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -1016,7 +1015,7 @@ Validated: 5
 EndChar
 
 StartChar: u1201B
-Encoding: 73755 73755 45
+Encoding: 83 73755 45
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -1028,7 +1027,7 @@ Validated: 5
 EndChar
 
 StartChar: u1201C
-Encoding: 73756 73756 46
+Encoding: 84 73756 46
 Width: 1383
 VWidth: 1000
 Flags: W
@@ -1040,7 +1039,7 @@ Refer: 337 74047 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u1201D
-Encoding: 73757 73757 47
+Encoding: 85 73757 47
 Width: 1511
 VWidth: 1000
 Flags: W
@@ -1055,7 +1054,7 @@ Refer: 11 61703 N 1 0 0 1 5 35 2
 EndChar
 
 StartChar: u1201E
-Encoding: 73758 73758 48
+Encoding: 86 73758 48
 Width: 1885
 VWidth: 1000
 Flags: HW
@@ -1071,7 +1070,7 @@ Refer: 11 61703 N 1 0 0 1 0 35 2
 EndChar
 
 StartChar: u1201F
-Encoding: 73759 73759 49
+Encoding: 87 73759 49
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -1083,7 +1082,7 @@ Validated: 5
 EndChar
 
 StartChar: u12020
-Encoding: 73760 73760 50
+Encoding: 88 73760 50
 Width: 1121
 VWidth: 1000
 Flags: W
@@ -1099,7 +1098,7 @@ Refer: 7 61699 N 1 0 0 1 430 0 2
 EndChar
 
 StartChar: u12021
-Encoding: 73761 73761 51
+Encoding: 89 73761 51
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -1111,7 +1110,7 @@ Validated: 5
 EndChar
 
 StartChar: u12022
-Encoding: 73762 73762 52
+Encoding: 90 73762 52
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -1123,7 +1122,7 @@ Validated: 5
 EndChar
 
 StartChar: u12023
-Encoding: 73763 73763 53
+Encoding: 91 73763 53
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -1135,7 +1134,7 @@ Validated: 5
 EndChar
 
 StartChar: u12024
-Encoding: 73764 73764 54
+Encoding: 92 73764 54
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -1147,7 +1146,7 @@ Validated: 5
 EndChar
 
 StartChar: u12025
-Encoding: 73765 73765 55
+Encoding: 93 73765 55
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -1159,7 +1158,7 @@ Validated: 5
 EndChar
 
 StartChar: u12026
-Encoding: 73766 73766 56
+Encoding: 94 73766 56
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -1171,7 +1170,7 @@ Validated: 5
 EndChar
 
 StartChar: u12027
-Encoding: 73767 73767 57
+Encoding: 95 73767 57
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -1183,7 +1182,7 @@ Validated: 5
 EndChar
 
 StartChar: u12028
-Encoding: 73768 73768 58
+Encoding: 96 73768 58
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -1195,7 +1194,7 @@ Validated: 5
 EndChar
 
 StartChar: u12029
-Encoding: 73769 73769 59
+Encoding: 97 73769 59
 Width: 3964
 VWidth: 1000
 Flags: W
@@ -1218,7 +1217,7 @@ Refer: 15 61707 N 1 0 0 1 345 -95 2
 EndChar
 
 StartChar: u1202A
-Encoding: 73770 73770 60
+Encoding: 98 73770 60
 Width: 1634
 VWidth: 1000
 Flags: W
@@ -1230,7 +1229,7 @@ Refer: 319 74029 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u1202B
-Encoding: 73771 73771 61
+Encoding: 99 73771 61
 Width: 1143
 Flags: W
 LayerCount: 2
@@ -1241,7 +1240,7 @@ Refer: 797 74507 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u1202C
-Encoding: 73772 73772 62
+Encoding: 100 73772 62
 Width: 1143
 Flags: W
 LayerCount: 2
@@ -1253,7 +1252,7 @@ Refer: 716 74426 N 0.6 0 0 0.6 534.75 119.412 2
 EndChar
 
 StartChar: u1202D
-Encoding: 73773 73773 63
+Encoding: 101 73773 63
 Width: 940
 VWidth: 1000
 Flags: W
@@ -1267,7 +1266,7 @@ Validated: 5
 EndChar
 
 StartChar: u1202E
-Encoding: 73774 73774 64
+Encoding: 102 73774 64
 Width: 775
 VWidth: 1000
 Flags: W
@@ -1283,7 +1282,7 @@ Validated: 5
 EndChar
 
 StartChar: u1202F
-Encoding: 73775 73775 65
+Encoding: 103 73775 65
 Width: 1692
 VWidth: 1000
 Flags: W
@@ -1296,7 +1295,7 @@ Validated: 5
 EndChar
 
 StartChar: u12030
-Encoding: 73776 73776 66
+Encoding: 104 73776 66
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -1308,7 +1307,7 @@ Validated: 5
 EndChar
 
 StartChar: u12031
-Encoding: 73777 73777 67
+Encoding: 105 73777 67
 Width: 6408
 VWidth: 1000
 Flags: HW
@@ -1326,7 +1325,7 @@ Refer: 594 74304 N 1 0 0 1 780 0 2
 EndChar
 
 StartChar: u12032
-Encoding: 73778 73778 68
+Encoding: 106 73778 68
 Width: 1510
 VWidth: 1000
 Flags: W
@@ -1343,7 +1342,7 @@ Refer: 11 61703 N 1 0 0 1 994 285 2
 EndChar
 
 StartChar: u12033
-Encoding: 73779 73779 69
+Encoding: 107 73779 69
 Width: 1212
 VWidth: 1000
 Flags: W
@@ -1359,7 +1358,7 @@ Refer: 9 61701 S 1 0 0 1 565 -55 2
 EndChar
 
 StartChar: u12034
-Encoding: 73780 73780 70
+Encoding: 108 73780 70
 Width: 1400
 VWidth: 1000
 Flags: W
@@ -1374,7 +1373,7 @@ Refer: 11 61703 N 1 0 0 1 5 -55 2
 EndChar
 
 StartChar: u12035
-Encoding: 73781 73781 71
+Encoding: 109 73781 71
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -1386,7 +1385,7 @@ Validated: 5
 EndChar
 
 StartChar: u12036
-Encoding: 73782 73782 72
+Encoding: 110 73782 72
 Width: 1617
 VWidth: 1000
 Flags: W
@@ -1399,7 +1398,7 @@ Refer: 269 73979 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u12037
-Encoding: 73783 73783 73
+Encoding: 111 73783 73
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -1411,7 +1410,7 @@ Validated: 5
 EndChar
 
 StartChar: u12038
-Encoding: 73784 73784 74
+Encoding: 112 73784 74
 Width: 800
 VWidth: 1000
 Flags: W
@@ -1422,7 +1421,7 @@ Validated: 5
 EndChar
 
 StartChar: u12039
-Encoding: 73785 73785 75
+Encoding: 113 73785 75
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -1434,7 +1433,7 @@ Validated: 5
 EndChar
 
 StartChar: u1203A
-Encoding: 73786 73786 76
+Encoding: 114 73786 76
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -1446,7 +1445,7 @@ Validated: 5
 EndChar
 
 StartChar: u1203B
-Encoding: 73787 73787 77
+Encoding: 115 73787 77
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -1458,7 +1457,7 @@ Validated: 5
 EndChar
 
 StartChar: u1203C
-Encoding: 73788 73788 78
+Encoding: 116 73788 78
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -1470,7 +1469,7 @@ Validated: 5
 EndChar
 
 StartChar: u1203D
-Encoding: 73789 73789 79
+Encoding: 117 73789 79
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -1482,7 +1481,7 @@ Validated: 5
 EndChar
 
 StartChar: u1203E
-Encoding: 73790 73790 80
+Encoding: 118 73790 80
 Width: 817
 VWidth: 1000
 Flags: W
@@ -1497,7 +1496,7 @@ Validated: 5
 EndChar
 
 StartChar: u1203F
-Encoding: 73791 73791 81
+Encoding: 119 73791 81
 Width: 1330
 VWidth: 1000
 Flags: W
@@ -1514,7 +1513,7 @@ Validated: 5
 EndChar
 
 StartChar: u12040
-Encoding: 73792 73792 82
+Encoding: 120 73792 82
 Width: 1200
 VWidth: 1000
 Flags: W
@@ -1528,7 +1527,7 @@ Refer: 7 61699 N 1 0 0 1 875 0 2
 EndChar
 
 StartChar: u12041
-Encoding: 73793 73793 83
+Encoding: 121 73793 83
 Width: 754
 VWidth: 1000
 Flags: W
@@ -1538,7 +1537,7 @@ Refer: 873 74583 S 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u12042
-Encoding: 73794 73794 84
+Encoding: 122 73794 84
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -1550,7 +1549,7 @@ Validated: 5
 EndChar
 
 StartChar: u12043
-Encoding: 73795 73795 85
+Encoding: 123 73795 85
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -1562,7 +1561,7 @@ Validated: 5
 EndChar
 
 StartChar: u12044
-Encoding: 73796 73796 86
+Encoding: 124 73796 86
 Width: 1007
 VWidth: 1000
 Flags: W
@@ -1579,7 +1578,7 @@ Validated: 5
 EndChar
 
 StartChar: u12045
-Encoding: 73797 73797 87
+Encoding: 125 73797 87
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -1591,7 +1590,7 @@ Validated: 5
 EndChar
 
 StartChar: u12046
-Encoding: 73798 73798 88
+Encoding: 126 73798 88
 Width: 1723
 VWidth: 1000
 Flags: W
@@ -1613,7 +1612,7 @@ Refer: 7 61699 N 1 0 0 1 1494 0 2
 EndChar
 
 StartChar: u12047
-Encoding: 73799 73799 89
+Encoding: 127 73799 89
 Width: 800
 VWidth: 1000
 Flags: W
@@ -1626,7 +1625,7 @@ Validated: 5
 EndChar
 
 StartChar: u12048
-Encoding: 73800 73800 90
+Encoding: 128 73800 90
 Width: 1600
 VWidth: 1000
 Flags: W
@@ -1639,7 +1638,7 @@ Refer: 47 73757 S 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u12049
-Encoding: 73801 73801 91
+Encoding: 129 73801 91
 Width: 760
 VWidth: 1000
 Flags: W
@@ -1650,7 +1649,7 @@ Refer: 83 73793 N 1 0 0 1 0 95 2
 EndChar
 
 StartChar: u1204A
-Encoding: 73802 73802 92
+Encoding: 130 73802 92
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -1662,7 +1661,7 @@ Validated: 5
 EndChar
 
 StartChar: u1204B
-Encoding: 73803 73803 93
+Encoding: 131 73803 93
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -1674,7 +1673,7 @@ Validated: 5
 EndChar
 
 StartChar: u1204C
-Encoding: 73804 73804 94
+Encoding: 132 73804 94
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -1686,7 +1685,7 @@ Validated: 5
 EndChar
 
 StartChar: u1204D
-Encoding: 73805 73805 95
+Encoding: 133 73805 95
 Width: 1316
 VWidth: 1000
 Flags: W
@@ -1698,7 +1697,7 @@ Validated: 5
 EndChar
 
 StartChar: u1204E
-Encoding: 73806 73806 96
+Encoding: 134 73806 96
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -1710,7 +1709,7 @@ Validated: 5
 EndChar
 
 StartChar: u1204F
-Encoding: 73807 73807 97
+Encoding: 135 73807 97
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -1722,7 +1721,7 @@ Validated: 5
 EndChar
 
 StartChar: u12050
-Encoding: 73808 73808 98
+Encoding: 136 73808 98
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -1734,7 +1733,7 @@ Validated: 5
 EndChar
 
 StartChar: u12051
-Encoding: 73809 73809 99
+Encoding: 137 73809 99
 Width: 1179
 VWidth: 1000
 Flags: W
@@ -1749,7 +1748,7 @@ Refer: 17 61709 N 1 0 0 1 584 95 2
 EndChar
 
 StartChar: u12052
-Encoding: 73810 73810 100
+Encoding: 138 73810 100
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -1761,7 +1760,7 @@ Validated: 5
 EndChar
 
 StartChar: u12053
-Encoding: 73811 73811 101
+Encoding: 139 73811 101
 Width: 1139
 VWidth: 1000
 Flags: HW
@@ -1776,7 +1775,7 @@ Refer: 11 61703 N 1 0 0 1 4.94629 175 2
 EndChar
 
 StartChar: u12054
-Encoding: 73812 73812 102
+Encoding: 140 73812 102
 Width: 1465
 VWidth: 1000
 Flags: W
@@ -1796,7 +1795,7 @@ Validated: 5
 EndChar
 
 StartChar: u12055
-Encoding: 73813 73813 103
+Encoding: 141 73813 103
 Width: 1343
 VWidth: 1000
 Flags: W
@@ -1813,7 +1812,7 @@ Refer: 7 61699 S 1 0 0 1 885 0 2
 EndChar
 
 StartChar: u12056
-Encoding: 73814 73814 104
+Encoding: 142 73814 104
 Width: 1233
 VWidth: 1000
 Flags: HW
@@ -1825,7 +1824,7 @@ Refer: 359 74069 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u12057
-Encoding: 73815 73815 105
+Encoding: 143 73815 105
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -1837,7 +1836,7 @@ Validated: 5
 EndChar
 
 StartChar: u12058
-Encoding: 73816 73816 106
+Encoding: 144 73816 106
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -1849,7 +1848,7 @@ Validated: 5
 EndChar
 
 StartChar: u12059
-Encoding: 73817 73817 107
+Encoding: 145 73817 107
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -1861,7 +1860,7 @@ Validated: 5
 EndChar
 
 StartChar: u1205A
-Encoding: 73818 73818 108
+Encoding: 146 73818 108
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -1873,7 +1872,7 @@ Validated: 5
 EndChar
 
 StartChar: u1205B
-Encoding: 73819 73819 109
+Encoding: 147 73819 109
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -1885,7 +1884,7 @@ Validated: 5
 EndChar
 
 StartChar: u1205C
-Encoding: 73820 73820 110
+Encoding: 148 73820 110
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -1897,7 +1896,7 @@ Validated: 5
 EndChar
 
 StartChar: u1205D
-Encoding: 73821 73821 111
+Encoding: 149 73821 111
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -1909,7 +1908,7 @@ Validated: 5
 EndChar
 
 StartChar: u1205E
-Encoding: 73822 73822 112
+Encoding: 150 73822 112
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -1921,7 +1920,7 @@ Validated: 5
 EndChar
 
 StartChar: u1205F
-Encoding: 73823 73823 113
+Encoding: 151 73823 113
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -1933,7 +1932,7 @@ Validated: 5
 EndChar
 
 StartChar: u12060
-Encoding: 73824 73824 114
+Encoding: 152 73824 114
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -1945,7 +1944,7 @@ Validated: 5
 EndChar
 
 StartChar: u12061
-Encoding: 73825 73825 115
+Encoding: 153 73825 115
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -1957,7 +1956,7 @@ Validated: 5
 EndChar
 
 StartChar: u12062
-Encoding: 73826 73826 116
+Encoding: 154 73826 116
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -1969,7 +1968,7 @@ Validated: 5
 EndChar
 
 StartChar: u12063
-Encoding: 73827 73827 117
+Encoding: 155 73827 117
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -1981,7 +1980,7 @@ Validated: 5
 EndChar
 
 StartChar: u12064
-Encoding: 73828 73828 118
+Encoding: 156 73828 118
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -1993,7 +1992,7 @@ Validated: 5
 EndChar
 
 StartChar: u12065
-Encoding: 73829 73829 119
+Encoding: 157 73829 119
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -2005,7 +2004,7 @@ Validated: 5
 EndChar
 
 StartChar: u12066
-Encoding: 73830 73830 120
+Encoding: 158 73830 120
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -2017,7 +2016,7 @@ Validated: 5
 EndChar
 
 StartChar: u12067
-Encoding: 73831 73831 121
+Encoding: 159 73831 121
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -2029,7 +2028,7 @@ Validated: 5
 EndChar
 
 StartChar: u12068
-Encoding: 73832 73832 122
+Encoding: 160 73832 122
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -2041,7 +2040,7 @@ Validated: 5
 EndChar
 
 StartChar: u12069
-Encoding: 73833 73833 123
+Encoding: 161 73833 123
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -2053,7 +2052,7 @@ Validated: 5
 EndChar
 
 StartChar: u1206A
-Encoding: 73834 73834 124
+Encoding: 162 73834 124
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -2065,7 +2064,7 @@ Validated: 5
 EndChar
 
 StartChar: u1206B
-Encoding: 73835 73835 125
+Encoding: 163 73835 125
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -2077,7 +2076,7 @@ Validated: 5
 EndChar
 
 StartChar: u1206C
-Encoding: 73836 73836 126
+Encoding: 164 73836 126
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -2089,7 +2088,7 @@ Validated: 5
 EndChar
 
 StartChar: u1206D
-Encoding: 73837 73837 127
+Encoding: 165 73837 127
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -2101,7 +2100,7 @@ Validated: 5
 EndChar
 
 StartChar: u1206E
-Encoding: 73838 73838 128
+Encoding: 166 73838 128
 Width: 1741
 VWidth: 1000
 Flags: W
@@ -2117,7 +2116,7 @@ Refer: 699 74409 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u1206F
-Encoding: 73839 73839 129
+Encoding: 167 73839 129
 Width: 1533
 VWidth: 1000
 Flags: W
@@ -2132,7 +2131,7 @@ Refer: 7 61699 N 1 0 0 1 430 0 2
 EndChar
 
 StartChar: u12070
-Encoding: 73840 73840 130
+Encoding: 168 73840 130
 Width: 1726
 VWidth: 1000
 Flags: W
@@ -2149,7 +2148,7 @@ Validated: 5
 EndChar
 
 StartChar: u12071
-Encoding: 73841 73841 131
+Encoding: 169 73841 131
 Width: 2240
 VWidth: 1000
 Flags: W
@@ -2161,7 +2160,7 @@ Refer: 754 74464 S 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u12072
-Encoding: 73842 73842 132
+Encoding: 170 73842 132
 Width: 1153
 Flags: W
 VStem: 428.478 27.0928<-0.0380533 297.667> 873.478 27.0928<-0.0380533 297.667>
@@ -2174,7 +2173,7 @@ Validated: 5
 EndChar
 
 StartChar: u12073
-Encoding: 73843 73843 133
+Encoding: 171 73843 133
 Width: 1303
 VWidth: 1000
 Flags: W
@@ -2186,7 +2185,7 @@ Refer: 444 74154 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u12074
-Encoding: 73844 73844 134
+Encoding: 172 73844 134
 Width: 1203
 VWidth: 1000
 Flags: W
@@ -2201,7 +2200,7 @@ Refer: 9 61701 N 1 0 0 1 285 -1 2
 EndChar
 
 StartChar: u12075
-Encoding: 73845 73845 135
+Encoding: 173 73845 135
 Width: 1360
 VWidth: 1000
 Flags: W
@@ -2217,7 +2216,7 @@ Refer: 9 61701 N 1 0 0 1 284.946 -1 2
 EndChar
 
 StartChar: u12076
-Encoding: 73846 73846 136
+Encoding: 174 73846 136
 Width: 1589
 VWidth: 1000
 Flags: W
@@ -2230,7 +2229,7 @@ Validated: 5
 EndChar
 
 StartChar: u12077
-Encoding: 73847 73847 137
+Encoding: 175 73847 137
 Width: 1082
 VWidth: 1000
 Flags: W
@@ -2245,7 +2244,7 @@ Validated: 5
 EndChar
 
 StartChar: u12078
-Encoding: 73848 73848 138
+Encoding: 176 73848 138
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -2257,7 +2256,7 @@ Validated: 5
 EndChar
 
 StartChar: uniF110
-Encoding: 61712 61712 139
+Encoding: 22 61712 139
 Width: 1000
 VWidth: 1000
 HStem: 0 21G<0 124.743 875.257 1000>
@@ -2300,7 +2299,7 @@ Validated: 5
 EndChar
 
 StartChar: u1207A
-Encoding: 73850 73850 140
+Encoding: 178 73850 140
 Width: 1116
 VWidth: 1000
 Flags: W
@@ -2315,7 +2314,7 @@ Refer: 7 61699 N 1 0 0 1 885 0 2
 EndChar
 
 StartChar: u1207B
-Encoding: 73851 73851 141
+Encoding: 179 73851 141
 Width: 1116
 VWidth: 1000
 Flags: W
@@ -2334,7 +2333,7 @@ Refer: 11 61703 N 1 0 0 1 285 5 2
 EndChar
 
 StartChar: u1207C
-Encoding: 73852 73852 142
+Encoding: 180 73852 142
 Width: 1536
 VWidth: 1000
 Flags: W
@@ -2347,7 +2346,7 @@ Refer: 745 74455 S 1 0 0 1 600 0 2
 EndChar
 
 StartChar: u1207D
-Encoding: 73853 73853 143
+Encoding: 181 73853 143
 Width: 1536
 VWidth: 1000
 Flags: W
@@ -2362,7 +2361,7 @@ Refer: 15 61707 N 1 0 0 1 215 -214.5 2
 EndChar
 
 StartChar: u1207E
-Encoding: 73854 73854 144
+Encoding: 182 73854 144
 Width: 1356
 VWidth: 1000
 Flags: W
@@ -2374,7 +2373,7 @@ Refer: 815 74525 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u1207F
-Encoding: 73855 73855 145
+Encoding: 183 73855 145
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -2386,7 +2385,7 @@ Validated: 5
 EndChar
 
 StartChar: u12080
-Encoding: 73856 73856 146
+Encoding: 184 73856 146
 Width: 1723
 VWidth: 1000
 Flags: W
@@ -2397,7 +2396,7 @@ Refer: 88 73798 S 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u12081
-Encoding: 73857 73857 147
+Encoding: 185 73857 147
 Width: 1130
 VWidth: 1000
 Flags: W
@@ -2411,7 +2410,7 @@ Refer: 291 74001 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u12082
-Encoding: 73858 73858 148
+Encoding: 186 73858 148
 Width: 1529
 Flags: HW
 LayerCount: 2
@@ -2428,7 +2427,7 @@ Refer: 1057 61714 S 1 0 0 1 -32.2797 32 2
 EndChar
 
 StartChar: u12083
-Encoding: 73859 73859 149
+Encoding: 187 73859 149
 Width: 1084
 VWidth: 1000
 Flags: W
@@ -2440,7 +2439,7 @@ Refer: 716 74426 N 1 0 0 1 410 0 2
 EndChar
 
 StartChar: u12084
-Encoding: 73860 73860 150
+Encoding: 188 73860 150
 Width: 1932
 VWidth: 1000
 Flags: HW
@@ -2453,7 +2452,7 @@ Refer: 636 74346 N 1 0 0 1 550 0 2
 EndChar
 
 StartChar: u12085
-Encoding: 73861 73861 151
+Encoding: 189 73861 151
 Width: 1466
 VWidth: 1000
 Flags: W
@@ -2464,7 +2463,7 @@ Refer: 152 73862 S 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u12086
-Encoding: 73862 73862 152
+Encoding: 190 73862 152
 Width: 1466
 VWidth: 1000
 Flags: W
@@ -2482,7 +2481,7 @@ Refer: 7 61699 N 1 0 0 1 1236 0 2
 EndChar
 
 StartChar: u12087
-Encoding: 73863 73863 153
+Encoding: 191 73863 153
 Width: 1751
 VWidth: 1000
 Flags: W
@@ -2496,7 +2495,7 @@ Refer: 152 73862 S 1 0 0 1 290 0 2
 EndChar
 
 StartChar: u12088
-Encoding: 73864 73864 154
+Encoding: 192 73864 154
 Width: 1751
 VWidth: 1000
 Flags: W
@@ -2518,7 +2517,7 @@ Refer: 17 61709 N 1 0 0 1 1325 95 2
 EndChar
 
 StartChar: u12089
-Encoding: 73865 73865 155
+Encoding: 193 73865 155
 Width: 1078
 VWidth: 1000
 Flags: W
@@ -2529,7 +2528,7 @@ Refer: 444 74154 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u1208A
-Encoding: 73866 73866 156
+Encoding: 194 73866 156
 Width: 892
 VWidth: 1000
 Flags: W
@@ -2541,7 +2540,7 @@ Refer: 291 74001 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u1208B
-Encoding: 73867 73867 157
+Encoding: 195 73867 157
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -2553,7 +2552,7 @@ Validated: 5
 EndChar
 
 StartChar: u1208C
-Encoding: 73868 73868 158
+Encoding: 196 73868 158
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -2565,7 +2564,7 @@ Validated: 5
 EndChar
 
 StartChar: u1208D
-Encoding: 73869 73869 159
+Encoding: 197 73869 159
 Width: 1352
 VWidth: 1000
 Flags: W
@@ -2579,7 +2578,7 @@ Refer: 291 74001 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u1208E
-Encoding: 73870 73870 160
+Encoding: 198 73870 160
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -2591,7 +2590,7 @@ Validated: 5
 EndChar
 
 StartChar: u1208F
-Encoding: 73871 73871 161
+Encoding: 199 73871 161
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -2603,7 +2602,7 @@ Validated: 5
 EndChar
 
 StartChar: u12090
-Encoding: 73872 73872 162
+Encoding: 200 73872 162
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -2615,7 +2614,7 @@ Validated: 5
 EndChar
 
 StartChar: u12091
-Encoding: 73873 73873 163
+Encoding: 201 73873 163
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -2627,7 +2626,7 @@ Validated: 5
 EndChar
 
 StartChar: u12092
-Encoding: 73874 73874 164
+Encoding: 202 73874 164
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -2639,7 +2638,7 @@ Validated: 5
 EndChar
 
 StartChar: u12093
-Encoding: 73875 73875 165
+Encoding: 203 73875 165
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -2651,7 +2650,7 @@ Validated: 5
 EndChar
 
 StartChar: u12094
-Encoding: 73876 73876 166
+Encoding: 204 73876 166
 Width: 1568
 VWidth: 1000
 Flags: W
@@ -2665,7 +2664,7 @@ Refer: 256 73966 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u12095
-Encoding: 73877 73877 167
+Encoding: 205 73877 167
 Width: 1922
 VWidth: 1000
 Flags: W
@@ -2683,7 +2682,7 @@ Refer: 11 61703 N 1 0 0 1 944 25 2
 EndChar
 
 StartChar: u12096
-Encoding: 73878 73878 168
+Encoding: 206 73878 168
 Width: 1332
 VWidth: 1000
 Flags: W
@@ -2697,7 +2696,7 @@ Refer: 749 74459 N 1 0 0 1 210 0 2
 EndChar
 
 StartChar: u12097
-Encoding: 73879 73879 169
+Encoding: 207 73879 169
 Width: 725
 VWidth: 1000
 Flags: W
@@ -2711,7 +2710,7 @@ Validated: 5
 EndChar
 
 StartChar: u12098
-Encoding: 73880 73880 170
+Encoding: 208 73880 170
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -2723,7 +2722,7 @@ Validated: 5
 EndChar
 
 StartChar: u12099
-Encoding: 73881 73881 171
+Encoding: 209 73881 171
 Width: 1734
 VWidth: 1000
 Flags: HW
@@ -2743,7 +2742,7 @@ Refer: 8 61700 N 1 0 0 1 344.946 -60 2
 EndChar
 
 StartChar: u1209A
-Encoding: 73882 73882 172
+Encoding: 210 73882 172
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -2755,7 +2754,7 @@ Validated: 5
 EndChar
 
 StartChar: u1209B
-Encoding: 73883 73883 173
+Encoding: 211 73883 173
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -2767,7 +2766,7 @@ Validated: 5
 EndChar
 
 StartChar: u1209C
-Encoding: 73884 73884 174
+Encoding: 212 73884 174
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -2779,7 +2778,7 @@ Validated: 5
 EndChar
 
 StartChar: u1209D
-Encoding: 73885 73885 175
+Encoding: 213 73885 175
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -2791,7 +2790,7 @@ Validated: 5
 EndChar
 
 StartChar: u1209E
-Encoding: 73886 73886 176
+Encoding: 214 73886 176
 Width: 2866
 VWidth: 1000
 Flags: W
@@ -2807,7 +2806,7 @@ Refer: 754 74464 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u1209F
-Encoding: 73887 73887 177
+Encoding: 215 73887 177
 Width: 660
 VWidth: 1000
 Flags: W
@@ -2819,7 +2818,7 @@ Validated: 5
 EndChar
 
 StartChar: u120A0
-Encoding: 73888 73888 178
+Encoding: 216 73888 178
 Width: 1078
 VWidth: 1000
 Flags: W
@@ -2830,7 +2829,7 @@ Refer: 444 74154 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u120A1
-Encoding: 73889 73889 179
+Encoding: 217 73889 179
 Width: 1668
 VWidth: 1000
 Flags: W
@@ -2850,7 +2849,7 @@ Validated: 5
 EndChar
 
 StartChar: u120A2
-Encoding: 73890 73890 180
+Encoding: 218 73890 180
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -2862,7 +2861,7 @@ Validated: 5
 EndChar
 
 StartChar: u120A3
-Encoding: 73891 73891 181
+Encoding: 219 73891 181
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -2874,7 +2873,7 @@ Validated: 5
 EndChar
 
 StartChar: u120A4
-Encoding: 73892 73892 182
+Encoding: 220 73892 182
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -2886,7 +2885,7 @@ Validated: 5
 EndChar
 
 StartChar: u120A5
-Encoding: 73893 73893 183
+Encoding: 221 73893 183
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -2898,7 +2897,7 @@ Validated: 5
 EndChar
 
 StartChar: u120A6
-Encoding: 73894 73894 184
+Encoding: 222 73894 184
 Width: 1668
 VWidth: 1000
 Flags: W
@@ -2919,7 +2918,7 @@ Refer: 7 61699 N 1 0 0 1 885 0 2
 EndChar
 
 StartChar: u120A7
-Encoding: 73895 73895 185
+Encoding: 223 73895 185
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -2931,7 +2930,7 @@ Validated: 5
 EndChar
 
 StartChar: u120A8
-Encoding: 73896 73896 186
+Encoding: 224 73896 186
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -2943,7 +2942,7 @@ Validated: 5
 EndChar
 
 StartChar: u120A9
-Encoding: 73897 73897 187
+Encoding: 225 73897 187
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -2955,7 +2954,7 @@ Validated: 5
 EndChar
 
 StartChar: u120AA
-Encoding: 73898 73898 188
+Encoding: 226 73898 188
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -2967,7 +2966,7 @@ Validated: 5
 EndChar
 
 StartChar: u120AB
-Encoding: 73899 73899 189
+Encoding: 227 73899 189
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -2979,7 +2978,7 @@ Validated: 5
 EndChar
 
 StartChar: u120AC
-Encoding: 73900 73900 190
+Encoding: 228 73900 190
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -2991,7 +2990,7 @@ Validated: 5
 EndChar
 
 StartChar: u120AD
-Encoding: 73901 73901 191
+Encoding: 229 73901 191
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -3003,7 +3002,7 @@ Validated: 5
 EndChar
 
 StartChar: u120AE
-Encoding: 73902 73902 192
+Encoding: 230 73902 192
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -3015,7 +3014,7 @@ Validated: 5
 EndChar
 
 StartChar: u120AF
-Encoding: 73903 73903 193
+Encoding: 231 73903 193
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -3027,7 +3026,7 @@ Validated: 5
 EndChar
 
 StartChar: u120B0
-Encoding: 73904 73904 194
+Encoding: 232 73904 194
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -3039,7 +3038,7 @@ Validated: 5
 EndChar
 
 StartChar: u120B1
-Encoding: 73905 73905 195
+Encoding: 233 73905 195
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -3051,7 +3050,7 @@ Validated: 5
 EndChar
 
 StartChar: u120B2
-Encoding: 73906 73906 196
+Encoding: 234 73906 196
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -3063,7 +3062,7 @@ Validated: 5
 EndChar
 
 StartChar: u120B3
-Encoding: 73907 73907 197
+Encoding: 235 73907 197
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -3075,7 +3074,7 @@ Validated: 5
 EndChar
 
 StartChar: u120B4
-Encoding: 73908 73908 198
+Encoding: 236 73908 198
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -3087,7 +3086,7 @@ Validated: 5
 EndChar
 
 StartChar: u120B5
-Encoding: 73909 73909 199
+Encoding: 237 73909 199
 Width: 1360
 VWidth: 1000
 Flags: W
@@ -3102,7 +3101,7 @@ Refer: 291 74001 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u120B6
-Encoding: 73910 73910 200
+Encoding: 238 73910 200
 Width: 1360
 VWidth: 1000
 Flags: W
@@ -3113,7 +3112,7 @@ Refer: 199 73909 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u120B7
-Encoding: 73911 73911 201
+Encoding: 239 73911 201
 Width: 1242
 VWidth: 1000
 Flags: HW
@@ -3125,7 +3124,7 @@ Refer: 606 74316 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u120B8
-Encoding: 73912 73912 202
+Encoding: 240 73912 202
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -3137,7 +3136,7 @@ Validated: 5
 EndChar
 
 StartChar: u120B9
-Encoding: 73913 73913 203
+Encoding: 241 73913 203
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -3149,7 +3148,7 @@ Validated: 5
 EndChar
 
 StartChar: u120BA
-Encoding: 73914 73914 204
+Encoding: 242 73914 204
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -3161,7 +3160,7 @@ Validated: 5
 EndChar
 
 StartChar: u120BB
-Encoding: 73915 73915 205
+Encoding: 243 73915 205
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -3173,7 +3172,7 @@ Validated: 5
 EndChar
 
 StartChar: u120BC
-Encoding: 73916 73916 206
+Encoding: 244 73916 206
 Width: 1242
 VWidth: 1000
 Flags: W
@@ -3189,7 +3188,7 @@ Refer: 63 73773 N 0.6 0 0 0.6 548.174 151.89 2
 EndChar
 
 StartChar: u120BD
-Encoding: 73917 73917 207
+Encoding: 245 73917 207
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -3201,7 +3200,7 @@ Validated: 5
 EndChar
 
 StartChar: u120BE
-Encoding: 73918 73918 208
+Encoding: 246 73918 208
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -3213,7 +3212,7 @@ Validated: 5
 EndChar
 
 StartChar: u120BF
-Encoding: 73919 73919 209
+Encoding: 247 73919 209
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -3225,7 +3224,7 @@ Validated: 5
 EndChar
 
 StartChar: u120C0
-Encoding: 73920 73920 210
+Encoding: 248 73920 210
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -3237,7 +3236,7 @@ Validated: 5
 EndChar
 
 StartChar: u120C1
-Encoding: 73921 73921 211
+Encoding: 249 73921 211
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -3249,7 +3248,7 @@ Validated: 5
 EndChar
 
 StartChar: u120C2
-Encoding: 73922 73922 212
+Encoding: 250 73922 212
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -3261,7 +3260,7 @@ Validated: 5
 EndChar
 
 StartChar: u120C3
-Encoding: 73923 73923 213
+Encoding: 251 73923 213
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -3273,7 +3272,7 @@ Validated: 5
 EndChar
 
 StartChar: u120C4
-Encoding: 73924 73924 214
+Encoding: 252 73924 214
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -3285,7 +3284,7 @@ Validated: 5
 EndChar
 
 StartChar: u120C5
-Encoding: 73925 73925 215
+Encoding: 253 73925 215
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -3297,7 +3296,7 @@ Validated: 5
 EndChar
 
 StartChar: u120C6
-Encoding: 73926 73926 216
+Encoding: 254 73926 216
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -3309,7 +3308,7 @@ Validated: 5
 EndChar
 
 StartChar: u120C7
-Encoding: 73927 73927 217
+Encoding: 255 73927 217
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -3321,7 +3320,7 @@ Validated: 5
 EndChar
 
 StartChar: u120C8
-Encoding: 73928 73928 218
+Encoding: 256 73928 218
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -3333,7 +3332,7 @@ Validated: 5
 EndChar
 
 StartChar: u120C9
-Encoding: 73929 73929 219
+Encoding: 257 73929 219
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -3345,7 +3344,7 @@ Validated: 5
 EndChar
 
 StartChar: u120CA
-Encoding: 73930 73930 220
+Encoding: 258 73930 220
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -3357,7 +3356,7 @@ Validated: 5
 EndChar
 
 StartChar: u120CB
-Encoding: 73931 73931 221
+Encoding: 259 73931 221
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -3369,7 +3368,7 @@ Validated: 5
 EndChar
 
 StartChar: u120CC
-Encoding: 73932 73932 222
+Encoding: 260 73932 222
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -3381,7 +3380,7 @@ Validated: 5
 EndChar
 
 StartChar: u120CD
-Encoding: 73933 73933 223
+Encoding: 261 73933 223
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -3393,7 +3392,7 @@ Validated: 5
 EndChar
 
 StartChar: u120CE
-Encoding: 73934 73934 224
+Encoding: 262 73934 224
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -3405,7 +3404,7 @@ Validated: 5
 EndChar
 
 StartChar: u120CF
-Encoding: 73935 73935 225
+Encoding: 263 73935 225
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -3417,7 +3416,7 @@ Validated: 5
 EndChar
 
 StartChar: u120D0
-Encoding: 73936 73936 226
+Encoding: 264 73936 226
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -3429,7 +3428,7 @@ Validated: 5
 EndChar
 
 StartChar: u120D1
-Encoding: 73937 73937 227
+Encoding: 265 73937 227
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -3441,7 +3440,7 @@ Validated: 5
 EndChar
 
 StartChar: u120D2
-Encoding: 73938 73938 228
+Encoding: 266 73938 228
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -3453,7 +3452,7 @@ Validated: 5
 EndChar
 
 StartChar: u120D3
-Encoding: 73939 73939 229
+Encoding: 267 73939 229
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -3465,7 +3464,7 @@ Validated: 5
 EndChar
 
 StartChar: u120D4
-Encoding: 73940 73940 230
+Encoding: 268 73940 230
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -3477,7 +3476,7 @@ Validated: 5
 EndChar
 
 StartChar: u120D5
-Encoding: 73941 73941 231
+Encoding: 269 73941 231
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -3489,7 +3488,7 @@ Validated: 5
 EndChar
 
 StartChar: u120D6
-Encoding: 73942 73942 232
+Encoding: 270 73942 232
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -3501,7 +3500,7 @@ Validated: 5
 EndChar
 
 StartChar: u120D7
-Encoding: 73943 73943 233
+Encoding: 271 73943 233
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -3513,7 +3512,7 @@ Validated: 5
 EndChar
 
 StartChar: u120D8
-Encoding: 73944 73944 234
+Encoding: 272 73944 234
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -3525,7 +3524,7 @@ Validated: 5
 EndChar
 
 StartChar: u120D9
-Encoding: 73945 73945 235
+Encoding: 273 73945 235
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -3537,7 +3536,7 @@ Validated: 5
 EndChar
 
 StartChar: u120DA
-Encoding: 73946 73946 236
+Encoding: 274 73946 236
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -3549,7 +3548,7 @@ Validated: 5
 EndChar
 
 StartChar: u120DB
-Encoding: 73947 73947 237
+Encoding: 275 73947 237
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -3561,7 +3560,7 @@ Validated: 5
 EndChar
 
 StartChar: u120DC
-Encoding: 73948 73948 238
+Encoding: 276 73948 238
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -3573,7 +3572,7 @@ Validated: 5
 EndChar
 
 StartChar: u120DD
-Encoding: 73949 73949 239
+Encoding: 277 73949 239
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -3585,7 +3584,7 @@ Validated: 5
 EndChar
 
 StartChar: u120DE
-Encoding: 73950 73950 240
+Encoding: 278 73950 240
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -3597,7 +3596,7 @@ Validated: 5
 EndChar
 
 StartChar: u120DF
-Encoding: 73951 73951 241
+Encoding: 279 73951 241
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -3609,7 +3608,7 @@ Validated: 5
 EndChar
 
 StartChar: u120E0
-Encoding: 73952 73952 242
+Encoding: 280 73952 242
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -3621,7 +3620,7 @@ Validated: 5
 EndChar
 
 StartChar: u120E1
-Encoding: 73953 73953 243
+Encoding: 281 73953 243
 Width: 1242
 VWidth: 1000
 Flags: HW
@@ -3637,7 +3636,7 @@ Refer: 7 61699 N 1 0 0 1 1260 0 2
 EndChar
 
 StartChar: u120E2
-Encoding: 73954 73954 244
+Encoding: 282 73954 244
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -3649,7 +3648,7 @@ Validated: 5
 EndChar
 
 StartChar: u120E3
-Encoding: 73955 73955 245
+Encoding: 283 73955 245
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -3661,7 +3660,7 @@ Validated: 5
 EndChar
 
 StartChar: u120E4
-Encoding: 73956 73956 246
+Encoding: 284 73956 246
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -3673,7 +3672,7 @@ Validated: 5
 EndChar
 
 StartChar: u120E5
-Encoding: 73957 73957 247
+Encoding: 285 73957 247
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -3685,7 +3684,7 @@ Validated: 5
 EndChar
 
 StartChar: u120E6
-Encoding: 73958 73958 248
+Encoding: 286 73958 248
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -3697,7 +3696,7 @@ Validated: 5
 EndChar
 
 StartChar: u120E7
-Encoding: 73959 73959 249
+Encoding: 287 73959 249
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -3709,7 +3708,7 @@ Validated: 5
 EndChar
 
 StartChar: u120E8
-Encoding: 73960 73960 250
+Encoding: 288 73960 250
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -3721,7 +3720,7 @@ Validated: 5
 EndChar
 
 StartChar: u120E9
-Encoding: 73961 73961 251
+Encoding: 289 73961 251
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -3733,7 +3732,7 @@ Validated: 5
 EndChar
 
 StartChar: u120EA
-Encoding: 73962 73962 252
+Encoding: 290 73962 252
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -3745,7 +3744,7 @@ Validated: 5
 EndChar
 
 StartChar: u120EB
-Encoding: 73963 73963 253
+Encoding: 291 73963 253
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -3757,7 +3756,7 @@ Validated: 5
 EndChar
 
 StartChar: u120EC
-Encoding: 73964 73964 254
+Encoding: 292 73964 254
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -3769,7 +3768,7 @@ Validated: 5
 EndChar
 
 StartChar: u120ED
-Encoding: 73965 73965 255
+Encoding: 293 73965 255
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -3781,7 +3780,7 @@ Validated: 5
 EndChar
 
 StartChar: u120EE
-Encoding: 73966 73966 256
+Encoding: 294 73966 256
 Width: 1084
 VWidth: 1000
 Flags: W
@@ -3791,7 +3790,7 @@ Refer: 149 73859 S 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u120EF
-Encoding: 73967 73967 257
+Encoding: 295 73967 257
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -3803,7 +3802,7 @@ Validated: 5
 EndChar
 
 StartChar: u120F0
-Encoding: 73968 73968 258
+Encoding: 296 73968 258
 Width: 800
 VWidth: 1000
 Flags: W
@@ -3816,7 +3815,7 @@ Validated: 5
 EndChar
 
 StartChar: u120F1
-Encoding: 73969 73969 259
+Encoding: 297 73969 259
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -3828,7 +3827,7 @@ Validated: 5
 EndChar
 
 StartChar: u120F2
-Encoding: 73970 73970 260
+Encoding: 298 73970 260
 Width: 1201
 VWidth: 1000
 Flags: W
@@ -3840,7 +3839,7 @@ Refer: 562 74272 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u120F3
-Encoding: 73971 73971 261
+Encoding: 299 73971 261
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -3852,7 +3851,7 @@ Validated: 5
 EndChar
 
 StartChar: u120F4
-Encoding: 73972 73972 262
+Encoding: 300 73972 262
 Width: 1527
 Flags: W
 LayerCount: 2
@@ -3866,7 +3865,7 @@ Refer: 11 61703 N 1 0 0 1 5 230 2
 EndChar
 
 StartChar: u120F5
-Encoding: 73973 73973 263
+Encoding: 301 73973 263
 Width: 631
 VWidth: 1000
 Flags: W
@@ -3877,7 +3876,7 @@ Refer: 17 61709 N 1 0 0 1 84 -110 2
 EndChar
 
 StartChar: u120F6
-Encoding: 73974 73974 264
+Encoding: 302 73974 264
 Width: 1252
 VWidth: 1000
 Flags: W
@@ -3892,7 +3891,7 @@ Refer: 10 61702 S 1 0 0 1 735 -285 2
 EndChar
 
 StartChar: u120F7
-Encoding: 73975 73975 265
+Encoding: 303 73975 265
 Width: 1242
 VWidth: 1000
 Flags: W
@@ -3905,7 +3904,7 @@ Validated: 5
 EndChar
 
 StartChar: u120F8
-Encoding: 73976 73976 266
+Encoding: 304 73976 266
 Width: 1242
 VWidth: 1000
 Flags: W
@@ -3917,7 +3916,7 @@ Validated: 5
 EndChar
 
 StartChar: u120F9
-Encoding: 73977 73977 267
+Encoding: 305 73977 267
 Width: 1242
 VWidth: 1000
 Flags: W
@@ -3930,7 +3929,7 @@ Validated: 5
 EndChar
 
 StartChar: u120FA
-Encoding: 73978 73978 268
+Encoding: 306 73978 268
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -3942,7 +3941,7 @@ Validated: 5
 EndChar
 
 StartChar: u120FB
-Encoding: 73979 73979 269
+Encoding: 307 73979 269
 Width: 691
 VWidth: 1000
 Flags: W
@@ -3954,7 +3953,7 @@ Refer: 16 61708 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u120FC
-Encoding: 73980 73980 270
+Encoding: 308 73980 270
 Width: 1273
 VWidth: 1000
 Flags: W
@@ -3967,7 +3966,7 @@ Refer: 18 61710 N 1 0 0 1 480 0 2
 EndChar
 
 StartChar: u120FD
-Encoding: 73981 73981 271
+Encoding: 309 73981 271
 Width: 1040
 VWidth: 1000
 Flags: W
@@ -3982,7 +3981,7 @@ Validated: 5
 EndChar
 
 StartChar: u120FE
-Encoding: 73982 73982 272
+Encoding: 310 73982 272
 Width: 1521
 VWidth: 1000
 Flags: W
@@ -3998,7 +3997,7 @@ Refer: 7 61699 N 1 0 0 1 904 0 2
 EndChar
 
 StartChar: u120FF
-Encoding: 73983 73983 273
+Encoding: 311 73983 273
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -4010,7 +4009,7 @@ Validated: 5
 EndChar
 
 StartChar: u12100
-Encoding: 73984 73984 274
+Encoding: 312 73984 274
 Width: 1412
 VWidth: 1000
 Flags: W
@@ -4024,7 +4023,7 @@ Refer: 9 61701 N 1 0 0 1 284 0 2
 EndChar
 
 StartChar: u12101
-Encoding: 73985 73985 275
+Encoding: 313 73985 275
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -4036,7 +4035,7 @@ Validated: 5
 EndChar
 
 StartChar: u12102
-Encoding: 73986 73986 276
+Encoding: 314 73986 276
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -4048,7 +4047,7 @@ Validated: 5
 EndChar
 
 StartChar: u12103
-Encoding: 73987 73987 277
+Encoding: 315 73987 277
 Width: 2300
 VWidth: 1000
 Flags: W
@@ -4063,7 +4062,7 @@ Refer: 879 74589 N 1 0 0 1 430 0 2
 EndChar
 
 StartChar: u12104
-Encoding: 73988 73988 278
+Encoding: 316 73988 278
 Width: 2020
 VWidth: 1000
 Flags: W
@@ -4080,7 +4079,7 @@ Refer: 11 61703 N 1 0 0 1 5 200 2
 EndChar
 
 StartChar: u12105
-Encoding: 73989 73989 279
+Encoding: 317 73989 279
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -4092,7 +4091,7 @@ Validated: 5
 EndChar
 
 StartChar: u12106
-Encoding: 73990 73990 280
+Encoding: 318 73990 280
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -4104,7 +4103,7 @@ Validated: 5
 EndChar
 
 StartChar: u12107
-Encoding: 73991 73991 281
+Encoding: 319 73991 281
 Width: 2151
 VWidth: 1000
 Flags: W
@@ -4123,7 +4122,7 @@ Refer: 747 74457 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u12108
-Encoding: 73992 73992 282
+Encoding: 320 73992 282
 Width: 1226
 VWidth: 1000
 Flags: W
@@ -4141,7 +4140,7 @@ Validated: 5
 EndChar
 
 StartChar: u12109
-Encoding: 73993 73993 283
+Encoding: 321 73993 283
 Width: 1226
 VWidth: 1000
 Flags: W
@@ -4154,7 +4153,7 @@ Validated: 5
 EndChar
 
 StartChar: u1210A
-Encoding: 73994 73994 284
+Encoding: 322 73994 284
 Width: 1200
 VWidth: 1000
 Flags: W
@@ -4168,7 +4167,7 @@ Refer: 9 61701 S 1 0 0 1 685 0 2
 EndChar
 
 StartChar: u1210B
-Encoding: 73995 73995 285
+Encoding: 323 73995 285
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -4180,7 +4179,7 @@ Validated: 5
 EndChar
 
 StartChar: u1210C
-Encoding: 73996 73996 286
+Encoding: 324 73996 286
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -4192,7 +4191,7 @@ Validated: 5
 EndChar
 
 StartChar: u1210D
-Encoding: 73997 73997 287
+Encoding: 325 73997 287
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -4204,7 +4203,7 @@ Validated: 5
 EndChar
 
 StartChar: u1210E
-Encoding: 73998 73998 288
+Encoding: 326 73998 288
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -4216,7 +4215,7 @@ Validated: 5
 EndChar
 
 StartChar: u1210F
-Encoding: 73999 73999 289
+Encoding: 327 73999 289
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -4228,7 +4227,7 @@ Validated: 5
 EndChar
 
 StartChar: u12110
-Encoding: 74000 74000 290
+Encoding: 328 74000 290
 Width: 1391
 VWidth: 1000
 Flags: W
@@ -4240,7 +4239,7 @@ Refer: 291 74001 N 1 0 0 1 730 0 2
 EndChar
 
 StartChar: u12111
-Encoding: 74001 74001 291
+Encoding: 329 74001 291
 Width: 661
 VWidth: 1000
 Flags: W
@@ -4253,7 +4252,7 @@ Refer: 7 61699 N 1 0 0 1 430 0 2
 EndChar
 
 StartChar: u12112
-Encoding: 74002 74002 292
+Encoding: 330 74002 292
 Width: 992
 VWidth: 1000
 Flags: W
@@ -4265,7 +4264,7 @@ Refer: 91 73801 S 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u12113
-Encoding: 74003 74003 293
+Encoding: 331 74003 293
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -4277,7 +4276,7 @@ Validated: 5
 EndChar
 
 StartChar: u12114
-Encoding: 74004 74004 294
+Encoding: 332 74004 294
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -4289,7 +4288,7 @@ Validated: 5
 EndChar
 
 StartChar: u12115
-Encoding: 74005 74005 295
+Encoding: 333 74005 295
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -4301,7 +4300,7 @@ Validated: 5
 EndChar
 
 StartChar: u12116
-Encoding: 74006 74006 296
+Encoding: 334 74006 296
 Width: 1107
 VWidth: 1000
 Flags: W
@@ -4315,7 +4314,7 @@ Validated: 5
 EndChar
 
 StartChar: u12117
-Encoding: 74007 74007 297
+Encoding: 335 74007 297
 Width: 1449
 VWidth: 1000
 Flags: W
@@ -4330,7 +4329,7 @@ Validated: 5
 EndChar
 
 StartChar: u12118
-Encoding: 74008 74008 298
+Encoding: 336 74008 298
 Width: 1450
 VWidth: 1000
 Flags: HW
@@ -4345,7 +4344,7 @@ Refer: 10 61702 N 1 0 0 1 485 288.5 2
 EndChar
 
 StartChar: u12119
-Encoding: 74009 74009 299
+Encoding: 337 74009 299
 Width: 2490
 VWidth: 1000
 Flags: HW
@@ -4357,7 +4356,7 @@ Refer: 298 74008 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u1211A
-Encoding: 74010 74010 300
+Encoding: 338 74010 300
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -4369,7 +4368,7 @@ Validated: 5
 EndChar
 
 StartChar: u1211B
-Encoding: 74011 74011 301
+Encoding: 339 74011 301
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -4381,7 +4380,7 @@ Validated: 5
 EndChar
 
 StartChar: u1211C
-Encoding: 74012 74012 302
+Encoding: 340 74012 302
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -4393,7 +4392,7 @@ Validated: 5
 EndChar
 
 StartChar: u1211D
-Encoding: 74013 74013 303
+Encoding: 341 74013 303
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -4405,7 +4404,7 @@ Validated: 5
 EndChar
 
 StartChar: u1211E
-Encoding: 74014 74014 304
+Encoding: 342 74014 304
 Width: 901
 VWidth: 1000
 Flags: W
@@ -4418,7 +4417,7 @@ Refer: 291 74001 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u1211F
-Encoding: 74015 74015 305
+Encoding: 343 74015 305
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -4430,7 +4429,7 @@ Validated: 5
 EndChar
 
 StartChar: u12120
-Encoding: 74016 74016 306
+Encoding: 344 74016 306
 Width: 1160
 VWidth: 1000
 Flags: W
@@ -4442,7 +4441,7 @@ Refer: 937 74647 S 1 0 0 1 335 0 2
 EndChar
 
 StartChar: u12121
-Encoding: 74017 74017 307
+Encoding: 345 74017 307
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -4454,7 +4453,7 @@ Validated: 5
 EndChar
 
 StartChar: u12122
-Encoding: 74018 74018 308
+Encoding: 346 74018 308
 Width: 1331
 Flags: W
 VStem: 1178.48 27.0928<-0.0380533 297.667>
@@ -4470,7 +4469,7 @@ Refer: 1057 61714 N 1 0 0 1 -32 32 2
 EndChar
 
 StartChar: u12123
-Encoding: 74019 74019 309
+Encoding: 347 74019 309
 Width: 1490
 VWidth: 1000
 Flags: W
@@ -4482,7 +4481,7 @@ Refer: 83 73793 N 1 0 0 1 0 95 2
 EndChar
 
 StartChar: u12124
-Encoding: 74020 74020 310
+Encoding: 348 74020 310
 Width: 1438
 Flags: HW
 LayerCount: 2
@@ -4493,7 +4492,7 @@ Refer: 11 61703 N 1 0 0 1 0 -230 2
 EndChar
 
 StartChar: u12125
-Encoding: 74021 74021 311
+Encoding: 349 74021 311
 Width: 892
 VWidth: 1000
 Flags: W
@@ -4507,7 +4506,7 @@ Refer: 7 61699 N 1 0 0 1 660 0 2
 EndChar
 
 StartChar: u12126
-Encoding: 74022 74022 312
+Encoding: 350 74022 312
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -4519,7 +4518,7 @@ Validated: 5
 EndChar
 
 StartChar: u12127
-Encoding: 74023 74023 313
+Encoding: 351 74023 313
 Width: 1130
 VWidth: 1000
 Flags: W
@@ -4535,7 +4534,7 @@ Refer: 747 74457 N 1 0 0 1 362 0 2
 EndChar
 
 StartChar: u12128
-Encoding: 74024 74024 314
+Encoding: 352 74024 314
 Width: 1121
 VWidth: 1000
 Flags: W
@@ -4547,7 +4546,7 @@ Refer: 291 74001 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u12129
-Encoding: 74025 74025 315
+Encoding: 353 74025 315
 Width: 714
 VWidth: 1000
 Flags: W
@@ -4561,7 +4560,7 @@ Validated: 5
 EndChar
 
 StartChar: u1212A
-Encoding: 74026 74026 316
+Encoding: 354 74026 316
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -4573,7 +4572,7 @@ Validated: 5
 EndChar
 
 StartChar: u1212B
-Encoding: 74027 74027 317
+Encoding: 355 74027 317
 Width: 1165
 VWidth: 1000
 Flags: W
@@ -4587,7 +4586,7 @@ Refer: 315 74025 N 1 0 0 1 451 0 2
 EndChar
 
 StartChar: u1212C
-Encoding: 74028 74028 318
+Encoding: 356 74028 318
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -4598,7 +4597,7 @@ Refer: 11 61703 N 1 0 0 1 5 -55 2
 EndChar
 
 StartChar: u1212D
-Encoding: 74029 74029 319
+Encoding: 357 74029 319
 Width: 800
 VWidth: 1000
 Flags: W
@@ -4608,7 +4607,7 @@ Refer: 937 74647 S 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u1212E
-Encoding: 74030 74030 320
+Encoding: 358 74030 320
 Width: 1493
 VWidth: 1000
 Flags: W
@@ -4619,7 +4618,7 @@ Refer: 319 74029 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u1212F
-Encoding: 74031 74031 321
+Encoding: 359 74031 321
 Width: 1473
 VWidth: 1000
 Flags: W
@@ -4631,7 +4630,7 @@ Refer: 319 74029 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u12130
-Encoding: 74032 74032 322
+Encoding: 360 74032 322
 Width: 1299
 VWidth: 1000
 Flags: W
@@ -4641,7 +4640,7 @@ Refer: 428 74138 N 0.866025 -0.5 0.5 0.866025 -63.5703 351.902 2
 EndChar
 
 StartChar: u12131
-Encoding: 74033 74033 323
+Encoding: 361 74033 323
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -4653,7 +4652,7 @@ Validated: 5
 EndChar
 
 StartChar: u12132
-Encoding: 74034 74034 324
+Encoding: 362 74034 324
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -4665,7 +4664,7 @@ Validated: 5
 EndChar
 
 StartChar: u12133
-Encoding: 74035 74035 325
+Encoding: 363 74035 325
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -4677,7 +4676,7 @@ Validated: 5
 EndChar
 
 StartChar: u12134
-Encoding: 74036 74036 326
+Encoding: 364 74036 326
 Width: 2051
 VWidth: 1000
 Flags: W
@@ -4694,7 +4693,7 @@ Refer: 319 74029 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u12135
-Encoding: 74037 74037 327
+Encoding: 365 74037 327
 Width: 2000
 VWidth: 1000
 Flags: W
@@ -4705,7 +4704,7 @@ Refer: 319 74029 N 1 0 0 1 0.0987597 0 2
 EndChar
 
 StartChar: u12136
-Encoding: 74038 74038 328
+Encoding: 366 74038 328
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -4717,7 +4716,7 @@ Validated: 5
 EndChar
 
 StartChar: u12137
-Encoding: 74039 74039 329
+Encoding: 367 74039 329
 Width: 715
 VWidth: 1000
 Flags: W
@@ -4731,7 +4730,7 @@ Validated: 5
 EndChar
 
 StartChar: u12138
-Encoding: 74040 74040 330
+Encoding: 368 74040 330
 Width: 947
 VWidth: 1000
 Flags: W
@@ -4743,7 +4742,7 @@ Validated: 5
 EndChar
 
 StartChar: u12139
-Encoding: 74041 74041 331
+Encoding: 369 74041 331
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -4755,7 +4754,7 @@ Validated: 5
 EndChar
 
 StartChar: u1213A
-Encoding: 74042 74042 332
+Encoding: 370 74042 332
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -4767,7 +4766,7 @@ Validated: 5
 EndChar
 
 StartChar: u1213B
-Encoding: 74043 74043 333
+Encoding: 371 74043 333
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -4779,7 +4778,7 @@ Validated: 5
 EndChar
 
 StartChar: u1213C
-Encoding: 74044 74044 334
+Encoding: 372 74044 334
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -4791,7 +4790,7 @@ Validated: 5
 EndChar
 
 StartChar: u1213D
-Encoding: 74045 74045 335
+Encoding: 373 74045 335
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -4803,7 +4802,7 @@ Validated: 5
 EndChar
 
 StartChar: u1213E
-Encoding: 74046 74046 336
+Encoding: 374 74046 336
 Width: 1437
 VWidth: 1000
 Flags: W
@@ -4815,7 +4814,7 @@ Refer: 747 74457 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u1213F
-Encoding: 74047 74047 337
+Encoding: 375 74047 337
 Width: 1252
 VWidth: 1000
 Flags: W
@@ -4829,7 +4828,7 @@ Refer: 10 61702 N 1 0 0 1 735 -55 2
 EndChar
 
 StartChar: u12140
-Encoding: 74048 74048 338
+Encoding: 376 74048 338
 Width: 1617
 VWidth: 1000
 Flags: W
@@ -4840,7 +4839,7 @@ Refer: 337 74047 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u12141
-Encoding: 74049 74049 339
+Encoding: 377 74049 339
 Width: 1078
 VWidth: 1000
 Flags: W
@@ -4856,7 +4855,7 @@ Validated: 5
 EndChar
 
 StartChar: u12142
-Encoding: 74050 74050 340
+Encoding: 378 74050 340
 Width: 760
 VWidth: 1000
 Flags: W
@@ -4866,7 +4865,7 @@ Refer: 873 74583 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u12143
-Encoding: 74051 74051 341
+Encoding: 379 74051 341
 Width: 1901
 VWidth: 1000
 Flags: HW
@@ -4879,7 +4878,7 @@ Refer: 91 73801 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u12144
-Encoding: 74052 74052 342
+Encoding: 380 74052 342
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -4891,7 +4890,7 @@ Validated: 5
 EndChar
 
 StartChar: u12145
-Encoding: 74053 74053 343
+Encoding: 381 74053 343
 Width: 1105
 VWidth: 1000
 Flags: W
@@ -4909,7 +4908,7 @@ Validated: 5
 EndChar
 
 StartChar: u12146
-Encoding: 74054 74054 344
+Encoding: 382 74054 344
 Width: 1154
 Flags: W
 VStem: 428.478 27.0928<-0.0380533 297.667>
@@ -4921,7 +4920,7 @@ Validated: 5
 EndChar
 
 StartChar: u12147
-Encoding: 74055 74055 345
+Encoding: 383 74055 345
 Width: 2065
 Flags: W
 VStem: 428.478 27.0928<-0.0380533 297.667> 992.477 27.0928<-0.0380533 297.667> 1682.48 27.0928<-0.0380533 297.667> 1912.48 27.0928<-0.0380533 297.667>
@@ -4934,7 +4933,7 @@ Refer: 133 73843 N 1 0 0 1 760 0 2
 EndChar
 
 StartChar: u12148
-Encoding: 74056 74056 346
+Encoding: 384 74056 346
 Width: 1976
 VWidth: 1000
 Flags: W
@@ -4949,7 +4948,7 @@ Validated: 5
 EndChar
 
 StartChar: u12149
-Encoding: 74057 74057 347
+Encoding: 385 74057 347
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -4961,7 +4960,7 @@ Validated: 5
 EndChar
 
 StartChar: u1214A
-Encoding: 74058 74058 348
+Encoding: 386 74058 348
 Width: 1147
 VWidth: 1000
 Flags: W
@@ -4978,7 +4977,7 @@ Refer: 7 61699 N 1 0 0 1 745 0 2
 EndChar
 
 StartChar: u1214B
-Encoding: 74059 74059 349
+Encoding: 387 74059 349
 Width: 1536
 VWidth: 1000
 Flags: W
@@ -4994,7 +4993,7 @@ Refer: 873 74583 N 1 0 0 1 0 175.5 2
 EndChar
 
 StartChar: u1214C
-Encoding: 74060 74060 350
+Encoding: 388 74060 350
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -5006,7 +5005,7 @@ Validated: 5
 EndChar
 
 StartChar: u1214D
-Encoding: 74061 74061 351
+Encoding: 389 74061 351
 Width: 2797
 VWidth: 1000
 Flags: W
@@ -5018,7 +5017,7 @@ Refer: 199 73909 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u1214E
-Encoding: 74062 74062 352
+Encoding: 390 74062 352
 Width: 1407
 VWidth: 1000
 Flags: W
@@ -5032,7 +5031,7 @@ Refer: 18 61710 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u1214F
-Encoding: 74063 74063 353
+Encoding: 391 74063 353
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -5044,7 +5043,7 @@ Validated: 5
 EndChar
 
 StartChar: u12150
-Encoding: 74064 74064 354
+Encoding: 392 74064 354
 Width: 2064
 VWidth: 1000
 Flags: W
@@ -5059,7 +5058,7 @@ Refer: 18 61710 N 1 0 0 1 0 -260 2
 EndChar
 
 StartChar: u12151
-Encoding: 74065 74065 355
+Encoding: 393 74065 355
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -5071,7 +5070,7 @@ Validated: 5
 EndChar
 
 StartChar: u12152
-Encoding: 74066 74066 356
+Encoding: 394 74066 356
 Width: 3253
 VWidth: 1000
 Flags: W
@@ -5085,7 +5084,7 @@ Refer: 352 74062 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u12153
-Encoding: 74067 74067 357
+Encoding: 395 74067 357
 Width: 692
 VWidth: 1000
 Flags: W
@@ -5097,7 +5096,7 @@ Refer: 1006 74818 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u12154
-Encoding: 74068 74068 358
+Encoding: 396 74068 358
 Width: 1981
 VWidth: 1000
 Flags: HW
@@ -5113,7 +5112,7 @@ Refer: 8 61700 N 0 1 -1 0 970.16 569.291 2
 EndChar
 
 StartChar: u12155
-Encoding: 74069 74069 359
+Encoding: 397 74069 359
 Width: 1084
 VWidth: 1000
 Flags: HW
@@ -5125,7 +5124,7 @@ Refer: 8 61700 N 1 0 0 1 725 0 2
 EndChar
 
 StartChar: u12156
-Encoding: 74070 74070 360
+Encoding: 398 74070 360
 Width: 1343
 VWidth: 1000
 Flags: W
@@ -5141,7 +5140,7 @@ Validated: 5
 EndChar
 
 StartChar: u12157
-Encoding: 74071 74071 361
+Encoding: 399 74071 361
 Width: 1600
 VWidth: 1000
 Flags: W
@@ -5159,7 +5158,7 @@ Validated: 5
 EndChar
 
 StartChar: u12158
-Encoding: 74072 74072 362
+Encoding: 400 74072 362
 Width: 1657
 VWidth: 1000
 Flags: W
@@ -5178,7 +5177,7 @@ Validated: 5
 EndChar
 
 StartChar: u12159
-Encoding: 74073 74073 363
+Encoding: 401 74073 363
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -5190,7 +5189,7 @@ Validated: 5
 EndChar
 
 StartChar: u1215A
-Encoding: 74074 74074 364
+Encoding: 402 74074 364
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -5202,7 +5201,7 @@ Validated: 5
 EndChar
 
 StartChar: u1215B
-Encoding: 74075 74075 365
+Encoding: 403 74075 365
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -5214,7 +5213,7 @@ Validated: 5
 EndChar
 
 StartChar: u1215C
-Encoding: 74076 74076 366
+Encoding: 404 74076 366
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -5226,7 +5225,7 @@ Validated: 5
 EndChar
 
 StartChar: u1215D
-Encoding: 74077 74077 367
+Encoding: 405 74077 367
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -5238,7 +5237,7 @@ Validated: 5
 EndChar
 
 StartChar: u1215E
-Encoding: 74078 74078 368
+Encoding: 406 74078 368
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -5250,7 +5249,7 @@ Validated: 5
 EndChar
 
 StartChar: u1215F
-Encoding: 74079 74079 369
+Encoding: 407 74079 369
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -5262,7 +5261,7 @@ Validated: 5
 EndChar
 
 StartChar: u12160
-Encoding: 74080 74080 370
+Encoding: 408 74080 370
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -5274,7 +5273,7 @@ Validated: 5
 EndChar
 
 StartChar: u12161
-Encoding: 74081 74081 371
+Encoding: 409 74081 371
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -5286,7 +5285,7 @@ Validated: 5
 EndChar
 
 StartChar: u12162
-Encoding: 74082 74082 372
+Encoding: 410 74082 372
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -5298,7 +5297,7 @@ Validated: 5
 EndChar
 
 StartChar: u12163
-Encoding: 74083 74083 373
+Encoding: 411 74083 373
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -5310,7 +5309,7 @@ Validated: 5
 EndChar
 
 StartChar: u12164
-Encoding: 74084 74084 374
+Encoding: 412 74084 374
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -5322,7 +5321,7 @@ Validated: 5
 EndChar
 
 StartChar: u12165
-Encoding: 74085 74085 375
+Encoding: 413 74085 375
 Width: 1657
 VWidth: 1000
 Flags: W
@@ -5341,7 +5340,7 @@ Refer: 7 61699 N 1 0 0 1 645 0 2
 EndChar
 
 StartChar: u12166
-Encoding: 74086 74086 376
+Encoding: 414 74086 376
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -5353,7 +5352,7 @@ Validated: 5
 EndChar
 
 StartChar: u12167
-Encoding: 74087 74087 377
+Encoding: 415 74087 377
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -5365,7 +5364,7 @@ Validated: 5
 EndChar
 
 StartChar: u12168
-Encoding: 74088 74088 378
+Encoding: 416 74088 378
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -5377,7 +5376,7 @@ Validated: 5
 EndChar
 
 StartChar: u12169
-Encoding: 74089 74089 379
+Encoding: 417 74089 379
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -5389,7 +5388,7 @@ Validated: 5
 EndChar
 
 StartChar: u1216A
-Encoding: 74090 74090 380
+Encoding: 418 74090 380
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -5401,7 +5400,7 @@ Validated: 5
 EndChar
 
 StartChar: u1216B
-Encoding: 74091 74091 381
+Encoding: 419 74091 381
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -5413,7 +5412,7 @@ Validated: 5
 EndChar
 
 StartChar: u1216C
-Encoding: 74092 74092 382
+Encoding: 420 74092 382
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -5425,7 +5424,7 @@ Validated: 5
 EndChar
 
 StartChar: u1216D
-Encoding: 74093 74093 383
+Encoding: 421 74093 383
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -5437,7 +5436,7 @@ Validated: 5
 EndChar
 
 StartChar: u1216E
-Encoding: 74094 74094 384
+Encoding: 422 74094 384
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -5449,7 +5448,7 @@ Validated: 5
 EndChar
 
 StartChar: u1216F
-Encoding: 74095 74095 385
+Encoding: 423 74095 385
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -5461,7 +5460,7 @@ Validated: 5
 EndChar
 
 StartChar: u12170
-Encoding: 74096 74096 386
+Encoding: 424 74096 386
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -5473,7 +5472,7 @@ Validated: 5
 EndChar
 
 StartChar: u12171
-Encoding: 74097 74097 387
+Encoding: 425 74097 387
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -5485,7 +5484,7 @@ Validated: 5
 EndChar
 
 StartChar: u12172
-Encoding: 74098 74098 388
+Encoding: 426 74098 388
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -5497,7 +5496,7 @@ Validated: 5
 EndChar
 
 StartChar: u12173
-Encoding: 74099 74099 389
+Encoding: 427 74099 389
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -5509,7 +5508,7 @@ Validated: 5
 EndChar
 
 StartChar: u12174
-Encoding: 74100 74100 390
+Encoding: 428 74100 390
 Width: 1657
 VWidth: 1000
 Flags: HW
@@ -5527,7 +5526,7 @@ Refer: 7 61699 N 1 0 0 1 645 0 2
 EndChar
 
 StartChar: u12175
-Encoding: 74101 74101 391
+Encoding: 429 74101 391
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -5539,7 +5538,7 @@ Validated: 5
 EndChar
 
 StartChar: u12176
-Encoding: 74102 74102 392
+Encoding: 430 74102 392
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -5551,7 +5550,7 @@ Validated: 5
 EndChar
 
 StartChar: u12177
-Encoding: 74103 74103 393
+Encoding: 431 74103 393
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -5563,7 +5562,7 @@ Validated: 5
 EndChar
 
 StartChar: u12178
-Encoding: 74104 74104 394
+Encoding: 432 74104 394
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -5575,7 +5574,7 @@ Validated: 5
 EndChar
 
 StartChar: u12179
-Encoding: 74105 74105 395
+Encoding: 433 74105 395
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -5587,7 +5586,7 @@ Validated: 5
 EndChar
 
 StartChar: u1217A
-Encoding: 74106 74106 396
+Encoding: 434 74106 396
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -5599,7 +5598,7 @@ Validated: 5
 EndChar
 
 StartChar: u1217B
-Encoding: 74107 74107 397
+Encoding: 435 74107 397
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -5611,7 +5610,7 @@ Validated: 5
 EndChar
 
 StartChar: u1217C
-Encoding: 74108 74108 398
+Encoding: 436 74108 398
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -5623,7 +5622,7 @@ Validated: 5
 EndChar
 
 StartChar: u1217D
-Encoding: 74109 74109 399
+Encoding: 437 74109 399
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -5635,7 +5634,7 @@ Validated: 5
 EndChar
 
 StartChar: u1217E
-Encoding: 74110 74110 400
+Encoding: 438 74110 400
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -5647,7 +5646,7 @@ Validated: 5
 EndChar
 
 StartChar: u1217F
-Encoding: 74111 74111 401
+Encoding: 439 74111 401
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -5659,7 +5658,7 @@ Validated: 5
 EndChar
 
 StartChar: u12180
-Encoding: 74112 74112 402
+Encoding: 440 74112 402
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -5671,7 +5670,7 @@ Validated: 5
 EndChar
 
 StartChar: u12181
-Encoding: 74113 74113 403
+Encoding: 441 74113 403
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -5683,7 +5682,7 @@ Validated: 5
 EndChar
 
 StartChar: u12182
-Encoding: 74114 74114 404
+Encoding: 442 74114 404
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -5695,7 +5694,7 @@ Validated: 5
 EndChar
 
 StartChar: u12183
-Encoding: 74115 74115 405
+Encoding: 443 74115 405
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -5707,7 +5706,7 @@ Validated: 5
 EndChar
 
 StartChar: u12184
-Encoding: 74116 74116 406
+Encoding: 444 74116 406
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -5719,7 +5718,7 @@ Validated: 5
 EndChar
 
 StartChar: u12185
-Encoding: 74117 74117 407
+Encoding: 445 74117 407
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -5731,7 +5730,7 @@ Validated: 5
 EndChar
 
 StartChar: u12186
-Encoding: 74118 74118 408
+Encoding: 446 74118 408
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -5743,7 +5742,7 @@ Validated: 5
 EndChar
 
 StartChar: u12187
-Encoding: 74119 74119 409
+Encoding: 447 74119 409
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -5755,7 +5754,7 @@ Validated: 5
 EndChar
 
 StartChar: u12188
-Encoding: 74120 74120 410
+Encoding: 448 74120 410
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -5767,7 +5766,7 @@ Validated: 5
 EndChar
 
 StartChar: u12189
-Encoding: 74121 74121 411
+Encoding: 449 74121 411
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -5779,7 +5778,7 @@ Validated: 5
 EndChar
 
 StartChar: u1218A
-Encoding: 74122 74122 412
+Encoding: 450 74122 412
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -5791,7 +5790,7 @@ Validated: 5
 EndChar
 
 StartChar: u1218B
-Encoding: 74123 74123 413
+Encoding: 451 74123 413
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -5803,7 +5802,7 @@ Validated: 5
 EndChar
 
 StartChar: u1218C
-Encoding: 74124 74124 414
+Encoding: 452 74124 414
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -5815,7 +5814,7 @@ Validated: 5
 EndChar
 
 StartChar: u1218D
-Encoding: 74125 74125 415
+Encoding: 453 74125 415
 Width: 1115
 VWidth: 1000
 Flags: W
@@ -5831,7 +5830,7 @@ Refer: 2 74838 N 1 0 0 1 882 0 2
 EndChar
 
 StartChar: u1218E
-Encoding: 74126 74126 416
+Encoding: 454 74126 416
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -5843,7 +5842,7 @@ Validated: 5
 EndChar
 
 StartChar: u1218F
-Encoding: 74127 74127 417
+Encoding: 455 74127 417
 Width: 947
 VWidth: 1000
 Flags: W
@@ -5858,7 +5857,7 @@ Validated: 5
 EndChar
 
 StartChar: u12190
-Encoding: 74128 74128 418
+Encoding: 456 74128 418
 Width: 663
 VWidth: 1000
 Flags: W
@@ -5871,7 +5870,7 @@ Refer: 747 74457 S 1 0 0 1 362 0 2
 EndChar
 
 StartChar: u12191
-Encoding: 74129 74129 419
+Encoding: 457 74129 419
 Width: 1120
 VWidth: 1000
 Flags: W
@@ -5886,7 +5885,7 @@ Refer: 747 74457 N 1 0 0 1 362 0 2
 EndChar
 
 StartChar: u12192
-Encoding: 74130 74130 420
+Encoding: 458 74130 420
 Width: 1541
 VWidth: 1000
 Flags: W
@@ -5898,7 +5897,7 @@ Refer: 745 74455 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u12193
-Encoding: 74131 74131 421
+Encoding: 459 74131 421
 Width: 2001
 VWidth: 1000
 Flags: W
@@ -5910,7 +5909,7 @@ Refer: 745 74455 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u12194
-Encoding: 74132 74132 422
+Encoding: 460 74132 422
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -5922,7 +5921,7 @@ Validated: 5
 EndChar
 
 StartChar: u12195
-Encoding: 74133 74133 423
+Encoding: 461 74133 423
 Width: 1084
 VWidth: 1000
 Flags: HW
@@ -5935,7 +5934,7 @@ Refer: 8 61700 N 1 0 0 1 265 0 2
 EndChar
 
 StartChar: u12196
-Encoding: 74134 74134 424
+Encoding: 462 74134 424
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -5947,7 +5946,7 @@ Validated: 5
 EndChar
 
 StartChar: u12197
-Encoding: 74135 74135 425
+Encoding: 463 74135 425
 Width: 1121
 VWidth: 1000
 Flags: W
@@ -5958,7 +5957,7 @@ Refer: 314 74024 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u12198
-Encoding: 74136 74136 426
+Encoding: 464 74136 426
 Width: 1435
 VWidth: 1000
 Flags: HW
@@ -5972,7 +5971,7 @@ Refer: 291 74001 N 1 0 0 1 -5 0 2
 EndChar
 
 StartChar: u12199
-Encoding: 74137 74137 427
+Encoding: 465 74137 427
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -5984,7 +5983,7 @@ Validated: 5
 EndChar
 
 StartChar: u1219A
-Encoding: 74138 74138 428
+Encoding: 466 74138 428
 Width: 1252
 VWidth: 1000
 Flags: W
@@ -5994,7 +5993,7 @@ Refer: 264 73974 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u1219B
-Encoding: 74139 74139 429
+Encoding: 467 74139 429
 Width: 3283
 VWidth: 1000
 Flags: W
@@ -6005,7 +6004,7 @@ Refer: 655 74365 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u1219C
-Encoding: 74140 74140 430
+Encoding: 468 74140 430
 Width: 1081
 VWidth: 1000
 Flags: W
@@ -6019,7 +6018,7 @@ Validated: 5
 EndChar
 
 StartChar: u1219D
-Encoding: 74141 74141 431
+Encoding: 469 74141 431
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -6031,7 +6030,7 @@ Validated: 5
 EndChar
 
 StartChar: u1219E
-Encoding: 74142 74142 432
+Encoding: 470 74142 432
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -6043,7 +6042,7 @@ Validated: 5
 EndChar
 
 StartChar: u1219F
-Encoding: 74143 74143 433
+Encoding: 471 74143 433
 Width: 1668
 VWidth: 1000
 Flags: W
@@ -6055,7 +6054,7 @@ Validated: 5
 EndChar
 
 StartChar: u121A0
-Encoding: 74144 74144 434
+Encoding: 472 74144 434
 Width: 1272
 VWidth: 1000
 Flags: W
@@ -6067,7 +6066,7 @@ Refer: 444 74154 N 1 0 0 1 196 0 2
 EndChar
 
 StartChar: u121A1
-Encoding: 74145 74145 435
+Encoding: 473 74145 435
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -6079,7 +6078,7 @@ Validated: 5
 EndChar
 
 StartChar: u121A2
-Encoding: 74146 74146 436
+Encoding: 474 74146 436
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -6091,7 +6090,7 @@ Validated: 5
 EndChar
 
 StartChar: u121A3
-Encoding: 74147 74147 437
+Encoding: 475 74147 437
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -6103,7 +6102,7 @@ Validated: 5
 EndChar
 
 StartChar: u121A4
-Encoding: 74148 74148 438
+Encoding: 476 74148 438
 Width: 1121
 VWidth: 1000
 Flags: W
@@ -6118,7 +6117,7 @@ Refer: 7 61699 N 1 0 0 1 430 0 2
 EndChar
 
 StartChar: u121A5
-Encoding: 74149 74149 439
+Encoding: 477 74149 439
 Width: 1304
 VWidth: 1000
 Flags: W
@@ -6135,7 +6134,7 @@ Refer: 11 61703 N 1 0 0 1 414 235 2
 EndChar
 
 StartChar: u121A6
-Encoding: 74150 74150 440
+Encoding: 478 74150 440
 Width: 1361
 VWidth: 1000
 Flags: W
@@ -6150,7 +6149,7 @@ Refer: 8 61700 N 1 0 0 1 265 0 2
 EndChar
 
 StartChar: u121A7
-Encoding: 74151 74151 441
+Encoding: 479 74151 441
 Width: 1203
 VWidth: 1000
 Flags: W
@@ -6164,7 +6163,7 @@ Validated: 5
 EndChar
 
 StartChar: u121A8
-Encoding: 74152 74152 442
+Encoding: 480 74152 442
 Width: 1260
 VWidth: 1000
 Flags: W
@@ -6178,7 +6177,7 @@ Validated: 5
 EndChar
 
 StartChar: u121A9
-Encoding: 74153 74153 443
+Encoding: 481 74153 443
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -6190,7 +6189,7 @@ Validated: 5
 EndChar
 
 StartChar: u121AA
-Encoding: 74154 74154 444
+Encoding: 482 74154 444
 Width: 1078
 VWidth: 1000
 Flags: W
@@ -6206,7 +6205,7 @@ Refer: 7 61699 S 1 0 0 1 844 0 2
 EndChar
 
 StartChar: u121AB
-Encoding: 74155 74155 445
+Encoding: 483 74155 445
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -6218,7 +6217,7 @@ Validated: 5
 EndChar
 
 StartChar: u121AC
-Encoding: 74156 74156 446
+Encoding: 484 74156 446
 Width: 701
 VWidth: 1000
 Flags: W
@@ -6232,7 +6231,7 @@ Validated: 5
 EndChar
 
 StartChar: u121AD
-Encoding: 74157 74157 447
+Encoding: 485 74157 447
 Width: 1225
 VWidth: 1000
 Flags: W
@@ -6243,7 +6242,7 @@ Refer: 791 74501 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u121AE
-Encoding: 74158 74158 448
+Encoding: 486 74158 448
 Width: 1225
 VWidth: 1000
 Flags: W
@@ -6254,7 +6253,7 @@ Refer: 791 74501 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u121AF
-Encoding: 74159 74159 449
+Encoding: 487 74159 449
 Width: 1115
 VWidth: 1000
 Flags: W
@@ -6267,7 +6266,7 @@ Refer: 7 61699 N 1 0 0 1 885 0 2
 EndChar
 
 StartChar: u121B0
-Encoding: 74160 74160 450
+Encoding: 488 74160 450
 Width: 916
 VWidth: 1000
 Flags: W
@@ -6279,7 +6278,7 @@ Refer: 453 74163 N 1 0 0 1 310 0 2
 EndChar
 
 StartChar: u121B1
-Encoding: 74161 74161 451
+Encoding: 489 74161 451
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -6291,7 +6290,7 @@ Validated: 5
 EndChar
 
 StartChar: u121B2
-Encoding: 74162 74162 452
+Encoding: 490 74162 452
 Width: 2486
 VWidth: 1000
 Flags: W
@@ -6309,7 +6308,7 @@ Refer: 11 61703 N 1 0 0 1 5 0 2
 EndChar
 
 StartChar: u121B3
-Encoding: 74163 74163 453
+Encoding: 491 74163 453
 Width: 603
 VWidth: 1000
 Flags: W
@@ -6322,7 +6321,7 @@ Validated: 5
 EndChar
 
 StartChar: u121B4
-Encoding: 74164 74164 454
+Encoding: 492 74164 454
 Width: 1294
 VWidth: 1000
 Flags: W
@@ -6334,7 +6333,7 @@ Validated: 5
 EndChar
 
 StartChar: u121B5
-Encoding: 74165 74165 455
+Encoding: 493 74165 455
 Width: 1390
 VWidth: 1000
 Flags: W
@@ -6347,7 +6346,7 @@ Validated: 5
 EndChar
 
 StartChar: u121B6
-Encoding: 74166 74166 456
+Encoding: 494 74166 456
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -6359,7 +6358,7 @@ Validated: 5
 EndChar
 
 StartChar: u121B7
-Encoding: 74167 74167 457
+Encoding: 495 74167 457
 Width: 1074
 VWidth: 1000
 Flags: W
@@ -6372,7 +6371,7 @@ Validated: 5
 EndChar
 
 StartChar: u121B8
-Encoding: 74168 74168 458
+Encoding: 496 74168 458
 Width: 891
 VWidth: 1000
 Flags: W
@@ -6381,13 +6380,13 @@ LayerCount: 2
 Fore
 Refer: 17 61709 N 1 0 0 1 84 -479 2
 Refer: 14 61706 N 1 0 0 1 108 140 2
-Refer: 17 61709 N 1 0 0 1 460 95 2
-Refer: 7 61699 N 1 0 0 1 660 0 2
+Refer: 17 61709 S 1 0 0 1 460 95 2
+Refer: 7 61699 S 1 0 0 1 660 0 2
 Validated: 5
 EndChar
 
 StartChar: u121B9
-Encoding: 74169 74169 459
+Encoding: 497 74169 459
 Width: 891
 VWidth: 1000
 Flags: HW
@@ -6399,7 +6398,7 @@ Refer: 458 74168 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u121BA
-Encoding: 74170 74170 460
+Encoding: 498 74170 460
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -6411,7 +6410,7 @@ Validated: 5
 EndChar
 
 StartChar: u121BB
-Encoding: 74171 74171 461
+Encoding: 499 74171 461
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -6423,7 +6422,7 @@ Validated: 5
 EndChar
 
 StartChar: u121BC
-Encoding: 74172 74172 462
+Encoding: 500 74172 462
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -6435,7 +6434,7 @@ Validated: 5
 EndChar
 
 StartChar: u121BD
-Encoding: 74173 74173 463
+Encoding: 501 74173 463
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -6447,7 +6446,7 @@ Validated: 5
 EndChar
 
 StartChar: u121BE
-Encoding: 74174 74174 464
+Encoding: 502 74174 464
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -6459,7 +6458,7 @@ Validated: 5
 EndChar
 
 StartChar: u121BF
-Encoding: 74175 74175 465
+Encoding: 503 74175 465
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -6471,7 +6470,7 @@ Validated: 5
 EndChar
 
 StartChar: u121C0
-Encoding: 74176 74176 466
+Encoding: 504 74176 466
 Width: 891
 VWidth: 1000
 Flags: W
@@ -6484,7 +6483,7 @@ Refer: 458 74168 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u121C1
-Encoding: 74177 74177 467
+Encoding: 505 74177 467
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -6496,7 +6495,7 @@ Validated: 5
 EndChar
 
 StartChar: u121C2
-Encoding: 74178 74178 468
+Encoding: 506 74178 468
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -6508,7 +6507,7 @@ Validated: 5
 EndChar
 
 StartChar: u121C3
-Encoding: 74179 74179 469
+Encoding: 507 74179 469
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -6520,7 +6519,7 @@ Validated: 5
 EndChar
 
 StartChar: u121C4
-Encoding: 74180 74180 470
+Encoding: 508 74180 470
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -6532,7 +6531,7 @@ Validated: 5
 EndChar
 
 StartChar: u121C5
-Encoding: 74181 74181 471
+Encoding: 509 74181 471
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -6544,7 +6543,7 @@ Validated: 5
 EndChar
 
 StartChar: u121C6
-Encoding: 74182 74182 472
+Encoding: 510 74182 472
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -6556,7 +6555,7 @@ Validated: 5
 EndChar
 
 StartChar: u121C7
-Encoding: 74183 74183 473
+Encoding: 511 74183 473
 Width: 1841
 VWidth: 1000
 Flags: HW
@@ -6571,7 +6570,7 @@ Refer: 499 74209 N 1 0 0 1 -0.000424841 0 2
 EndChar
 
 StartChar: u121C8
-Encoding: 74184 74184 474
+Encoding: 512 74184 474
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -6583,7 +6582,7 @@ Validated: 5
 EndChar
 
 StartChar: u121C9
-Encoding: 74185 74185 475
+Encoding: 513 74185 475
 Width: 1018
 VWidth: 1000
 Flags: W
@@ -6596,7 +6595,7 @@ Refer: 458 74168 N 1 0 0 1 0.133364 0 2
 EndChar
 
 StartChar: u121CA
-Encoding: 74186 74186 476
+Encoding: 514 74186 476
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -6608,7 +6607,7 @@ Validated: 5
 EndChar
 
 StartChar: u121CB
-Encoding: 74187 74187 477
+Encoding: 515 74187 477
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -6620,7 +6619,7 @@ Validated: 5
 EndChar
 
 StartChar: u121CC
-Encoding: 74188 74188 478
+Encoding: 516 74188 478
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -6632,7 +6631,7 @@ Validated: 5
 EndChar
 
 StartChar: u121CD
-Encoding: 74189 74189 479
+Encoding: 517 74189 479
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -6644,7 +6643,7 @@ Validated: 5
 EndChar
 
 StartChar: u121CE
-Encoding: 74190 74190 480
+Encoding: 518 74190 480
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -6656,7 +6655,7 @@ Validated: 5
 EndChar
 
 StartChar: u121CF
-Encoding: 74191 74191 481
+Encoding: 519 74191 481
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -6668,7 +6667,7 @@ Validated: 5
 EndChar
 
 StartChar: u121D0
-Encoding: 74192 74192 482
+Encoding: 520 74192 482
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -6680,7 +6679,7 @@ Validated: 5
 EndChar
 
 StartChar: u121D1
-Encoding: 74193 74193 483
+Encoding: 521 74193 483
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -6692,7 +6691,7 @@ Validated: 5
 EndChar
 
 StartChar: u121D2
-Encoding: 74194 74194 484
+Encoding: 522 74194 484
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -6704,7 +6703,7 @@ Validated: 5
 EndChar
 
 StartChar: u121D3
-Encoding: 74195 74195 485
+Encoding: 523 74195 485
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -6716,7 +6715,7 @@ Validated: 5
 EndChar
 
 StartChar: u121D4
-Encoding: 74196 74196 486
+Encoding: 524 74196 486
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -6728,7 +6727,7 @@ Validated: 5
 EndChar
 
 StartChar: u121D5
-Encoding: 74197 74197 487
+Encoding: 525 74197 487
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -6740,7 +6739,7 @@ Validated: 5
 EndChar
 
 StartChar: u121D6
-Encoding: 74198 74198 488
+Encoding: 526 74198 488
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -6752,7 +6751,7 @@ Validated: 5
 EndChar
 
 StartChar: u121D7
-Encoding: 74199 74199 489
+Encoding: 527 74199 489
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -6764,7 +6763,7 @@ Validated: 5
 EndChar
 
 StartChar: u121D8
-Encoding: 74200 74200 490
+Encoding: 528 74200 490
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -6776,7 +6775,7 @@ Validated: 5
 EndChar
 
 StartChar: u121D9
-Encoding: 74201 74201 491
+Encoding: 529 74201 491
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -6788,7 +6787,7 @@ Validated: 5
 EndChar
 
 StartChar: u121DA
-Encoding: 74202 74202 492
+Encoding: 530 74202 492
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -6800,7 +6799,7 @@ Validated: 5
 EndChar
 
 StartChar: u121DB
-Encoding: 74203 74203 493
+Encoding: 531 74203 493
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -6812,7 +6811,7 @@ Validated: 5
 EndChar
 
 StartChar: u121DC
-Encoding: 74204 74204 494
+Encoding: 532 74204 494
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -6824,7 +6823,7 @@ Validated: 5
 EndChar
 
 StartChar: u121DD
-Encoding: 74205 74205 495
+Encoding: 533 74205 495
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -6836,7 +6835,7 @@ Validated: 5
 EndChar
 
 StartChar: u121DE
-Encoding: 74206 74206 496
+Encoding: 534 74206 496
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -6848,7 +6847,7 @@ Validated: 5
 EndChar
 
 StartChar: u121DF
-Encoding: 74207 74207 497
+Encoding: 535 74207 497
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -6860,7 +6859,7 @@ Validated: 5
 EndChar
 
 StartChar: u121E0
-Encoding: 74208 74208 498
+Encoding: 536 74208 498
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -6872,7 +6871,7 @@ Validated: 5
 EndChar
 
 StartChar: u121E1
-Encoding: 74209 74209 499
+Encoding: 537 74209 499
 Width: 1130
 VWidth: 1000
 Flags: W
@@ -6887,7 +6886,7 @@ Refer: 7 61699 N 1 0 0 1 900.133 0 2
 EndChar
 
 StartChar: u121E2
-Encoding: 74210 74210 500
+Encoding: 538 74210 500
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -6899,7 +6898,7 @@ Validated: 5
 EndChar
 
 StartChar: u121E3
-Encoding: 74211 74211 501
+Encoding: 539 74211 501
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -6911,7 +6910,7 @@ Validated: 5
 EndChar
 
 StartChar: u121E4
-Encoding: 74212 74212 502
+Encoding: 540 74212 502
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -6923,7 +6922,7 @@ Validated: 5
 EndChar
 
 StartChar: u121E5
-Encoding: 74213 74213 503
+Encoding: 541 74213 503
 Width: 891
 VWidth: 1000
 Flags: HW
@@ -6935,7 +6934,7 @@ Refer: 458 74168 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u121E6
-Encoding: 74214 74214 504
+Encoding: 542 74214 504
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -6947,7 +6946,7 @@ Validated: 5
 EndChar
 
 StartChar: u121E7
-Encoding: 74215 74215 505
+Encoding: 543 74215 505
 Width: 891
 VWidth: 1000
 Flags: HW
@@ -6961,7 +6960,7 @@ Refer: 458 74168 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u121E8
-Encoding: 74216 74216 506
+Encoding: 544 74216 506
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -6973,7 +6972,7 @@ Validated: 5
 EndChar
 
 StartChar: u121E9
-Encoding: 74217 74217 507
+Encoding: 545 74217 507
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -6985,7 +6984,7 @@ Validated: 5
 EndChar
 
 StartChar: u121EA
-Encoding: 74218 74218 508
+Encoding: 546 74218 508
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -6997,7 +6996,7 @@ Validated: 5
 EndChar
 
 StartChar: u121EB
-Encoding: 74219 74219 509
+Encoding: 547 74219 509
 Width: 2312
 VWidth: 1000
 Flags: W
@@ -7012,7 +7011,7 @@ Validated: 5
 EndChar
 
 StartChar: u121EC
-Encoding: 74220 74220 510
+Encoding: 548 74220 510
 Width: 985
 VWidth: 1000
 Flags: W
@@ -7026,7 +7025,7 @@ Refer: 7 61699 N 1 0 0 1 755 0.5 2
 EndChar
 
 StartChar: u121ED
-Encoding: 74221 74221 511
+Encoding: 549 74221 511
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -7038,7 +7037,7 @@ Validated: 5
 EndChar
 
 StartChar: u121EE
-Encoding: 74222 74222 512
+Encoding: 550 74222 512
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -7050,7 +7049,7 @@ Validated: 5
 EndChar
 
 StartChar: u121EF
-Encoding: 74223 74223 513
+Encoding: 551 74223 513
 Width: 1127
 VWidth: 1000
 Flags: W
@@ -7067,7 +7066,7 @@ Refer: 11 61703 N 1 0 0 1 475 115 2
 EndChar
 
 StartChar: u121F0
-Encoding: 74224 74224 514
+Encoding: 552 74224 514
 Width: 1750
 VWidth: 1000
 Flags: W
@@ -7088,7 +7087,7 @@ Refer: 716 74426 N 1 0 0 1 1065 0 2
 EndChar
 
 StartChar: u121F1
-Encoding: 74225 74225 515
+Encoding: 553 74225 515
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -7100,7 +7099,7 @@ Validated: 5
 EndChar
 
 StartChar: u121F2
-Encoding: 74226 74226 516
+Encoding: 554 74226 516
 Width: 866
 VWidth: 1000
 Flags: W
@@ -7113,7 +7112,7 @@ Validated: 5
 EndChar
 
 StartChar: u121F3
-Encoding: 74227 74227 517
+Encoding: 555 74227 517
 Width: 866
 VWidth: 1000
 Flags: W
@@ -7126,7 +7125,7 @@ Refer: 516 74226 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u121F4
-Encoding: 74228 74228 518
+Encoding: 556 74228 518
 Width: 1665
 VWidth: 1000
 Flags: W
@@ -7139,7 +7138,7 @@ Validated: 5
 EndChar
 
 StartChar: u121F5
-Encoding: 74229 74229 519
+Encoding: 557 74229 519
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -7151,7 +7150,7 @@ Validated: 5
 EndChar
 
 StartChar: u121F6
-Encoding: 74230 74230 520
+Encoding: 558 74230 520
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -7163,7 +7162,7 @@ Validated: 5
 EndChar
 
 StartChar: u121F7
-Encoding: 74231 74231 521
+Encoding: 559 74231 521
 Width: 1555
 VWidth: 1000
 Flags: W
@@ -7183,7 +7182,7 @@ Refer: 7 61699 N 1 0 0 1 1095 0 2
 EndChar
 
 StartChar: u121F8
-Encoding: 74232 74232 522
+Encoding: 560 74232 522
 Width: 1527
 Flags: W
 LayerCount: 2
@@ -7199,7 +7198,7 @@ Refer: 11 61703 N 1 0 0 1 5 230 2
 EndChar
 
 StartChar: u121F9
-Encoding: 74233 74233 523
+Encoding: 561 74233 523
 Width: 940
 Flags: W
 LayerCount: 2
@@ -7208,7 +7207,7 @@ Refer: 942 74754 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u121FA
-Encoding: 74234 74234 524
+Encoding: 562 74234 524
 Width: 541
 VWidth: 1000
 Flags: W
@@ -7220,7 +7219,7 @@ Refer: 7 61699 N 1 0 0 1 310.822 0 2
 EndChar
 
 StartChar: u121FB
-Encoding: 74235 74235 525
+Encoding: 563 74235 525
 Width: 1305
 VWidth: 1000
 Flags: W
@@ -7237,7 +7236,7 @@ Refer: 7 61699 N 1 0 0 1 844 0 2
 EndChar
 
 StartChar: u121FC
-Encoding: 74236 74236 526
+Encoding: 564 74236 526
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -7249,7 +7248,7 @@ Validated: 5
 EndChar
 
 StartChar: u121FD
-Encoding: 74237 74237 527
+Encoding: 565 74237 527
 Width: 1531
 VWidth: 1000
 Flags: W
@@ -7271,7 +7270,7 @@ Validated: 5
 EndChar
 
 StartChar: u121FE
-Encoding: 74238 74238 528
+Encoding: 566 74238 528
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -7283,7 +7282,7 @@ Validated: 5
 EndChar
 
 StartChar: u121FF
-Encoding: 74239 74239 529
+Encoding: 567 74239 529
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -7295,7 +7294,7 @@ Validated: 5
 EndChar
 
 StartChar: u12200
-Encoding: 74240 74240 530
+Encoding: 568 74240 530
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -7307,7 +7306,7 @@ Validated: 5
 EndChar
 
 StartChar: u12201
-Encoding: 74241 74241 531
+Encoding: 569 74241 531
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -7319,7 +7318,7 @@ Validated: 5
 EndChar
 
 StartChar: u12202
-Encoding: 74242 74242 532
+Encoding: 570 74242 532
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -7331,7 +7330,7 @@ Validated: 5
 EndChar
 
 StartChar: u12203
-Encoding: 74243 74243 533
+Encoding: 571 74243 533
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -7343,7 +7342,7 @@ Validated: 5
 EndChar
 
 StartChar: u12204
-Encoding: 74244 74244 534
+Encoding: 572 74244 534
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -7355,7 +7354,7 @@ Validated: 5
 EndChar
 
 StartChar: u12205
-Encoding: 74245 74245 535
+Encoding: 573 74245 535
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -7367,7 +7366,7 @@ Validated: 5
 EndChar
 
 StartChar: u12206
-Encoding: 74246 74246 536
+Encoding: 574 74246 536
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -7379,7 +7378,7 @@ Validated: 5
 EndChar
 
 StartChar: u12207
-Encoding: 74247 74247 537
+Encoding: 575 74247 537
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -7391,7 +7390,7 @@ Validated: 5
 EndChar
 
 StartChar: u12208
-Encoding: 74248 74248 538
+Encoding: 576 74248 538
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -7403,7 +7402,7 @@ Validated: 5
 EndChar
 
 StartChar: u12209
-Encoding: 74249 74249 539
+Encoding: 577 74249 539
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -7415,7 +7414,7 @@ Validated: 5
 EndChar
 
 StartChar: u1220A
-Encoding: 74250 74250 540
+Encoding: 578 74250 540
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -7427,7 +7426,7 @@ Validated: 5
 EndChar
 
 StartChar: u1220B
-Encoding: 74251 74251 541
+Encoding: 579 74251 541
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -7439,7 +7438,7 @@ Validated: 5
 EndChar
 
 StartChar: u1220C
-Encoding: 74252 74252 542
+Encoding: 580 74252 542
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -7451,7 +7450,7 @@ Validated: 5
 EndChar
 
 StartChar: u1220D
-Encoding: 74253 74253 543
+Encoding: 581 74253 543
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -7463,7 +7462,7 @@ Validated: 5
 EndChar
 
 StartChar: u1220E
-Encoding: 74254 74254 544
+Encoding: 582 74254 544
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -7475,7 +7474,7 @@ Validated: 5
 EndChar
 
 StartChar: u1220F
-Encoding: 74255 74255 545
+Encoding: 583 74255 545
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -7487,7 +7486,7 @@ Validated: 5
 EndChar
 
 StartChar: u12210
-Encoding: 74256 74256 546
+Encoding: 584 74256 546
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -7499,7 +7498,7 @@ Validated: 5
 EndChar
 
 StartChar: u12211
-Encoding: 74257 74257 547
+Encoding: 585 74257 547
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -7511,7 +7510,7 @@ Validated: 5
 EndChar
 
 StartChar: u12212
-Encoding: 74258 74258 548
+Encoding: 586 74258 548
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -7523,7 +7522,7 @@ Validated: 5
 EndChar
 
 StartChar: u12213
-Encoding: 74259 74259 549
+Encoding: 587 74259 549
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -7535,7 +7534,7 @@ Validated: 5
 EndChar
 
 StartChar: u12214
-Encoding: 74260 74260 550
+Encoding: 588 74260 550
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -7547,7 +7546,7 @@ Validated: 5
 EndChar
 
 StartChar: u12215
-Encoding: 74261 74261 551
+Encoding: 589 74261 551
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -7559,7 +7558,7 @@ Validated: 5
 EndChar
 
 StartChar: u12216
-Encoding: 74262 74262 552
+Encoding: 590 74262 552
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -7571,7 +7570,7 @@ Validated: 5
 EndChar
 
 StartChar: u12217
-Encoding: 74263 74263 553
+Encoding: 591 74263 553
 Width: 1981
 VWidth: 1000
 Flags: W
@@ -7586,7 +7585,7 @@ Validated: 5
 EndChar
 
 StartChar: u12218
-Encoding: 74264 74264 554
+Encoding: 592 74264 554
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -7598,7 +7597,7 @@ Validated: 5
 EndChar
 
 StartChar: u12219
-Encoding: 74265 74265 555
+Encoding: 593 74265 555
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -7610,7 +7609,7 @@ Validated: 5
 EndChar
 
 StartChar: u1221A
-Encoding: 74266 74266 556
+Encoding: 594 74266 556
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -7622,7 +7621,7 @@ Validated: 5
 EndChar
 
 StartChar: u1221B
-Encoding: 74267 74267 557
+Encoding: 595 74267 557
 Width: 1154
 VWidth: 1000
 Flags: W
@@ -7638,7 +7637,7 @@ Refer: 7 61699 N 1 0 0 1 254.481 0 2
 EndChar
 
 StartChar: u1221C
-Encoding: 74268 74268 558
+Encoding: 596 74268 558
 Width: 1400
 VWidth: 1000
 Flags: W
@@ -7651,7 +7650,7 @@ Refer: 745 74455 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u1221D
-Encoding: 74269 74269 559
+Encoding: 597 74269 559
 Width: 1217
 VWidth: 1000
 Flags: W
@@ -7667,7 +7666,7 @@ Refer: 747 74457 N 1 0 0 1 40.1334 0 2
 EndChar
 
 StartChar: u1221E
-Encoding: 74270 74270 560
+Encoding: 598 74270 560
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -7679,7 +7678,7 @@ Validated: 5
 EndChar
 
 StartChar: u1221F
-Encoding: 74271 74271 561
+Encoding: 599 74271 561
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -7691,7 +7690,7 @@ Validated: 5
 EndChar
 
 StartChar: u12220
-Encoding: 74272 74272 562
+Encoding: 600 74272 562
 Width: 817
 VWidth: 1000
 Flags: W
@@ -7706,7 +7705,7 @@ Validated: 5
 EndChar
 
 StartChar: u12221
-Encoding: 74273 74273 563
+Encoding: 601 74273 563
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -7718,7 +7717,7 @@ Validated: 5
 EndChar
 
 StartChar: u12222
-Encoding: 74274 74274 564
+Encoding: 602 74274 564
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -7730,7 +7729,7 @@ Validated: 5
 EndChar
 
 StartChar: u12223
-Encoding: 74275 74275 565
+Encoding: 603 74275 565
 Width: 1115
 VWidth: 1000
 Flags: HW
@@ -7745,7 +7744,7 @@ Refer: 7 61699 N 1 0 0 1 425 0 2
 EndChar
 
 StartChar: u12224
-Encoding: 74276 74276 566
+Encoding: 604 74276 566
 Width: 1444
 VWidth: 1000
 Flags: W
@@ -7762,7 +7761,7 @@ Refer: 9 61701 N 1 0 0 1 565 -55 2
 EndChar
 
 StartChar: u12225
-Encoding: 74277 74277 567
+Encoding: 605 74277 567
 Width: 1460
 VWidth: 1000
 Flags: W
@@ -7775,7 +7774,7 @@ Refer: 291 74001 N 1 0 0 1 -0.0537109 0 2
 EndChar
 
 StartChar: u12226
-Encoding: 74278 74278 568
+Encoding: 606 74278 568
 Width: 800
 VWidth: 1000
 Flags: W
@@ -7787,7 +7786,7 @@ Validated: 5
 EndChar
 
 StartChar: u12227
-Encoding: 74279 74279 569
+Encoding: 607 74279 569
 Width: 1450
 VWidth: 1000
 Flags: W
@@ -7800,7 +7799,7 @@ Refer: 319 74029 N 1 0 0 1 419.946 0 2
 EndChar
 
 StartChar: u12228
-Encoding: 74280 74280 570
+Encoding: 608 74280 570
 Width: 801
 VWidth: 1000
 Flags: W
@@ -7813,7 +7812,7 @@ Validated: 5
 EndChar
 
 StartChar: u12229
-Encoding: 74281 74281 571
+Encoding: 609 74281 571
 Width: 1121
 VWidth: 1000
 Flags: W
@@ -7829,7 +7828,7 @@ Refer: 7 61699 N 1 0 0 1 430 0 2
 EndChar
 
 StartChar: u1222A
-Encoding: 74282 74282 572
+Encoding: 610 74282 572
 Width: 1315
 Flags: W
 LayerCount: 2
@@ -7843,7 +7842,7 @@ Validated: 5
 EndChar
 
 StartChar: u1222B
-Encoding: 74283 74283 573
+Encoding: 611 74283 573
 Width: 462
 VWidth: 1000
 Flags: W
@@ -7856,7 +7855,7 @@ Validated: 5
 EndChar
 
 StartChar: u1222C
-Encoding: 74284 74284 574
+Encoding: 612 74284 574
 Width: 1009
 VWidth: 1000
 Flags: W
@@ -7867,7 +7866,7 @@ Refer: 716 74426 N 1 0 0 1 335 0 2
 EndChar
 
 StartChar: u1222D
-Encoding: 74285 74285 575
+Encoding: 613 74285 575
 Width: 1731
 VWidth: 1000
 Flags: HW
@@ -7883,7 +7882,7 @@ Refer: 716 74426 N 1 0 0 1 410 0 2
 EndChar
 
 StartChar: u1222E
-Encoding: 74286 74286 576
+Encoding: 614 74286 576
 Width: 1400
 VWidth: 1000
 Flags: W
@@ -7897,7 +7896,7 @@ Refer: 11 61703 S 1 0 0 1 5 55 2
 EndChar
 
 StartChar: u1222F
-Encoding: 74287 74287 577
+Encoding: 615 74287 577
 Width: 1400
 VWidth: 1000
 Flags: W
@@ -7911,7 +7910,7 @@ Refer: 576 74286 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u12230
-Encoding: 74288 74288 578
+Encoding: 616 74288 578
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -7923,7 +7922,7 @@ Validated: 5
 EndChar
 
 StartChar: u12231
-Encoding: 74289 74289 579
+Encoding: 617 74289 579
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -7935,7 +7934,7 @@ Validated: 5
 EndChar
 
 StartChar: u12232
-Encoding: 74290 74290 580
+Encoding: 618 74290 580
 Width: 1793
 VWidth: 1000
 Flags: W
@@ -7952,7 +7951,7 @@ Validated: 5
 EndChar
 
 StartChar: u12233
-Encoding: 74291 74291 581
+Encoding: 619 74291 581
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -7964,7 +7963,7 @@ Validated: 5
 EndChar
 
 StartChar: u12234
-Encoding: 74292 74292 582
+Encoding: 620 74292 582
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -7976,7 +7975,7 @@ Validated: 5
 EndChar
 
 StartChar: u12235
-Encoding: 74293 74293 583
+Encoding: 621 74293 583
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -7988,7 +7987,7 @@ Validated: 5
 EndChar
 
 StartChar: u12236
-Encoding: 74294 74294 584
+Encoding: 622 74294 584
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -8000,7 +7999,7 @@ Validated: 5
 EndChar
 
 StartChar: u12237
-Encoding: 74295 74295 585
+Encoding: 623 74295 585
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -8012,7 +8011,7 @@ Validated: 5
 EndChar
 
 StartChar: u12238
-Encoding: 74296 74296 586
+Encoding: 624 74296 586
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -8024,7 +8023,7 @@ Validated: 5
 EndChar
 
 StartChar: u12239
-Encoding: 74297 74297 587
+Encoding: 625 74297 587
 Width: 1230
 VWidth: 1000
 Flags: HW
@@ -8037,7 +8036,7 @@ Refer: 763 74473 S 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u1223A
-Encoding: 74298 74298 588
+Encoding: 626 74298 588
 Width: 1460
 VWidth: 1000
 Flags: HW
@@ -8051,7 +8050,7 @@ Refer: 763 74473 S 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u1223B
-Encoding: 74299 74299 589
+Encoding: 627 74299 589
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -8063,7 +8062,7 @@ Validated: 5
 EndChar
 
 StartChar: u1223C
-Encoding: 74300 74300 590
+Encoding: 628 74300 590
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -8075,7 +8074,7 @@ Validated: 5
 EndChar
 
 StartChar: u1223D
-Encoding: 74301 74301 591
+Encoding: 629 74301 591
 Width: 1785
 VWidth: 1000
 Flags: HW
@@ -8088,7 +8087,7 @@ Refer: 763 74473 S 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u1223E
-Encoding: 74302 74302 592
+Encoding: 630 74302 592
 Width: 1132
 VWidth: 1000
 Flags: W
@@ -8102,7 +8101,7 @@ Refer: 17 61709 N 1 0 0 1 531 -293 2
 EndChar
 
 StartChar: u1223F
-Encoding: 74303 74303 593
+Encoding: 631 74303 593
 Width: 2481
 VWidth: 1000
 Flags: W
@@ -8113,7 +8112,7 @@ Refer: 442 74152 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u12240
-Encoding: 74304 74304 594
+Encoding: 632 74304 594
 Width: 2195
 VWidth: 1000
 Flags: HW
@@ -8125,7 +8124,7 @@ Refer: 761 74471 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u12241
-Encoding: 74305 74305 595
+Encoding: 633 74305 595
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -8137,7 +8136,7 @@ Validated: 5
 EndChar
 
 StartChar: u12242
-Encoding: 74306 74306 596
+Encoding: 634 74306 596
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -8149,7 +8148,7 @@ Validated: 5
 EndChar
 
 StartChar: u12243
-Encoding: 74307 74307 597
+Encoding: 635 74307 597
 Width: 4388
 VWidth: 1000
 Flags: HW
@@ -8161,7 +8160,7 @@ Refer: 594 74304 S 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u12244
-Encoding: 74308 74308 598
+Encoding: 636 74308 598
 Width: 1199
 VWidth: 1000
 Flags: W
@@ -8174,7 +8173,7 @@ Validated: 5
 EndChar
 
 StartChar: u12245
-Encoding: 74309 74309 599
+Encoding: 637 74309 599
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -8186,7 +8185,7 @@ Validated: 5
 EndChar
 
 StartChar: u12246
-Encoding: 74310 74310 600
+Encoding: 638 74310 600
 Width: 1335
 VWidth: 1000
 Flags: W
@@ -8199,7 +8198,7 @@ Validated: 5
 EndChar
 
 StartChar: u12247
-Encoding: 74311 74311 601
+Encoding: 639 74311 601
 Width: 1162
 VWidth: 1000
 Flags: W
@@ -8210,7 +8209,7 @@ Refer: 444 74154 S 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u12248
-Encoding: 74312 74312 602
+Encoding: 640 74312 602
 Width: 1731
 VWidth: 1000
 Flags: W
@@ -8222,7 +8221,7 @@ Refer: 306 74016 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u12249
-Encoding: 74313 74313 603
+Encoding: 641 74313 603
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -8233,7 +8232,7 @@ Refer: 139 61712 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u1224A
-Encoding: 74314 74314 604
+Encoding: 642 74314 604
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -8245,7 +8244,7 @@ Validated: 5
 EndChar
 
 StartChar: u1224B
-Encoding: 74315 74315 605
+Encoding: 643 74315 605
 Width: 1889
 VWidth: 1000
 Flags: W
@@ -8261,7 +8260,7 @@ Refer: 306 74016 N 1 0 0 1 -5 0 2
 EndChar
 
 StartChar: u1224C
-Encoding: 74316 74316 606
+Encoding: 644 74316 606
 Width: 1084
 VWidth: 1000
 Flags: HW
@@ -8275,7 +8274,7 @@ Refer: 8 61700 N 1 0 0 1 265 0 2
 EndChar
 
 StartChar: u1224D
-Encoding: 74317 74317 607
+Encoding: 645 74317 607
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -8287,7 +8286,7 @@ Validated: 5
 EndChar
 
 StartChar: u1224E
-Encoding: 74318 74318 608
+Encoding: 646 74318 608
 Width: 1407
 VWidth: 1000
 Flags: W
@@ -8298,7 +8297,7 @@ Refer: 352 74062 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u1224F
-Encoding: 74319 74319 609
+Encoding: 647 74319 609
 Width: 1437
 VWidth: 1000
 Flags: W
@@ -8311,7 +8310,7 @@ Validated: 5
 EndChar
 
 StartChar: u12250
-Encoding: 74320 74320 610
+Encoding: 648 74320 610
 Width: 1437
 VWidth: 1000
 Flags: W
@@ -8324,7 +8323,7 @@ Validated: 5
 EndChar
 
 StartChar: u12251
-Encoding: 74321 74321 611
+Encoding: 649 74321 611
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -8336,7 +8335,7 @@ Validated: 5
 EndChar
 
 StartChar: u12252
-Encoding: 74322 74322 612
+Encoding: 650 74322 612
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -8348,7 +8347,7 @@ Validated: 5
 EndChar
 
 StartChar: u12253
-Encoding: 74323 74323 613
+Encoding: 651 74323 613
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -8360,7 +8359,7 @@ Validated: 5
 EndChar
 
 StartChar: u12254
-Encoding: 74324 74324 614
+Encoding: 652 74324 614
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -8372,7 +8371,7 @@ Validated: 5
 EndChar
 
 StartChar: u12255
-Encoding: 74325 74325 615
+Encoding: 653 74325 615
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -8384,7 +8383,7 @@ Validated: 5
 EndChar
 
 StartChar: u12256
-Encoding: 74326 74326 616
+Encoding: 654 74326 616
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -8396,7 +8395,7 @@ Validated: 5
 EndChar
 
 StartChar: u12257
-Encoding: 74327 74327 617
+Encoding: 655 74327 617
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -8408,7 +8407,7 @@ Validated: 5
 EndChar
 
 StartChar: u12258
-Encoding: 74328 74328 618
+Encoding: 656 74328 618
 Width: 1625
 VWidth: 1000
 Flags: HW
@@ -8428,7 +8427,7 @@ Refer: 306 74016 N 0.6 0 0 0.6 535.152 151.744 2
 EndChar
 
 StartChar: u12259
-Encoding: 74329 74329 619
+Encoding: 657 74329 619
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -8440,7 +8439,7 @@ Validated: 5
 EndChar
 
 StartChar: u1225A
-Encoding: 74330 74330 620
+Encoding: 658 74330 620
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -8452,7 +8451,7 @@ Validated: 5
 EndChar
 
 StartChar: u1225B
-Encoding: 74331 74331 621
+Encoding: 659 74331 621
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -8464,7 +8463,7 @@ Validated: 5
 EndChar
 
 StartChar: u1225C
-Encoding: 74332 74332 622
+Encoding: 660 74332 622
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -8476,7 +8475,7 @@ Validated: 5
 EndChar
 
 StartChar: u1225D
-Encoding: 74333 74333 623
+Encoding: 661 74333 623
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -8488,7 +8487,7 @@ Validated: 5
 EndChar
 
 StartChar: u1225E
-Encoding: 74334 74334 624
+Encoding: 662 74334 624
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -8500,7 +8499,7 @@ Validated: 5
 EndChar
 
 StartChar: u1225F
-Encoding: 74335 74335 625
+Encoding: 663 74335 625
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -8512,7 +8511,7 @@ Validated: 5
 EndChar
 
 StartChar: u12260
-Encoding: 74336 74336 626
+Encoding: 664 74336 626
 Width: 1625
 Flags: W
 VStem: 1473.48 27.0928<445.962 501.664> 1473.48 27.0928<-0.0380533 186.46>
@@ -8531,7 +8530,7 @@ Refer: 797 74507 N 1 0 0 1 295 0 2
 EndChar
 
 StartChar: u12261
-Encoding: 74337 74337 627
+Encoding: 665 74337 627
 Width: 800
 VWidth: 1000
 Flags: W
@@ -8543,7 +8542,7 @@ Validated: 5
 EndChar
 
 StartChar: u12262
-Encoding: 74338 74338 628
+Encoding: 666 74338 628
 Width: 1219
 VWidth: 1000
 Flags: HW
@@ -8559,7 +8558,7 @@ Refer: 9 61701 N 1 0 0 1 284.946 -1 2
 EndChar
 
 StartChar: u12263
-Encoding: 74339 74339 629
+Encoding: 667 74339 629
 Width: 1172
 VWidth: 1000
 Flags: W
@@ -8575,7 +8574,7 @@ Validated: 5
 EndChar
 
 StartChar: u12264
-Encoding: 74340 74340 630
+Encoding: 668 74340 630
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -8587,7 +8586,7 @@ Validated: 5
 EndChar
 
 StartChar: u12265
-Encoding: 74341 74341 631
+Encoding: 669 74341 631
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -8599,7 +8598,7 @@ Validated: 5
 EndChar
 
 StartChar: u12266
-Encoding: 74342 74342 632
+Encoding: 670 74342 632
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -8611,7 +8610,7 @@ Validated: 5
 EndChar
 
 StartChar: u12267
-Encoding: 74343 74343 633
+Encoding: 671 74343 633
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -8623,7 +8622,7 @@ Validated: 5
 EndChar
 
 StartChar: u12268
-Encoding: 74344 74344 634
+Encoding: 672 74344 634
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -8635,7 +8634,7 @@ Validated: 5
 EndChar
 
 StartChar: u12269
-Encoding: 74345 74345 635
+Encoding: 673 74345 635
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -8647,7 +8646,7 @@ Validated: 5
 EndChar
 
 StartChar: u1226A
-Encoding: 74346 74346 636
+Encoding: 674 74346 636
 Width: 1383
 VWidth: 1000
 Flags: HW
@@ -8663,7 +8662,7 @@ Refer: 11 61703 N 1 0 0 1 5 -135 2
 EndChar
 
 StartChar: u1226B
-Encoding: 74347 74347 637
+Encoding: 675 74347 637
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -8675,7 +8674,7 @@ Validated: 5
 EndChar
 
 StartChar: u1226C
-Encoding: 74348 74348 638
+Encoding: 676 74348 638
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -8687,7 +8686,7 @@ Validated: 5
 EndChar
 
 StartChar: u1226D
-Encoding: 74349 74349 639
+Encoding: 677 74349 639
 Width: 1450
 VWidth: 1000
 Flags: W
@@ -8699,7 +8698,7 @@ Refer: 935 74645 S 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u1226E
-Encoding: 74350 74350 640
+Encoding: 678 74350 640
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -8711,7 +8710,7 @@ Validated: 5
 EndChar
 
 StartChar: u1226F
-Encoding: 74351 74351 641
+Encoding: 679 74351 641
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -8723,7 +8722,7 @@ Validated: 5
 EndChar
 
 StartChar: u12270
-Encoding: 74352 74352 642
+Encoding: 680 74352 642
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -8735,7 +8734,7 @@ Validated: 5
 EndChar
 
 StartChar: u12271
-Encoding: 74353 74353 643
+Encoding: 681 74353 643
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -8747,7 +8746,7 @@ Validated: 5
 EndChar
 
 StartChar: u12272
-Encoding: 74354 74354 644
+Encoding: 682 74354 644
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -8759,7 +8758,7 @@ Validated: 5
 EndChar
 
 StartChar: u12273
-Encoding: 74355 74355 645
+Encoding: 683 74355 645
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -8771,7 +8770,7 @@ Validated: 5
 EndChar
 
 StartChar: u12274
-Encoding: 74356 74356 646
+Encoding: 684 74356 646
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -8783,7 +8782,7 @@ Validated: 5
 EndChar
 
 StartChar: u12275
-Encoding: 74357 74357 647
+Encoding: 685 74357 647
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -8795,7 +8794,7 @@ Validated: 5
 EndChar
 
 StartChar: u12276
-Encoding: 74358 74358 648
+Encoding: 686 74358 648
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -8807,7 +8806,7 @@ Validated: 5
 EndChar
 
 StartChar: u12277
-Encoding: 74359 74359 649
+Encoding: 687 74359 649
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -8819,7 +8818,7 @@ Validated: 5
 EndChar
 
 StartChar: u12278
-Encoding: 74360 74360 650
+Encoding: 688 74360 650
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -8831,7 +8830,7 @@ Validated: 5
 EndChar
 
 StartChar: u12279
-Encoding: 74361 74361 651
+Encoding: 689 74361 651
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -8843,7 +8842,7 @@ Validated: 5
 EndChar
 
 StartChar: u1227A
-Encoding: 74362 74362 652
+Encoding: 690 74362 652
 Width: 662
 VWidth: 1000
 Flags: W
@@ -8857,7 +8856,7 @@ Validated: 5
 EndChar
 
 StartChar: u1227B
-Encoding: 74363 74363 653
+Encoding: 691 74363 653
 Width: 1018
 VWidth: 1000
 Flags: W
@@ -8870,7 +8869,7 @@ Refer: 269 73979 N 1 0 0 1 327.72 0 2
 EndChar
 
 StartChar: u1227C
-Encoding: 74364 74364 654
+Encoding: 692 74364 654
 Width: 1361
 VWidth: 1000
 Flags: W
@@ -8887,7 +8886,7 @@ Validated: 5
 EndChar
 
 StartChar: u1227D
-Encoding: 74365 74365 655
+Encoding: 693 74365 655
 Width: 801
 VWidth: 1000
 Flags: W
@@ -8899,7 +8898,7 @@ Validated: 5
 EndChar
 
 StartChar: u1227E
-Encoding: 74366 74366 656
+Encoding: 694 74366 656
 Width: 1840
 VWidth: 1000
 Flags: HW
@@ -8913,7 +8912,7 @@ Refer: 747 74457 N 1 0 0 1 40.1334 0 2
 EndChar
 
 StartChar: u1227F
-Encoding: 74367 74367 657
+Encoding: 695 74367 657
 Width: 1232
 VWidth: 1000
 Flags: W
@@ -8926,7 +8925,7 @@ Validated: 5
 EndChar
 
 StartChar: u12280
-Encoding: 74368 74368 658
+Encoding: 696 74368 658
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -8938,7 +8937,7 @@ Validated: 5
 EndChar
 
 StartChar: u12281
-Encoding: 74369 74369 659
+Encoding: 697 74369 659
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -8950,7 +8949,7 @@ Validated: 5
 EndChar
 
 StartChar: u12282
-Encoding: 74370 74370 660
+Encoding: 698 74370 660
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -8962,7 +8961,7 @@ Validated: 5
 EndChar
 
 StartChar: u12283
-Encoding: 74371 74371 661
+Encoding: 699 74371 661
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -8974,7 +8973,7 @@ Validated: 5
 EndChar
 
 StartChar: u12284
-Encoding: 74372 74372 662
+Encoding: 700 74372 662
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -8986,7 +8985,7 @@ Validated: 5
 EndChar
 
 StartChar: u12285
-Encoding: 74373 74373 663
+Encoding: 701 74373 663
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -8998,7 +8997,7 @@ Validated: 5
 EndChar
 
 StartChar: u12286
-Encoding: 74374 74374 664
+Encoding: 702 74374 664
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -9010,7 +9009,7 @@ Validated: 5
 EndChar
 
 StartChar: u12287
-Encoding: 74375 74375 665
+Encoding: 703 74375 665
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -9022,7 +9021,7 @@ Validated: 5
 EndChar
 
 StartChar: u12288
-Encoding: 74376 74376 666
+Encoding: 704 74376 666
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -9034,7 +9033,7 @@ Validated: 5
 EndChar
 
 StartChar: u12289
-Encoding: 74377 74377 667
+Encoding: 705 74377 667
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -9046,7 +9045,7 @@ Validated: 5
 EndChar
 
 StartChar: u1228A
-Encoding: 74378 74378 668
+Encoding: 706 74378 668
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -9058,7 +9057,7 @@ Validated: 5
 EndChar
 
 StartChar: u1228B
-Encoding: 74379 74379 669
+Encoding: 707 74379 669
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -9070,7 +9069,7 @@ Validated: 5
 EndChar
 
 StartChar: u1228C
-Encoding: 74380 74380 670
+Encoding: 708 74380 670
 Width: 1532
 VWidth: 1000
 Flags: W
@@ -9087,7 +9086,7 @@ Refer: 11 61703 N 1 0 0 1 5 60 2
 EndChar
 
 StartChar: u1228D
-Encoding: 74381 74381 671
+Encoding: 709 74381 671
 Width: 1252
 VWidth: 1000
 Flags: W
@@ -9104,7 +9103,7 @@ Refer: 10 61702 N 1 0 0 1 735 -380 2
 EndChar
 
 StartChar: u1228E
-Encoding: 74382 74382 672
+Encoding: 710 74382 672
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -9116,7 +9115,7 @@ Validated: 5
 EndChar
 
 StartChar: u1228F
-Encoding: 74383 74383 673
+Encoding: 711 74383 673
 Width: 1341
 VWidth: 1000
 Flags: W
@@ -9130,7 +9129,7 @@ Refer: 749 74459 N 1 0 0 1 450 3 2
 EndChar
 
 StartChar: u12290
-Encoding: 74384 74384 674
+Encoding: 712 74384 674
 Width: 1981
 VWidth: 1000
 Flags: W
@@ -9151,7 +9150,7 @@ Validated: 5
 EndChar
 
 StartChar: u12291
-Encoding: 74385 74385 675
+Encoding: 713 74385 675
 Width: 1205
 VWidth: 1000
 Flags: W
@@ -9167,7 +9166,7 @@ Validated: 5
 EndChar
 
 StartChar: u12292
-Encoding: 74386 74386 676
+Encoding: 714 74386 676
 Width: 1162
 VWidth: 1000
 Flags: W
@@ -9185,7 +9184,7 @@ Validated: 5
 EndChar
 
 StartChar: u12293
-Encoding: 74387 74387 677
+Encoding: 715 74387 677
 Width: 1084
 VWidth: 1000
 Flags: W
@@ -9201,7 +9200,7 @@ Validated: 5
 EndChar
 
 StartChar: u12294
-Encoding: 74388 74388 678
+Encoding: 716 74388 678
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -9213,7 +9212,7 @@ Validated: 5
 EndChar
 
 StartChar: u12295
-Encoding: 74389 74389 679
+Encoding: 717 74389 679
 Width: 1460
 VWidth: 1000
 Flags: W
@@ -9225,7 +9224,7 @@ Refer: 749 74459 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u12296
-Encoding: 74390 74390 680
+Encoding: 718 74390 680
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -9237,7 +9236,7 @@ Validated: 5
 EndChar
 
 StartChar: u12297
-Encoding: 74391 74391 681
+Encoding: 719 74391 681
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -9249,7 +9248,7 @@ Validated: 5
 EndChar
 
 StartChar: u12298
-Encoding: 74392 74392 682
+Encoding: 720 74392 682
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -9261,7 +9260,7 @@ Validated: 5
 EndChar
 
 StartChar: u12299
-Encoding: 74393 74393 683
+Encoding: 721 74393 683
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -9273,7 +9272,7 @@ Validated: 5
 EndChar
 
 StartChar: u1229A
-Encoding: 74394 74394 684
+Encoding: 722 74394 684
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -9285,7 +9284,7 @@ Validated: 5
 EndChar
 
 StartChar: u1229B
-Encoding: 74395 74395 685
+Encoding: 723 74395 685
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -9297,7 +9296,7 @@ Validated: 5
 EndChar
 
 StartChar: u1229C
-Encoding: 74396 74396 686
+Encoding: 724 74396 686
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -9309,7 +9308,7 @@ Validated: 5
 EndChar
 
 StartChar: u1229D
-Encoding: 74397 74397 687
+Encoding: 725 74397 687
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -9321,7 +9320,7 @@ Validated: 5
 EndChar
 
 StartChar: u1229E
-Encoding: 74398 74398 688
+Encoding: 726 74398 688
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -9333,7 +9332,7 @@ Validated: 5
 EndChar
 
 StartChar: u1229F
-Encoding: 74399 74399 689
+Encoding: 727 74399 689
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -9345,7 +9344,7 @@ Validated: 5
 EndChar
 
 StartChar: u122A0
-Encoding: 74400 74400 690
+Encoding: 728 74400 690
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -9357,7 +9356,7 @@ Validated: 5
 EndChar
 
 StartChar: u122A1
-Encoding: 74401 74401 691
+Encoding: 729 74401 691
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -9369,7 +9368,7 @@ Validated: 5
 EndChar
 
 StartChar: u122A2
-Encoding: 74402 74402 692
+Encoding: 730 74402 692
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -9381,7 +9380,7 @@ Validated: 5
 EndChar
 
 StartChar: u122A3
-Encoding: 74403 74403 693
+Encoding: 731 74403 693
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -9393,7 +9392,7 @@ Validated: 5
 EndChar
 
 StartChar: u122A4
-Encoding: 74404 74404 694
+Encoding: 732 74404 694
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -9405,7 +9404,7 @@ Validated: 5
 EndChar
 
 StartChar: u122A5
-Encoding: 74405 74405 695
+Encoding: 733 74405 695
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -9417,7 +9416,7 @@ Validated: 5
 EndChar
 
 StartChar: u122A6
-Encoding: 74406 74406 696
+Encoding: 734 74406 696
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -9429,7 +9428,7 @@ Validated: 5
 EndChar
 
 StartChar: u122A7
-Encoding: 74407 74407 697
+Encoding: 735 74407 697
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -9441,7 +9440,7 @@ Validated: 5
 EndChar
 
 StartChar: u122A8
-Encoding: 74408 74408 698
+Encoding: 736 74408 698
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -9453,7 +9452,7 @@ Validated: 5
 EndChar
 
 StartChar: u122A9
-Encoding: 74409 74409 699
+Encoding: 737 74409 699
 Width: 869
 VWidth: 1000
 Flags: W
@@ -9467,7 +9466,7 @@ Validated: 5
 EndChar
 
 StartChar: u122AA
-Encoding: 74410 74410 700
+Encoding: 738 74410 700
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -9479,7 +9478,7 @@ Validated: 5
 EndChar
 
 StartChar: u122AB
-Encoding: 74411 74411 701
+Encoding: 739 74411 701
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -9491,7 +9490,7 @@ Validated: 5
 EndChar
 
 StartChar: u122AC
-Encoding: 74412 74412 702
+Encoding: 740 74412 702
 Width: 1670
 VWidth: 1000
 Flags: W
@@ -9503,7 +9502,7 @@ Refer: 179 73889 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u122AD
-Encoding: 74413 74413 703
+Encoding: 741 74413 703
 Width: 1206
 VWidth: 1000
 Flags: W
@@ -9520,7 +9519,7 @@ Refer: 7 61699 N 1 0 0 1 745 0 2
 EndChar
 
 StartChar: u122AE
-Encoding: 74414 74414 704
+Encoding: 742 74414 704
 Width: 1118
 VWidth: 1000
 Flags: W
@@ -9534,7 +9533,7 @@ Validated: 5
 EndChar
 
 StartChar: u122AF
-Encoding: 74415 74415 705
+Encoding: 743 74415 705
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -9546,7 +9545,7 @@ Validated: 5
 EndChar
 
 StartChar: u122B0
-Encoding: 74416 74416 706
+Encoding: 744 74416 706
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -9558,7 +9557,7 @@ Validated: 5
 EndChar
 
 StartChar: u122B1
-Encoding: 74417 74417 707
+Encoding: 745 74417 707
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -9570,7 +9569,7 @@ Validated: 5
 EndChar
 
 StartChar: u122B2
-Encoding: 74418 74418 708
+Encoding: 746 74418 708
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -9582,7 +9581,7 @@ Validated: 5
 EndChar
 
 StartChar: u122B3
-Encoding: 74419 74419 709
+Encoding: 747 74419 709
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -9594,7 +9593,7 @@ Validated: 5
 EndChar
 
 StartChar: u122B4
-Encoding: 74420 74420 710
+Encoding: 748 74420 710
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -9606,7 +9605,7 @@ Validated: 5
 EndChar
 
 StartChar: u122B5
-Encoding: 74421 74421 711
+Encoding: 749 74421 711
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -9618,7 +9617,7 @@ Validated: 5
 EndChar
 
 StartChar: u122B6
-Encoding: 74422 74422 712
+Encoding: 750 74422 712
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -9630,7 +9629,7 @@ Validated: 5
 EndChar
 
 StartChar: u122B7
-Encoding: 74423 74423 713
+Encoding: 751 74423 713
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -9642,7 +9641,7 @@ Validated: 5
 EndChar
 
 StartChar: u122B8
-Encoding: 74424 74424 714
+Encoding: 752 74424 714
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -9654,7 +9653,7 @@ Validated: 5
 EndChar
 
 StartChar: u122B9
-Encoding: 74425 74425 715
+Encoding: 753 74425 715
 Width: 800
 VWidth: 1000
 Flags: W
@@ -9664,7 +9663,7 @@ Refer: 937 74647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u122BA
-Encoding: 74426 74426 716
+Encoding: 754 74426 716
 Width: 674
 VWidth: 1000
 Flags: W
@@ -9678,7 +9677,7 @@ Validated: 5
 EndChar
 
 StartChar: u122BB
-Encoding: 74427 74427 717
+Encoding: 755 74427 717
 Width: 1367
 VWidth: 1000
 Flags: W
@@ -9691,7 +9690,7 @@ Validated: 5
 EndChar
 
 StartChar: u122BC
-Encoding: 74428 74428 718
+Encoding: 756 74428 718
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -9703,7 +9702,7 @@ Validated: 5
 EndChar
 
 StartChar: u122BD
-Encoding: 74429 74429 719
+Encoding: 757 74429 719
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -9715,7 +9714,7 @@ Validated: 5
 EndChar
 
 StartChar: u122BE
-Encoding: 74430 74430 720
+Encoding: 758 74430 720
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -9727,7 +9726,7 @@ Validated: 5
 EndChar
 
 StartChar: u122BF
-Encoding: 74431 74431 721
+Encoding: 759 74431 721
 Width: 1610
 VWidth: 1000
 Flags: W
@@ -9741,7 +9740,7 @@ Refer: 7 61699 N 1 0 0 1 1335 0 2
 EndChar
 
 StartChar: u122C0
-Encoding: 74432 74432 722
+Encoding: 760 74432 722
 Width: 1769
 VWidth: 1000
 Flags: W
@@ -9762,7 +9761,7 @@ Refer: 8 61700 N 1 0 0 1 944.946 0 2
 EndChar
 
 StartChar: u122C1
-Encoding: 74433 74433 723
+Encoding: 761 74433 723
 Width: 3486
 VWidth: 1000
 Flags: HW
@@ -9774,7 +9773,7 @@ Refer: 754 74464 N 1 0 0 1 0.946289 0 2
 EndChar
 
 StartChar: u122C2
-Encoding: 74434 74434 724
+Encoding: 762 74434 724
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -9786,7 +9785,7 @@ Validated: 5
 EndChar
 
 StartChar: u122C3
-Encoding: 74435 74435 725
+Encoding: 763 74435 725
 Width: 1121
 VWidth: 1000
 Flags: W
@@ -9797,7 +9796,7 @@ Refer: 571 74281 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u122C4
-Encoding: 74436 74436 726
+Encoding: 764 74436 726
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -9809,7 +9808,7 @@ Validated: 5
 EndChar
 
 StartChar: u122C5
-Encoding: 74437 74437 727
+Encoding: 765 74437 727
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -9821,7 +9820,7 @@ Validated: 5
 EndChar
 
 StartChar: u122C6
-Encoding: 74438 74438 728
+Encoding: 766 74438 728
 Width: 1730
 VWidth: 1000
 Flags: W
@@ -9836,7 +9835,7 @@ Refer: 15 61707 N 1 0 0 1 975 -214.5 2
 EndChar
 
 StartChar: u122C7
-Encoding: 74439 74439 729
+Encoding: 767 74439 729
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -9848,7 +9847,7 @@ Validated: 5
 EndChar
 
 StartChar: u122C8
-Encoding: 74440 74440 730
+Encoding: 768 74440 730
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -9860,7 +9859,7 @@ Validated: 5
 EndChar
 
 StartChar: u122C9
-Encoding: 74441 74441 731
+Encoding: 769 74441 731
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -9872,7 +9871,7 @@ Validated: 5
 EndChar
 
 StartChar: u122CA
-Encoding: 74442 74442 732
+Encoding: 770 74442 732
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -9884,7 +9883,7 @@ Validated: 5
 EndChar
 
 StartChar: u122CB
-Encoding: 74443 74443 733
+Encoding: 771 74443 733
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -9896,7 +9895,7 @@ Validated: 5
 EndChar
 
 StartChar: u122CC
-Encoding: 74444 74444 734
+Encoding: 772 74444 734
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -9908,7 +9907,7 @@ Validated: 5
 EndChar
 
 StartChar: u122CD
-Encoding: 74445 74445 735
+Encoding: 773 74445 735
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -9920,7 +9919,7 @@ Validated: 5
 EndChar
 
 StartChar: u122CE
-Encoding: 74446 74446 736
+Encoding: 774 74446 736
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -9932,7 +9931,7 @@ Validated: 5
 EndChar
 
 StartChar: u122CF
-Encoding: 74447 74447 737
+Encoding: 775 74447 737
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -9944,7 +9943,7 @@ Validated: 5
 EndChar
 
 StartChar: u122D0
-Encoding: 74448 74448 738
+Encoding: 776 74448 738
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -9956,7 +9955,7 @@ Validated: 5
 EndChar
 
 StartChar: u122D1
-Encoding: 74449 74449 739
+Encoding: 777 74449 739
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -9968,7 +9967,7 @@ Validated: 5
 EndChar
 
 StartChar: u122D2
-Encoding: 74450 74450 740
+Encoding: 778 74450 740
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -9980,7 +9979,7 @@ Validated: 5
 EndChar
 
 StartChar: u122D3
-Encoding: 74451 74451 741
+Encoding: 779 74451 741
 Width: 1219
 VWidth: 1000
 Flags: W
@@ -9991,7 +9990,7 @@ Refer: 628 74338 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u122D4
-Encoding: 74452 74452 742
+Encoding: 780 74452 742
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -10003,7 +10002,7 @@ Validated: 5
 EndChar
 
 StartChar: u122D5
-Encoding: 74453 74453 743
+Encoding: 781 74453 743
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -10015,7 +10014,7 @@ Validated: 5
 EndChar
 
 StartChar: u122D6
-Encoding: 74454 74454 744
+Encoding: 782 74454 744
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -10027,7 +10026,7 @@ Validated: 5
 EndChar
 
 StartChar: u122D7
-Encoding: 74455 74455 745
+Encoding: 783 74455 745
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -10043,7 +10042,7 @@ Validated: 5
 EndChar
 
 StartChar: u122D8
-Encoding: 74456 74456 746
+Encoding: 784 74456 746
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -10055,7 +10054,7 @@ Validated: 5
 EndChar
 
 StartChar: u122D9
-Encoding: 74457 74457 747
+Encoding: 785 74457 747
 Width: 300
 VWidth: 1000
 Flags: W
@@ -10068,7 +10067,7 @@ Validated: 5
 EndChar
 
 StartChar: u122DA
-Encoding: 74458 74458 748
+Encoding: 786 74458 748
 Width: 2735
 VWidth: 1000
 Flags: HW
@@ -10080,7 +10079,7 @@ Refer: 809 74519 N 1 0 0 1 -5 0 2
 EndChar
 
 StartChar: u122DB
-Encoding: 74459 74459 749
+Encoding: 787 74459 749
 Width: 892
 VWidth: 1000
 Flags: W
@@ -10094,7 +10093,7 @@ Refer: 7 61699 N 1 0 0 1 430 0 2
 EndChar
 
 StartChar: u122DC
-Encoding: 74460 74460 750
+Encoding: 788 74460 750
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -10106,7 +10105,7 @@ Validated: 5
 EndChar
 
 StartChar: u122DD
-Encoding: 74461 74461 751
+Encoding: 789 74461 751
 Width: 678
 VWidth: 1000
 Flags: HW
@@ -10118,7 +10117,7 @@ Refer: 747 74457 N 1 0 0 1 40.1334 0 2
 EndChar
 
 StartChar: u122DE
-Encoding: 74462 74462 752
+Encoding: 790 74462 752
 Width: 1452
 VWidth: 1000
 Flags: W
@@ -10138,7 +10137,7 @@ Refer: 1058 61715 N 1 0 0 1 979 71 2
 EndChar
 
 StartChar: u122DF
-Encoding: 74463 74463 753
+Encoding: 791 74463 753
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -10150,7 +10149,7 @@ Validated: 5
 EndChar
 
 StartChar: u122E0
-Encoding: 74464 74464 754
+Encoding: 792 74464 754
 Width: 1802
 VWidth: 1000
 Flags: W
@@ -10164,7 +10163,7 @@ Refer: 439 74149 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u122E1
-Encoding: 74465 74465 755
+Encoding: 793 74465 755
 Width: 661
 VWidth: 1000
 Flags: W
@@ -10177,7 +10176,7 @@ Refer: 7 61699 N 1 0 0 1 430 0 2
 EndChar
 
 StartChar: u122E2
-Encoding: 74466 74466 756
+Encoding: 794 74466 756
 Width: 1336
 VWidth: 1000
 Flags: W
@@ -10189,7 +10188,7 @@ Refer: 892 74602 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u122E3
-Encoding: 74467 74467 757
+Encoding: 795 74467 757
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -10201,7 +10200,7 @@ Validated: 5
 EndChar
 
 StartChar: u122E4
-Encoding: 74468 74468 758
+Encoding: 796 74468 758
 Width: 1605
 VWidth: 1000
 Flags: HW
@@ -10216,7 +10215,7 @@ Refer: 7 61699 S 1 0 0 1 1375.13 0 2
 EndChar
 
 StartChar: u122E5
-Encoding: 74469 74469 759
+Encoding: 797 74469 759
 Width: 1460
 VWidth: 1000
 Flags: W
@@ -10230,7 +10229,7 @@ Refer: 15 61707 N 1 0 0 1 1014.95 70 2
 EndChar
 
 StartChar: u122E6
-Encoding: 74470 74470 760
+Encoding: 798 74470 760
 Width: 2240
 VWidth: 1000
 Flags: W
@@ -10246,7 +10245,7 @@ Refer: 937 74647 N 1 0 0 1 0.0991845 0 2
 EndChar
 
 StartChar: u122E7
-Encoding: 74471 74471 761
+Encoding: 799 74471 761
 Width: 1116
 VWidth: 1000
 Flags: W
@@ -10263,7 +10262,7 @@ Validated: 5
 EndChar
 
 StartChar: u122E8
-Encoding: 74472 74472 762
+Encoding: 800 74472 762
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -10275,7 +10274,7 @@ Validated: 5
 EndChar
 
 StartChar: u122E9
-Encoding: 74473 74473 763
+Encoding: 801 74473 763
 Width: 999
 VWidth: 1000
 Flags: HW
@@ -10288,7 +10287,7 @@ Refer: 269 73979 N 1 0 0 1 310 0 2
 EndChar
 
 StartChar: u122EA
-Encoding: 74474 74474 764
+Encoding: 802 74474 764
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -10300,7 +10299,7 @@ Validated: 5
 EndChar
 
 StartChar: u122EB
-Encoding: 74475 74475 765
+Encoding: 803 74475 765
 Width: 1226
 VWidth: 1000
 Flags: W
@@ -10318,7 +10317,7 @@ Refer: 7 61699 N 1 0 0 1 535 0 2
 EndChar
 
 StartChar: u122EC
-Encoding: 74476 74476 766
+Encoding: 804 74476 766
 Width: 1260
 VWidth: 1000
 Flags: W
@@ -10335,7 +10334,7 @@ Refer: 7 61699 N 1 0 0 1 569.946 0 2
 EndChar
 
 StartChar: u122ED
-Encoding: 74477 74477 767
+Encoding: 805 74477 767
 Width: 1435
 VWidth: 1000
 Flags: HW
@@ -10348,7 +10347,7 @@ Refer: 937 74647 S 1 0 0 1 469.946 0 2
 EndChar
 
 StartChar: u122EE
-Encoding: 74478 74478 768
+Encoding: 806 74478 768
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -10360,7 +10359,7 @@ Validated: 5
 EndChar
 
 StartChar: u122EF
-Encoding: 74479 74479 769
+Encoding: 807 74479 769
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -10372,7 +10371,7 @@ Validated: 5
 EndChar
 
 StartChar: u122F0
-Encoding: 74480 74480 770
+Encoding: 808 74480 770
 Width: 800
 VWidth: 1000
 Flags: W
@@ -10383,7 +10382,7 @@ Refer: 10 61702 N 1 0 0 1 284.946 95 2
 EndChar
 
 StartChar: u122F1
-Encoding: 74481 74481 771
+Encoding: 809 74481 771
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -10395,7 +10394,7 @@ Validated: 5
 EndChar
 
 StartChar: u122F2
-Encoding: 74482 74482 772
+Encoding: 810 74482 772
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -10407,7 +10406,7 @@ Validated: 5
 EndChar
 
 StartChar: u122F3
-Encoding: 74483 74483 773
+Encoding: 811 74483 773
 Width: 1004
 VWidth: 1000
 Flags: W
@@ -10422,7 +10421,7 @@ Validated: 5
 EndChar
 
 StartChar: u122F4
-Encoding: 74484 74484 774
+Encoding: 812 74484 774
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -10434,7 +10433,7 @@ Validated: 5
 EndChar
 
 StartChar: u122F5
-Encoding: 74485 74485 775
+Encoding: 813 74485 775
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -10446,7 +10445,7 @@ Validated: 5
 EndChar
 
 StartChar: u122F6
-Encoding: 74486 74486 776
+Encoding: 814 74486 776
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -10458,7 +10457,7 @@ Validated: 5
 EndChar
 
 StartChar: u122F7
-Encoding: 74487 74487 777
+Encoding: 815 74487 777
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -10470,7 +10469,7 @@ Validated: 5
 EndChar
 
 StartChar: u122F8
-Encoding: 74488 74488 778
+Encoding: 816 74488 778
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -10482,7 +10481,7 @@ Validated: 5
 EndChar
 
 StartChar: u122F9
-Encoding: 74489 74489 779
+Encoding: 817 74489 779
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -10494,7 +10493,7 @@ Validated: 5
 EndChar
 
 StartChar: u122FA
-Encoding: 74490 74490 780
+Encoding: 818 74490 780
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -10506,7 +10505,7 @@ Validated: 5
 EndChar
 
 StartChar: u122FB
-Encoding: 74491 74491 781
+Encoding: 819 74491 781
 Width: 940
 VWidth: 1000
 Flags: W
@@ -10519,7 +10518,7 @@ Validated: 5
 EndChar
 
 StartChar: u122FC
-Encoding: 74492 74492 782
+Encoding: 820 74492 782
 Width: 853
 VWidth: 1000
 Flags: W
@@ -10532,7 +10531,7 @@ Validated: 5
 EndChar
 
 StartChar: u122FD
-Encoding: 74493 74493 783
+Encoding: 821 74493 783
 Width: 1225
 VWidth: 1000
 Flags: W
@@ -10543,7 +10542,7 @@ Refer: 791 74501 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u122FE
-Encoding: 74494 74494 784
+Encoding: 822 74494 784
 Width: 1067
 VWidth: 1000
 Flags: W
@@ -10558,7 +10557,7 @@ Validated: 5
 EndChar
 
 StartChar: u122FF
-Encoding: 74495 74495 785
+Encoding: 823 74495 785
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -10570,7 +10569,7 @@ Validated: 5
 EndChar
 
 StartChar: u12300
-Encoding: 74496 74496 786
+Encoding: 824 74496 786
 Width: 760
 VWidth: 1000
 Flags: W
@@ -10581,7 +10580,7 @@ Refer: 873 74583 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u12301
-Encoding: 74497 74497 787
+Encoding: 825 74497 787
 Width: 2070
 VWidth: 1000
 Flags: HW
@@ -10593,7 +10592,7 @@ Refer: 716 74426 N 1 0 0 1 0.128057 0 2
 EndChar
 
 StartChar: u12302
-Encoding: 74498 74498 788
+Encoding: 826 74498 788
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -10605,7 +10604,7 @@ Validated: 5
 EndChar
 
 StartChar: u12303
-Encoding: 74499 74499 789
+Encoding: 827 74499 789
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -10617,7 +10616,7 @@ Validated: 5
 EndChar
 
 StartChar: u12304
-Encoding: 74500 74500 790
+Encoding: 828 74500 790
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -10629,7 +10628,7 @@ Validated: 5
 EndChar
 
 StartChar: u12305
-Encoding: 74501 74501 791
+Encoding: 829 74501 791
 Width: 1225
 VWidth: 1000
 Flags: W
@@ -10647,7 +10646,7 @@ Refer: 7 61699 N 1 0 0 1 995 0 2
 EndChar
 
 StartChar: u12306
-Encoding: 74502 74502 792
+Encoding: 830 74502 792
 Width: 1081
 VWidth: 1000
 Flags: W
@@ -10658,7 +10657,7 @@ Refer: 444 74154 S 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u12307
-Encoding: 74503 74503 793
+Encoding: 831 74503 793
 Width: 800
 VWidth: 1000
 Flags: W
@@ -10672,7 +10671,7 @@ Refer: 9 61701 N 1 0 0 1 730.946 285 2
 EndChar
 
 StartChar: u12308
-Encoding: 74504 74504 794
+Encoding: 832 74504 794
 Width: 1500
 VWidth: 1000
 Flags: W
@@ -10689,7 +10688,7 @@ Refer: 11 61703 N 1 0 0 1 984 225 2
 EndChar
 
 StartChar: u12309
-Encoding: 74505 74505 795
+Encoding: 833 74505 795
 Width: 1252
 VWidth: 1000
 Flags: W
@@ -10705,7 +10704,7 @@ Refer: 14 61706 N 1 0 0 1 870 -80 2
 EndChar
 
 StartChar: u1230A
-Encoding: 74506 74506 796
+Encoding: 834 74506 796
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -10717,7 +10716,7 @@ Validated: 5
 EndChar
 
 StartChar: u1230B
-Encoding: 74507 74507 797
+Encoding: 835 74507 797
 Width: 384
 Flags: W
 LayerCount: 2
@@ -10727,7 +10726,7 @@ Validated: 5
 EndChar
 
 StartChar: u1230C
-Encoding: 74508 74508 798
+Encoding: 836 74508 798
 Width: 1241
 Flags: W
 VStem: 848.477 27.0928<-0.0380533 297.667>
@@ -10738,7 +10737,7 @@ Refer: 797 74507 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u1230D
-Encoding: 74509 74509 799
+Encoding: 837 74509 799
 Width: 804
 Flags: W
 LayerCount: 2
@@ -10750,7 +10749,7 @@ Validated: 5
 EndChar
 
 StartChar: u1230E
-Encoding: 74510 74510 800
+Encoding: 838 74510 800
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -10762,7 +10761,7 @@ Validated: 5
 EndChar
 
 StartChar: u1230F
-Encoding: 74511 74511 801
+Encoding: 839 74511 801
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -10774,7 +10773,7 @@ Validated: 5
 EndChar
 
 StartChar: u12310
-Encoding: 74512 74512 802
+Encoding: 840 74512 802
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -10786,7 +10785,7 @@ Validated: 5
 EndChar
 
 StartChar: u12311
-Encoding: 74513 74513 803
+Encoding: 841 74513 803
 Width: 1387
 VWidth: 1000
 Flags: W
@@ -10801,7 +10800,7 @@ Refer: 291 74001 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u12312
-Encoding: 74514 74514 804
+Encoding: 842 74514 804
 Width: 1382
 VWidth: 1000
 Flags: W
@@ -10821,7 +10820,7 @@ Refer: 9 61701 N 1 0 0 1 865 95 2
 EndChar
 
 StartChar: u12313
-Encoding: 74515 74515 805
+Encoding: 843 74515 805
 Width: 660
 VWidth: 1000
 Flags: W
@@ -10835,7 +10834,7 @@ Validated: 5
 EndChar
 
 StartChar: u12314
-Encoding: 74516 74516 806
+Encoding: 844 74516 806
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -10847,7 +10846,7 @@ Validated: 5
 EndChar
 
 StartChar: u12315
-Encoding: 74517 74517 807
+Encoding: 845 74517 807
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -10859,7 +10858,7 @@ Validated: 5
 EndChar
 
 StartChar: u12316
-Encoding: 74518 74518 808
+Encoding: 846 74518 808
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -10871,7 +10870,7 @@ Validated: 5
 EndChar
 
 StartChar: u12317
-Encoding: 74519 74519 809
+Encoding: 847 74519 809
 Width: 1500
 VWidth: 1000
 Flags: W
@@ -10887,7 +10886,7 @@ Refer: 9 61701 N 1 0 0 1 901 175 2
 EndChar
 
 StartChar: u12318
-Encoding: 74520 74520 810
+Encoding: 848 74520 810
 Width: 1625
 Flags: W
 VStem: 1473.48 27.0928<-0.0380533 186.46 445.962 501.664>
@@ -10897,7 +10896,7 @@ Refer: 626 74336 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u12319
-Encoding: 74521 74521 811
+Encoding: 849 74521 811
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -10909,7 +10908,7 @@ Validated: 5
 EndChar
 
 StartChar: u1231A
-Encoding: 74522 74522 812
+Encoding: 850 74522 812
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -10921,7 +10920,7 @@ Validated: 5
 EndChar
 
 StartChar: u1231B
-Encoding: 74523 74523 813
+Encoding: 851 74523 813
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -10933,7 +10932,7 @@ Validated: 5
 EndChar
 
 StartChar: u1231C
-Encoding: 74524 74524 814
+Encoding: 852 74524 814
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -10945,7 +10944,7 @@ Validated: 5
 EndChar
 
 StartChar: u1231D
-Encoding: 74525 74525 815
+Encoding: 853 74525 815
 Width: 1126
 VWidth: 1000
 Flags: W
@@ -10963,7 +10962,7 @@ Refer: 7 61699 N 1 0 0 1 435 0 2
 EndChar
 
 StartChar: u1231E
-Encoding: 74526 74526 816
+Encoding: 854 74526 816
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -10975,7 +10974,7 @@ Validated: 5
 EndChar
 
 StartChar: u1231F
-Encoding: 74527 74527 817
+Encoding: 855 74527 817
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -10987,7 +10986,7 @@ Validated: 5
 EndChar
 
 StartChar: u12320
-Encoding: 74528 74528 818
+Encoding: 856 74528 818
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -10999,7 +10998,7 @@ Validated: 5
 EndChar
 
 StartChar: u12321
-Encoding: 74529 74529 819
+Encoding: 857 74529 819
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -11011,7 +11010,7 @@ Validated: 5
 EndChar
 
 StartChar: u12322
-Encoding: 74530 74530 820
+Encoding: 858 74530 820
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -11023,7 +11022,7 @@ Validated: 5
 EndChar
 
 StartChar: u12323
-Encoding: 74531 74531 821
+Encoding: 859 74531 821
 Width: 1625
 Flags: W
 HStem: 0 21G<0 124.743 875.257 1000>
@@ -11033,7 +11032,7 @@ Refer: 626 74336 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u12324
-Encoding: 74532 74532 822
+Encoding: 860 74532 822
 Width: 1625
 Flags: W
 HStem: 0 21G<0 124.743 875.257 1000>
@@ -11043,7 +11042,7 @@ Refer: 626 74336 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u12325
-Encoding: 74533 74533 823
+Encoding: 861 74533 823
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -11055,7 +11054,7 @@ Validated: 5
 EndChar
 
 StartChar: u12326
-Encoding: 74534 74534 824
+Encoding: 862 74534 824
 Width: 1121
 VWidth: 1000
 Flags: W
@@ -11068,7 +11067,7 @@ Refer: 291 74001 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u12327
-Encoding: 74535 74535 825
+Encoding: 863 74535 825
 Width: 1121
 VWidth: 1000
 Flags: W
@@ -11079,7 +11078,7 @@ Refer: 824 74534 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u12328
-Encoding: 74536 74536 826
+Encoding: 864 74536 826
 Width: 936
 VWidth: 1000
 Flags: W
@@ -11095,7 +11094,7 @@ Validated: 5
 EndChar
 
 StartChar: u12329
-Encoding: 74537 74537 827
+Encoding: 865 74537 827
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -11107,7 +11106,7 @@ Validated: 5
 EndChar
 
 StartChar: u1232A
-Encoding: 74538 74538 828
+Encoding: 866 74538 828
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -11119,7 +11118,7 @@ Validated: 5
 EndChar
 
 StartChar: u1232B
-Encoding: 74539 74539 829
+Encoding: 867 74539 829
 Width: 1760
 VWidth: 1000
 Flags: HW
@@ -11134,7 +11133,7 @@ Refer: 83 73793 N 1 0 0 1 -0.0537109 95 2
 EndChar
 
 StartChar: u1232C
-Encoding: 74540 74540 830
+Encoding: 868 74540 830
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -11146,7 +11145,7 @@ Validated: 5
 EndChar
 
 StartChar: u1232D
-Encoding: 74541 74541 831
+Encoding: 869 74541 831
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -11158,7 +11157,7 @@ Validated: 5
 EndChar
 
 StartChar: u1232E
-Encoding: 74542 74542 832
+Encoding: 870 74542 832
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -11170,7 +11169,7 @@ Validated: 5
 EndChar
 
 StartChar: u1232F
-Encoding: 74543 74543 833
+Encoding: 871 74543 833
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -11182,7 +11181,7 @@ Validated: 5
 EndChar
 
 StartChar: u12330
-Encoding: 74544 74544 834
+Encoding: 872 74544 834
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -11194,7 +11193,7 @@ Validated: 5
 EndChar
 
 StartChar: u12331
-Encoding: 74545 74545 835
+Encoding: 873 74545 835
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -11206,7 +11205,7 @@ Validated: 5
 EndChar
 
 StartChar: u12332
-Encoding: 74546 74546 836
+Encoding: 874 74546 836
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -11218,7 +11217,7 @@ Validated: 5
 EndChar
 
 StartChar: u12333
-Encoding: 74547 74547 837
+Encoding: 875 74547 837
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -11230,7 +11229,7 @@ Validated: 5
 EndChar
 
 StartChar: u12334
-Encoding: 74548 74548 838
+Encoding: 876 74548 838
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -11242,7 +11241,7 @@ Validated: 5
 EndChar
 
 StartChar: u12335
-Encoding: 74549 74549 839
+Encoding: 877 74549 839
 Width: 1453
 VWidth: 1000
 Flags: W
@@ -11263,7 +11262,7 @@ Refer: 6 61698 N 1 0 0 1 1159.95 0 2
 EndChar
 
 StartChar: u12336
-Encoding: 74550 74550 840
+Encoding: 878 74550 840
 Width: 1769
 VWidth: 1000
 Flags: W
@@ -11274,7 +11273,7 @@ Refer: 722 74432 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u12337
-Encoding: 74551 74551 841
+Encoding: 879 74551 841
 Width: 1063
 VWidth: 1000
 Flags: W
@@ -11290,7 +11289,7 @@ Validated: 5
 EndChar
 
 StartChar: u12338
-Encoding: 74552 74552 842
+Encoding: 880 74552 842
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -11302,7 +11301,7 @@ Validated: 5
 EndChar
 
 StartChar: u12339
-Encoding: 74553 74553 843
+Encoding: 881 74553 843
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -11314,7 +11313,7 @@ Validated: 5
 EndChar
 
 StartChar: u1233A
-Encoding: 74554 74554 844
+Encoding: 882 74554 844
 Width: 1405
 VWidth: 1000
 Flags: HW
@@ -11330,7 +11329,7 @@ Refer: 9 61701 N 1 0 0 1 284.946 -5 2
 EndChar
 
 StartChar: u1233B
-Encoding: 74555 74555 845
+Encoding: 883 74555 845
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -11342,7 +11341,7 @@ Validated: 5
 EndChar
 
 StartChar: u1233C
-Encoding: 74556 74556 846
+Encoding: 884 74556 846
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -11354,7 +11353,7 @@ Validated: 5
 EndChar
 
 StartChar: u1233D
-Encoding: 74557 74557 847
+Encoding: 885 74557 847
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -11366,7 +11365,7 @@ Validated: 5
 EndChar
 
 StartChar: u1233E
-Encoding: 74558 74558 848
+Encoding: 886 74558 848
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -11378,7 +11377,7 @@ Validated: 5
 EndChar
 
 StartChar: u1233F
-Encoding: 74559 74559 849
+Encoding: 887 74559 849
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -11390,7 +11389,7 @@ Validated: 5
 EndChar
 
 StartChar: u12340
-Encoding: 74560 74560 850
+Encoding: 888 74560 850
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -11402,7 +11401,7 @@ Validated: 5
 EndChar
 
 StartChar: u12341
-Encoding: 74561 74561 851
+Encoding: 889 74561 851
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -11414,7 +11413,7 @@ Validated: 5
 EndChar
 
 StartChar: u12342
-Encoding: 74562 74562 852
+Encoding: 890 74562 852
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -11426,7 +11425,7 @@ Validated: 5
 EndChar
 
 StartChar: u12343
-Encoding: 74563 74563 853
+Encoding: 891 74563 853
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -11438,7 +11437,7 @@ Validated: 5
 EndChar
 
 StartChar: u12344
-Encoding: 74564 74564 854
+Encoding: 892 74564 854
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -11450,7 +11449,7 @@ Validated: 5
 EndChar
 
 StartChar: u12345
-Encoding: 74565 74565 855
+Encoding: 893 74565 855
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -11462,7 +11461,7 @@ Validated: 5
 EndChar
 
 StartChar: u12346
-Encoding: 74566 74566 856
+Encoding: 894 74566 856
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -11474,7 +11473,7 @@ Validated: 5
 EndChar
 
 StartChar: u12347
-Encoding: 74567 74567 857
+Encoding: 895 74567 857
 Width: 1375
 VWidth: 1000
 Flags: HW
@@ -11490,7 +11489,7 @@ Refer: 9 61701 N 1 0 0 1 284.946 -5 2
 EndChar
 
 StartChar: u12348
-Encoding: 74568 74568 858
+Encoding: 896 74568 858
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -11502,7 +11501,7 @@ Validated: 5
 EndChar
 
 StartChar: u12349
-Encoding: 74569 74569 859
+Encoding: 897 74569 859
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -11514,7 +11513,7 @@ Validated: 5
 EndChar
 
 StartChar: u1234A
-Encoding: 74570 74570 860
+Encoding: 898 74570 860
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -11526,7 +11525,7 @@ Validated: 5
 EndChar
 
 StartChar: u1234B
-Encoding: 74571 74571 861
+Encoding: 899 74571 861
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -11538,7 +11537,7 @@ Validated: 5
 EndChar
 
 StartChar: u1234C
-Encoding: 74572 74572 862
+Encoding: 900 74572 862
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -11550,7 +11549,7 @@ Validated: 5
 EndChar
 
 StartChar: u1234D
-Encoding: 74573 74573 863
+Encoding: 901 74573 863
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -11562,7 +11561,7 @@ Validated: 5
 EndChar
 
 StartChar: u1234E
-Encoding: 74574 74574 864
+Encoding: 902 74574 864
 Width: 1785
 VWidth: 1000
 Flags: HW
@@ -11578,7 +11577,7 @@ Refer: 9 61701 N 1 0 0 1 284.946 -5 2
 EndChar
 
 StartChar: u1234F
-Encoding: 74575 74575 865
+Encoding: 903 74575 865
 Width: 1420
 Flags: HW
 VStem: 972.061 20.3196<34.9028 174.776 369.403 411.179> 1144.56 20.3196<369.403 411.179> 1144.56 20.3196<34.9028 174.776> 1478.48 27.0928<-0.0380533 297.667>
@@ -11593,7 +11592,7 @@ Refer: 797 74507 N 1 0 0 1 550 0 2
 EndChar
 
 StartChar: u12350
-Encoding: 74576 74576 866
+Encoding: 904 74576 866
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -11605,7 +11604,7 @@ Validated: 5
 EndChar
 
 StartChar: u12351
-Encoding: 74577 74577 867
+Encoding: 905 74577 867
 Width: 1115
 VWidth: 1000
 Flags: W
@@ -11620,7 +11619,7 @@ Refer: 8 61700 N 1 0 0 1 265 1 2
 EndChar
 
 StartChar: u12352
-Encoding: 74578 74578 868
+Encoding: 906 74578 868
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -11632,7 +11631,7 @@ Validated: 5
 EndChar
 
 StartChar: u12353
-Encoding: 74579 74579 869
+Encoding: 907 74579 869
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -11644,7 +11643,7 @@ Validated: 5
 EndChar
 
 StartChar: u12354
-Encoding: 74580 74580 870
+Encoding: 908 74580 870
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -11656,7 +11655,7 @@ Validated: 5
 EndChar
 
 StartChar: u12355
-Encoding: 74581 74581 871
+Encoding: 909 74581 871
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -11668,7 +11667,7 @@ Validated: 5
 EndChar
 
 StartChar: u12356
-Encoding: 74582 74582 872
+Encoding: 910 74582 872
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -11680,7 +11679,7 @@ Validated: 5
 EndChar
 
 StartChar: u12357
-Encoding: 74583 74583 873
+Encoding: 911 74583 873
 Width: 760
 VWidth: 1000
 Flags: W
@@ -11691,7 +11690,7 @@ Refer: 11 61703 N 1 0 0 1 5 0 2
 EndChar
 
 StartChar: u12358
-Encoding: 74584 74584 874
+Encoding: 912 74584 874
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -11703,7 +11702,7 @@ Validated: 5
 EndChar
 
 StartChar: u12359
-Encoding: 74585 74585 875
+Encoding: 913 74585 875
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -11715,7 +11714,7 @@ Validated: 5
 EndChar
 
 StartChar: u1235A
-Encoding: 74586 74586 876
+Encoding: 914 74586 876
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -11727,7 +11726,7 @@ Validated: 5
 EndChar
 
 StartChar: u1235B
-Encoding: 74587 74587 877
+Encoding: 915 74587 877
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -11739,7 +11738,7 @@ Validated: 5
 EndChar
 
 StartChar: u1235C
-Encoding: 74588 74588 878
+Encoding: 916 74588 878
 Width: 1790
 VWidth: 1000
 Flags: W
@@ -11750,7 +11749,7 @@ Refer: 306 74016 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u1235D
-Encoding: 74589 74589 879
+Encoding: 917 74589 879
 Width: 461
 VWidth: 1000
 Flags: W
@@ -11763,7 +11762,7 @@ Validated: 5
 EndChar
 
 StartChar: u1235E
-Encoding: 74590 74590 880
+Encoding: 918 74590 880
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -11775,7 +11774,7 @@ Validated: 5
 EndChar
 
 StartChar: u1235F
-Encoding: 74591 74591 881
+Encoding: 919 74591 881
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -11787,7 +11786,7 @@ Validated: 5
 EndChar
 
 StartChar: u12360
-Encoding: 74592 74592 882
+Encoding: 920 74592 882
 Width: 1414
 VWidth: 1000
 Flags: W
@@ -11803,7 +11802,7 @@ Refer: 10 61702 N 1 0 0 1 734.946 -285 2
 EndChar
 
 StartChar: u12361
-Encoding: 74593 74593 883
+Encoding: 921 74593 883
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -11815,7 +11814,7 @@ Validated: 5
 EndChar
 
 StartChar: u12362
-Encoding: 74594 74594 884
+Encoding: 922 74594 884
 Width: 1612
 VWidth: 1000
 Flags: W
@@ -11827,7 +11826,7 @@ Refer: 46 73756 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u12363
-Encoding: 74595 74595 885
+Encoding: 923 74595 885
 Width: 1345
 VWidth: 1000
 Flags: W
@@ -11842,7 +11841,7 @@ Validated: 5
 EndChar
 
 StartChar: u12364
-Encoding: 74596 74596 886
+Encoding: 924 74596 886
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -11854,7 +11853,7 @@ Validated: 5
 EndChar
 
 StartChar: u12365
-Encoding: 74597 74597 887
+Encoding: 925 74597 887
 Width: 1078
 VWidth: 1000
 Flags: W
@@ -11865,7 +11864,7 @@ Refer: 178 73888 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u12366
-Encoding: 74598 74598 888
+Encoding: 926 74598 888
 Width: 674
 VWidth: 1000
 Flags: W
@@ -11877,7 +11876,7 @@ Refer: 6 61698 N 0.707107 0.707107 -0.707107 0.707107 593.504 -320.862 2
 EndChar
 
 StartChar: u12367
-Encoding: 74599 74599 889
+Encoding: 927 74599 889
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -11889,7 +11888,7 @@ Validated: 5
 EndChar
 
 StartChar: u12368
-Encoding: 74600 74600 890
+Encoding: 928 74600 890
 Width: 1449
 Flags: HW
 VStem: 1473.48 27.0928<445.962 501.664> 1473.48 27.0928<-0.0380533 186.46>
@@ -11906,7 +11905,7 @@ Refer: 1058 61715 N 1 0 0 1 1039 30 2
 EndChar
 
 StartChar: u12369
-Encoding: 74601 74601 891
+Encoding: 929 74601 891
 Width: 817
 VWidth: 1000
 Flags: W
@@ -11917,7 +11916,7 @@ Refer: 80 73790 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u1236A
-Encoding: 74602 74602 892
+Encoding: 930 74602 892
 Width: 1335
 VWidth: 1000
 Flags: W
@@ -11929,7 +11928,7 @@ Refer: 82 73792 S 1 0 0 1 -0.0537109 0 2
 EndChar
 
 StartChar: u1236B
-Encoding: 74603 74603 893
+Encoding: 931 74603 893
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -11941,7 +11940,7 @@ Validated: 5
 EndChar
 
 StartChar: u1236C
-Encoding: 74604 74604 894
+Encoding: 932 74604 894
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -11953,7 +11952,7 @@ Validated: 5
 EndChar
 
 StartChar: u1236D
-Encoding: 74605 74605 895
+Encoding: 933 74605 895
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -11965,7 +11964,7 @@ Validated: 5
 EndChar
 
 StartChar: u1236E
-Encoding: 74606 74606 896
+Encoding: 934 74606 896
 Width: 1501
 VWidth: 1000
 Flags: W
@@ -11978,7 +11977,7 @@ Validated: 5
 EndChar
 
 StartChar: u1236F
-Encoding: 74607 74607 897
+Encoding: 935 74607 897
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -11990,7 +11989,7 @@ Validated: 5
 EndChar
 
 StartChar: u12370
-Encoding: 74608 74608 898
+Encoding: 936 74608 898
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -12002,7 +12001,7 @@ Validated: 5
 EndChar
 
 StartChar: u12371
-Encoding: 74609 74609 899
+Encoding: 937 74609 899
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -12014,7 +12013,7 @@ Validated: 5
 EndChar
 
 StartChar: u12372
-Encoding: 74610 74610 900
+Encoding: 938 74610 900
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -12026,7 +12025,7 @@ Validated: 5
 EndChar
 
 StartChar: u12373
-Encoding: 74611 74611 901
+Encoding: 939 74611 901
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -12038,7 +12037,7 @@ Validated: 5
 EndChar
 
 StartChar: u12374
-Encoding: 74612 74612 902
+Encoding: 940 74612 902
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -12050,7 +12049,7 @@ Validated: 5
 EndChar
 
 StartChar: u12375
-Encoding: 74613 74613 903
+Encoding: 941 74613 903
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -12062,7 +12061,7 @@ Validated: 5
 EndChar
 
 StartChar: u12376
-Encoding: 74614 74614 904
+Encoding: 942 74614 904
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -12074,7 +12073,7 @@ Validated: 5
 EndChar
 
 StartChar: u12377
-Encoding: 74615 74615 905
+Encoding: 943 74615 905
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -12086,7 +12085,7 @@ Validated: 5
 EndChar
 
 StartChar: u12378
-Encoding: 74616 74616 906
+Encoding: 944 74616 906
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -12098,7 +12097,7 @@ Validated: 5
 EndChar
 
 StartChar: u12379
-Encoding: 74617 74617 907
+Encoding: 945 74617 907
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -12110,7 +12109,7 @@ Validated: 5
 EndChar
 
 StartChar: u1237A
-Encoding: 74618 74618 908
+Encoding: 946 74618 908
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -12122,7 +12121,7 @@ Validated: 5
 EndChar
 
 StartChar: u1237B
-Encoding: 74619 74619 909
+Encoding: 947 74619 909
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -12134,7 +12133,7 @@ Validated: 5
 EndChar
 
 StartChar: u1237C
-Encoding: 74620 74620 910
+Encoding: 948 74620 910
 Width: 2470
 Flags: HW
 LayerCount: 2
@@ -12151,7 +12150,7 @@ Refer: 1057 61714 N 1 0 0 1 -32.2797 32 2
 EndChar
 
 StartChar: u1237D
-Encoding: 74621 74621 911
+Encoding: 949 74621 911
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -12163,7 +12162,7 @@ Validated: 5
 EndChar
 
 StartChar: u1237E
-Encoding: 74622 74622 912
+Encoding: 950 74622 912
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -12175,7 +12174,7 @@ Validated: 5
 EndChar
 
 StartChar: u1237F
-Encoding: 74623 74623 913
+Encoding: 951 74623 913
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -12187,7 +12186,7 @@ Validated: 5
 EndChar
 
 StartChar: u12380
-Encoding: 74624 74624 914
+Encoding: 952 74624 914
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -12199,7 +12198,7 @@ Validated: 5
 EndChar
 
 StartChar: u12381
-Encoding: 74625 74625 915
+Encoding: 953 74625 915
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -12211,7 +12210,7 @@ Validated: 5
 EndChar
 
 StartChar: u12382
-Encoding: 74626 74626 916
+Encoding: 954 74626 916
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -12223,7 +12222,7 @@ Validated: 5
 EndChar
 
 StartChar: u12383
-Encoding: 74627 74627 917
+Encoding: 955 74627 917
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -12235,7 +12234,7 @@ Validated: 5
 EndChar
 
 StartChar: u12384
-Encoding: 74628 74628 918
+Encoding: 956 74628 918
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -12247,7 +12246,7 @@ Validated: 5
 EndChar
 
 StartChar: u12385
-Encoding: 74629 74629 919
+Encoding: 957 74629 919
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -12259,7 +12258,7 @@ Validated: 5
 EndChar
 
 StartChar: u12386
-Encoding: 74630 74630 920
+Encoding: 958 74630 920
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -12271,7 +12270,7 @@ Validated: 5
 EndChar
 
 StartChar: u12387
-Encoding: 74631 74631 921
+Encoding: 959 74631 921
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -12283,7 +12282,7 @@ Validated: 5
 EndChar
 
 StartChar: u12388
-Encoding: 74632 74632 922
+Encoding: 960 74632 922
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -12295,7 +12294,7 @@ Validated: 5
 EndChar
 
 StartChar: u12389
-Encoding: 74633 74633 923
+Encoding: 961 74633 923
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -12307,7 +12306,7 @@ Validated: 5
 EndChar
 
 StartChar: u1238A
-Encoding: 74634 74634 924
+Encoding: 962 74634 924
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -12319,7 +12318,7 @@ Validated: 5
 EndChar
 
 StartChar: u1238B
-Encoding: 74635 74635 925
+Encoding: 963 74635 925
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -12331,7 +12330,7 @@ Validated: 5
 EndChar
 
 StartChar: u1238C
-Encoding: 74636 74636 926
+Encoding: 964 74636 926
 Width: 1335
 VWidth: 1000
 Flags: W
@@ -12347,7 +12346,7 @@ Validated: 5
 EndChar
 
 StartChar: u1238D
-Encoding: 74637 74637 927
+Encoding: 965 74637 927
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -12359,7 +12358,7 @@ Validated: 5
 EndChar
 
 StartChar: u1238E
-Encoding: 74638 74638 928
+Encoding: 966 74638 928
 Width: 1299
 VWidth: 1000
 Flags: W
@@ -12377,7 +12376,7 @@ Validated: 5
 EndChar
 
 StartChar: u1238F
-Encoding: 74639 74639 929
+Encoding: 967 74639 929
 Width: 1485
 VWidth: 1000
 Flags: W
@@ -12391,7 +12390,7 @@ Refer: 562 74272 N 1 0 0 1 690.133 0 2
 EndChar
 
 StartChar: u12390
-Encoding: 74640 74640 930
+Encoding: 968 74640 930
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -12403,7 +12402,7 @@ Validated: 5
 EndChar
 
 StartChar: u12391
-Encoding: 74641 74641 931
+Encoding: 969 74641 931
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -12415,7 +12414,7 @@ Validated: 5
 EndChar
 
 StartChar: u12392
-Encoding: 74642 74642 932
+Encoding: 970 74642 932
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -12427,7 +12426,7 @@ Validated: 5
 EndChar
 
 StartChar: u12393
-Encoding: 74643 74643 933
+Encoding: 971 74643 933
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -12439,7 +12438,7 @@ Validated: 5
 EndChar
 
 StartChar: u12394
-Encoding: 74644 74644 934
+Encoding: 972 74644 934
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -12451,7 +12450,7 @@ Validated: 5
 EndChar
 
 StartChar: u12395
-Encoding: 74645 74645 935
+Encoding: 973 74645 935
 Width: 660
 VWidth: 1000
 Flags: W
@@ -12465,7 +12464,7 @@ Validated: 5
 EndChar
 
 StartChar: u12396
-Encoding: 74646 74646 936
+Encoding: 974 74646 936
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -12477,7 +12476,7 @@ Validated: 5
 EndChar
 
 StartChar: u12397
-Encoding: 74647 74647 937
+Encoding: 975 74647 937
 Width: 800
 VWidth: 1000
 Flags: W
@@ -12487,7 +12486,7 @@ Refer: 18 61710 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u12398
-Encoding: 74648 74648 938
+Encoding: 976 74648 938
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -12499,7 +12498,7 @@ Validated: 5
 EndChar
 
 StartChar: u12399
-Encoding: 74649 74649 939
+Encoding: 977 74649 939
 Width: 594
 Flags: W
 LayerCount: 2
@@ -12510,7 +12509,7 @@ Validated: 5
 EndChar
 
 StartChar: u12400
-Encoding: 74752 74752 940
+Encoding: 978 74752 940
 Width: 940
 Flags: HW
 LayerCount: 2
@@ -12520,7 +12519,7 @@ Refer: 15 61707 S 1 0 0 1 494.946 69 2
 EndChar
 
 StartChar: u12401
-Encoding: 74753 74753 941
+Encoding: 979 74753 941
 Width: 914
 Flags: HW
 LayerCount: 2
@@ -12531,7 +12530,7 @@ Refer: 9 61701 N 1 0 0 1 284.946 -1 2
 EndChar
 
 StartChar: u12402
-Encoding: 74754 74754 942
+Encoding: 980 74754 942
 Width: 940
 Flags: W
 LayerCount: 2
@@ -12543,7 +12542,7 @@ Refer: 15 61707 S 1 0 0 1 494.946 165 2
 EndChar
 
 StartChar: u12403
-Encoding: 74755 74755 943
+Encoding: 981 74755 943
 Width: 1220
 Flags: HW
 LayerCount: 2
@@ -12556,7 +12555,7 @@ Refer: 9 61701 N 1 0 0 1 284.946 95 2
 EndChar
 
 StartChar: u12404
-Encoding: 74756 74756 944
+Encoding: 982 74756 944
 Width: 1220
 Flags: HW
 LayerCount: 2
@@ -12570,7 +12569,7 @@ Refer: 9 61701 S 1 0 0 1 284.946 95 2
 EndChar
 
 StartChar: u12405
-Encoding: 74757 74757 945
+Encoding: 983 74757 945
 Width: 1500
 Flags: HW
 LayerCount: 2
@@ -12585,7 +12584,7 @@ Refer: 9 61701 N 1 0 0 1 564.946 95 2
 EndChar
 
 StartChar: u12406
-Encoding: 74758 74758 946
+Encoding: 984 74758 946
 Width: 1500
 Flags: HW
 HStem: 0 21G<280 404.743 1155.26 1280>
@@ -12602,7 +12601,7 @@ Refer: 9 61701 N 1 0 0 1 844.946 95 2
 EndChar
 
 StartChar: u12407
-Encoding: 74759 74759 947
+Encoding: 985 74759 947
 Width: 1780
 Flags: HW
 HStem: 0 21G<0 124.743 875.257 1000>
@@ -12620,7 +12619,7 @@ Refer: 9 61701 S 1 0 0 1 844.946 95 2
 EndChar
 
 StartChar: u12408
-Encoding: 74760 74760 948
+Encoding: 986 74760 948
 Width: 689
 VWidth: 1000
 Flags: W
@@ -12634,7 +12633,7 @@ Validated: 5
 EndChar
 
 StartChar: u12409
-Encoding: 74761 74761 949
+Encoding: 987 74761 949
 Width: 461
 VWidth: 1000
 Flags: W
@@ -12647,7 +12646,7 @@ Validated: 5
 EndChar
 
 StartChar: u1240A
-Encoding: 74762 74762 950
+Encoding: 988 74762 950
 Width: 689
 VWidth: 1000
 Flags: W
@@ -12662,7 +12661,7 @@ Refer: 8 61700 N 1 0 0 1 -0.4652 0 2
 EndChar
 
 StartChar: u1240B
-Encoding: 74763 74763 951
+Encoding: 989 74763 951
 Width: 689
 VWidth: 1000
 Flags: W
@@ -12675,7 +12674,7 @@ Refer: 2 74838 N 1 0 0 1 -0.465223 0 2
 EndChar
 
 StartChar: u1240C
-Encoding: 74764 74764 952
+Encoding: 990 74764 952
 Width: 919
 VWidth: 1000
 Flags: W
@@ -12692,7 +12691,7 @@ Refer: 8 61700 N 1 0 0 1 -0.465579 0 2
 EndChar
 
 StartChar: u1240D
-Encoding: 74765 74765 953
+Encoding: 991 74765 953
 Width: 949
 VWidth: 1000
 Flags: W
@@ -12706,7 +12705,7 @@ Refer: 2 74838 N 1 0 0 1 -0.465223 0 2
 EndChar
 
 StartChar: u1240E
-Encoding: 74766 74766 954
+Encoding: 992 74766 954
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -12718,7 +12717,7 @@ Validated: 5
 EndChar
 
 StartChar: u1240F
-Encoding: 74767 74767 955
+Encoding: 993 74767 955
 Width: 593
 Flags: W
 LayerCount: 2
@@ -12730,7 +12729,7 @@ Refer: 797 74507 S 1 0 0 1 -0.279699 143 2
 EndChar
 
 StartChar: u12410
-Encoding: 74768 74768 956
+Encoding: 994 74768 956
 Width: 804
 Flags: W
 LayerCount: 2
@@ -12743,7 +12742,7 @@ Refer: 797 74507 N 1 0 0 1 0 143 2
 EndChar
 
 StartChar: u12411
-Encoding: 74769 74769 957
+Encoding: 995 74769 957
 Width: 804
 Flags: HW
 LayerCount: 2
@@ -12757,7 +12756,7 @@ Refer: 797 74507 N 1 0 0 1 0 143 2
 EndChar
 
 StartChar: u12412
-Encoding: 74770 74770 958
+Encoding: 996 74770 958
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -12769,7 +12768,7 @@ Validated: 5
 EndChar
 
 StartChar: u12413
-Encoding: 74771 74771 959
+Encoding: 997 74771 959
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -12781,7 +12780,7 @@ Validated: 5
 EndChar
 
 StartChar: u12414
-Encoding: 74772 74772 960
+Encoding: 998 74772 960
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -12793,7 +12792,7 @@ Validated: 5
 EndChar
 
 StartChar: u12415
-Encoding: 74773 74773 961
+Encoding: 999 74773 961
 Width: 231
 VWidth: 1000
 Flags: W
@@ -12804,7 +12803,7 @@ Refer: 1 73849 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u12416
-Encoding: 74774 74774 962
+Encoding: 1000 74774 962
 Width: 462
 VWidth: 1000
 Flags: W
@@ -12815,7 +12814,7 @@ Refer: 573 74283 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u12417
-Encoding: 74775 74775 963
+Encoding: 1001 74775 963
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -12827,7 +12826,7 @@ Validated: 5
 EndChar
 
 StartChar: u12418
-Encoding: 74776 74776 964
+Encoding: 1002 74776 964
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -12839,7 +12838,7 @@ Validated: 5
 EndChar
 
 StartChar: u12419
-Encoding: 74777 74777 965
+Encoding: 1003 74777 965
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -12851,7 +12850,7 @@ Validated: 5
 EndChar
 
 StartChar: u1241A
-Encoding: 74778 74778 966
+Encoding: 1004 74778 966
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -12863,7 +12862,7 @@ Validated: 5
 EndChar
 
 StartChar: u1241B
-Encoding: 74779 74779 967
+Encoding: 1005 74779 967
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -12875,7 +12874,7 @@ Validated: 5
 EndChar
 
 StartChar: u1241C
-Encoding: 74780 74780 968
+Encoding: 1006 74780 968
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -12887,7 +12886,7 @@ Validated: 5
 EndChar
 
 StartChar: u1241D
-Encoding: 74781 74781 969
+Encoding: 1007 74781 969
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -12899,7 +12898,7 @@ Validated: 5
 EndChar
 
 StartChar: u1241E
-Encoding: 74782 74782 970
+Encoding: 1008 74782 970
 Width: 462
 VWidth: 1000
 Flags: HW
@@ -12911,7 +12910,7 @@ Refer: 961 74773 N 1 0 0 1 -0.465223 0 2
 EndChar
 
 StartChar: u1241F
-Encoding: 74783 74783 971
+Encoding: 1009 74783 971
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -12923,7 +12922,7 @@ Validated: 5
 EndChar
 
 StartChar: u12420
-Encoding: 74784 74784 972
+Encoding: 1010 74784 972
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -12935,7 +12934,7 @@ Validated: 5
 EndChar
 
 StartChar: u12421
-Encoding: 74785 74785 973
+Encoding: 1011 74785 973
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -12947,7 +12946,7 @@ Validated: 5
 EndChar
 
 StartChar: u12422
-Encoding: 74786 74786 974
+Encoding: 1012 74786 974
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -12959,7 +12958,7 @@ Validated: 5
 EndChar
 
 StartChar: u12423
-Encoding: 74787 74787 975
+Encoding: 1013 74787 975
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -12971,7 +12970,7 @@ Validated: 5
 EndChar
 
 StartChar: u12424
-Encoding: 74788 74788 976
+Encoding: 1014 74788 976
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -12983,7 +12982,7 @@ Validated: 5
 EndChar
 
 StartChar: u12425
-Encoding: 74789 74789 977
+Encoding: 1015 74789 977
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -12995,7 +12994,7 @@ Validated: 5
 EndChar
 
 StartChar: u12426
-Encoding: 74790 74790 978
+Encoding: 1016 74790 978
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -13007,7 +13006,7 @@ Validated: 5
 EndChar
 
 StartChar: u12427
-Encoding: 74791 74791 979
+Encoding: 1017 74791 979
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -13019,7 +13018,7 @@ Validated: 5
 EndChar
 
 StartChar: u12428
-Encoding: 74792 74792 980
+Encoding: 1018 74792 980
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -13031,7 +13030,7 @@ Validated: 5
 EndChar
 
 StartChar: u12429
-Encoding: 74793 74793 981
+Encoding: 1019 74793 981
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -13043,7 +13042,7 @@ Validated: 5
 EndChar
 
 StartChar: u1242A
-Encoding: 74794 74794 982
+Encoding: 1020 74794 982
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -13055,7 +13054,7 @@ Validated: 5
 EndChar
 
 StartChar: u1242B
-Encoding: 74795 74795 983
+Encoding: 1021 74795 983
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -13067,7 +13066,7 @@ Validated: 5
 EndChar
 
 StartChar: u1242C
-Encoding: 74796 74796 984
+Encoding: 1022 74796 984
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -13079,7 +13078,7 @@ Validated: 5
 EndChar
 
 StartChar: u1242D
-Encoding: 74797 74797 985
+Encoding: 1023 74797 985
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -13091,7 +13090,7 @@ Validated: 5
 EndChar
 
 StartChar: u1242E
-Encoding: 74798 74798 986
+Encoding: 1024 74798 986
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -13103,7 +13102,7 @@ Validated: 5
 EndChar
 
 StartChar: u1242F
-Encoding: 74799 74799 987
+Encoding: 1025 74799 987
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -13115,7 +13114,7 @@ Validated: 5
 EndChar
 
 StartChar: u12430
-Encoding: 74800 74800 988
+Encoding: 1026 74800 988
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -13127,7 +13126,7 @@ Validated: 5
 EndChar
 
 StartChar: u12431
-Encoding: 74801 74801 989
+Encoding: 1027 74801 989
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -13139,7 +13138,7 @@ Validated: 5
 EndChar
 
 StartChar: u12432
-Encoding: 74802 74802 990
+Encoding: 1028 74802 990
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -13151,7 +13150,7 @@ Validated: 5
 EndChar
 
 StartChar: u12433
-Encoding: 74803 74803 991
+Encoding: 1029 74803 991
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -13163,7 +13162,7 @@ Validated: 5
 EndChar
 
 StartChar: u12434
-Encoding: 74804 74804 992
+Encoding: 1030 74804 992
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -13175,7 +13174,7 @@ Validated: 5
 EndChar
 
 StartChar: u12435
-Encoding: 74805 74805 993
+Encoding: 1031 74805 993
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -13187,7 +13186,7 @@ Validated: 5
 EndChar
 
 StartChar: u12436
-Encoding: 74806 74806 994
+Encoding: 1032 74806 994
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -13199,7 +13198,7 @@ Validated: 5
 EndChar
 
 StartChar: u12437
-Encoding: 74807 74807 995
+Encoding: 1033 74807 995
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -13211,7 +13210,7 @@ Validated: 5
 EndChar
 
 StartChar: u12438
-Encoding: 74808 74808 996
+Encoding: 1034 74808 996
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -13223,7 +13222,7 @@ Validated: 5
 EndChar
 
 StartChar: u12439
-Encoding: 74809 74809 997
+Encoding: 1035 74809 997
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -13235,7 +13234,7 @@ Validated: 5
 EndChar
 
 StartChar: u1243A
-Encoding: 74810 74810 998
+Encoding: 1036 74810 998
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -13247,7 +13246,7 @@ Validated: 5
 EndChar
 
 StartChar: u1243B
-Encoding: 74811 74811 999
+Encoding: 1037 74811 999
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -13259,7 +13258,7 @@ Validated: 5
 EndChar
 
 StartChar: u1243C
-Encoding: 74812 74812 1000
+Encoding: 1038 74812 1000
 Width: 691
 VWidth: 1000
 Flags: W
@@ -13271,7 +13270,7 @@ Refer: 16 61708 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u1243D
-Encoding: 74813 74813 1001
+Encoding: 1039 74813 1001
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -13283,7 +13282,7 @@ Validated: 5
 EndChar
 
 StartChar: u1243E
-Encoding: 74814 74814 1002
+Encoding: 1040 74814 1002
 Width: 689
 VWidth: 1000
 Flags: W
@@ -13298,7 +13297,7 @@ Validated: 5
 EndChar
 
 StartChar: u1243F
-Encoding: 74815 74815 1003
+Encoding: 1041 74815 1003
 Width: 689
 VWidth: 1000
 Flags: W
@@ -13312,7 +13311,7 @@ Refer: 8 61700 S 1 0 0 1 -0.4652 0 2
 EndChar
 
 StartChar: u12440
-Encoding: 74816 74816 1004
+Encoding: 1042 74816 1004
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -13324,7 +13323,7 @@ Validated: 5
 EndChar
 
 StartChar: u12441
-Encoding: 74817 74817 1005
+Encoding: 1043 74817 1005
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -13336,7 +13335,7 @@ Validated: 5
 EndChar
 
 StartChar: u12442
-Encoding: 74818 74818 1006
+Encoding: 1044 74818 1006
 Width: 692
 VWidth: 1000
 Flags: W
@@ -13354,7 +13353,7 @@ Refer: 6 61698 N 1 0 0 1 0 -185 2
 EndChar
 
 StartChar: u12443
-Encoding: 74819 74819 1007
+Encoding: 1045 74819 1007
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -13366,7 +13365,7 @@ Validated: 5
 EndChar
 
 StartChar: u12444
-Encoding: 74820 74820 1008
+Encoding: 1046 74820 1008
 Width: 689
 VWidth: 1000
 Flags: W
@@ -13384,7 +13383,7 @@ Refer: 6 61698 N 1 0 0 1 -0.465223 0 2
 EndChar
 
 StartChar: u12445
-Encoding: 74821 74821 1009
+Encoding: 1047 74821 1009
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -13396,7 +13395,7 @@ Validated: 5
 EndChar
 
 StartChar: u12446
-Encoding: 74822 74822 1010
+Encoding: 1048 74822 1010
 Width: 689
 VWidth: 1000
 Flags: W
@@ -13415,7 +13414,7 @@ Refer: 6 61698 N 1 0 0 1 -0.465223 0 2
 EndChar
 
 StartChar: u12447
-Encoding: 74823 74823 1011
+Encoding: 1049 74823 1011
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -13427,7 +13426,7 @@ Validated: 5
 EndChar
 
 StartChar: u12448
-Encoding: 74824 74824 1012
+Encoding: 1050 74824 1012
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -13439,7 +13438,7 @@ Validated: 5
 EndChar
 
 StartChar: u12449
-Encoding: 74825 74825 1013
+Encoding: 1051 74825 1013
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -13451,7 +13450,7 @@ Validated: 5
 EndChar
 
 StartChar: u1244A
-Encoding: 74826 74826 1014
+Encoding: 1052 74826 1014
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -13463,7 +13462,7 @@ Validated: 5
 EndChar
 
 StartChar: u1244B
-Encoding: 74827 74827 1015
+Encoding: 1053 74827 1015
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -13475,7 +13474,7 @@ Validated: 5
 EndChar
 
 StartChar: u1244C
-Encoding: 74828 74828 1016
+Encoding: 1054 74828 1016
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -13487,7 +13486,7 @@ Validated: 5
 EndChar
 
 StartChar: u1244D
-Encoding: 74829 74829 1017
+Encoding: 1055 74829 1017
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -13499,7 +13498,7 @@ Validated: 5
 EndChar
 
 StartChar: u1244E
-Encoding: 74830 74830 1018
+Encoding: 1056 74830 1018
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -13511,7 +13510,7 @@ Validated: 5
 EndChar
 
 StartChar: u1244F
-Encoding: 74831 74831 1019
+Encoding: 1057 74831 1019
 Width: 800
 VWidth: 1000
 Flags: HW
@@ -13522,7 +13521,7 @@ Refer: 568 74278 N 1 0 0 1 -0.0537109 0 2
 EndChar
 
 StartChar: u12450
-Encoding: 74832 74832 1020
+Encoding: 1058 74832 1020
 Width: 800
 VWidth: 1000
 Flags: HW
@@ -13535,7 +13534,7 @@ Refer: 7 61699 S 1 0 0 1 284.946 0 2
 EndChar
 
 StartChar: u12451
-Encoding: 74833 74833 1021
+Encoding: 1059 74833 1021
 Width: 800
 VWidth: 1000
 Flags: HW
@@ -13549,7 +13548,7 @@ Refer: 7 61699 N 1 0 0 1 284.946 0 2
 EndChar
 
 StartChar: u12452
-Encoding: 74834 74834 1022
+Encoding: 1060 74834 1022
 Width: 894
 VWidth: 1000
 Flags: HW
@@ -13563,7 +13562,7 @@ Refer: 7 61699 N 1 0 0 1 284.946 0 2
 EndChar
 
 StartChar: u12453
-Encoding: 74835 74835 1023
+Encoding: 1061 74835 1023
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -13575,7 +13574,7 @@ Validated: 5
 EndChar
 
 StartChar: u12454
-Encoding: 74836 74836 1024
+Encoding: 1062 74836 1024
 Width: 894
 VWidth: 1000
 Flags: HW
@@ -13590,7 +13589,7 @@ Refer: 873 74583 N 1 0 0 1 -5 -55 2
 EndChar
 
 StartChar: u12455
-Encoding: 74837 74837 1025
+Encoding: 1063 74837 1025
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -13602,7 +13601,7 @@ Validated: 5
 EndChar
 
 StartChar: u12457
-Encoding: 74839 74839 1026
+Encoding: 1065 74839 1026
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -13614,7 +13613,7 @@ Validated: 5
 EndChar
 
 StartChar: u12458
-Encoding: 74840 74840 1027
+Encoding: 1066 74840 1027
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -13626,7 +13625,7 @@ Validated: 5
 EndChar
 
 StartChar: u12459
-Encoding: 74841 74841 1028
+Encoding: 1067 74841 1028
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -13638,7 +13637,7 @@ Validated: 5
 EndChar
 
 StartChar: u1245A
-Encoding: 74842 74842 1029
+Encoding: 1068 74842 1029
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -13650,7 +13649,7 @@ Validated: 5
 EndChar
 
 StartChar: u1245B
-Encoding: 74843 74843 1030
+Encoding: 1069 74843 1030
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -13662,7 +13661,7 @@ Validated: 5
 EndChar
 
 StartChar: u1245C
-Encoding: 74844 74844 1031
+Encoding: 1070 74844 1031
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -13674,7 +13673,7 @@ Validated: 5
 EndChar
 
 StartChar: u1245D
-Encoding: 74845 74845 1032
+Encoding: 1071 74845 1032
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -13686,7 +13685,7 @@ Validated: 5
 EndChar
 
 StartChar: u1245E
-Encoding: 74846 74846 1033
+Encoding: 1072 74846 1033
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -13698,7 +13697,7 @@ Validated: 5
 EndChar
 
 StartChar: u1245F
-Encoding: 74847 74847 1034
+Encoding: 1073 74847 1034
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -13710,7 +13709,7 @@ Validated: 5
 EndChar
 
 StartChar: u12460
-Encoding: 74848 74848 1035
+Encoding: 1074 74848 1035
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -13722,7 +13721,7 @@ Validated: 5
 EndChar
 
 StartChar: u12461
-Encoding: 74849 74849 1036
+Encoding: 1075 74849 1036
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -13734,7 +13733,7 @@ Validated: 5
 EndChar
 
 StartChar: u12462
-Encoding: 74850 74850 1037
+Encoding: 1076 74850 1037
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -13746,7 +13745,7 @@ Validated: 5
 EndChar
 
 StartChar: u12463
-Encoding: 74851 74851 1038
+Encoding: 1077 74851 1038
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -13758,7 +13757,7 @@ Validated: 5
 EndChar
 
 StartChar: u12464
-Encoding: 74852 74852 1039
+Encoding: 1078 74852 1039
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -13770,7 +13769,7 @@ Validated: 5
 EndChar
 
 StartChar: u12465
-Encoding: 74853 74853 1040
+Encoding: 1079 74853 1040
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -13782,7 +13781,7 @@ Validated: 5
 EndChar
 
 StartChar: u12466
-Encoding: 74854 74854 1041
+Encoding: 1080 74854 1041
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -13794,7 +13793,7 @@ Validated: 5
 EndChar
 
 StartChar: u12467
-Encoding: 74855 74855 1042
+Encoding: 1081 74855 1042
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -13806,7 +13805,7 @@ Validated: 5
 EndChar
 
 StartChar: u12468
-Encoding: 74856 74856 1043
+Encoding: 1082 74856 1043
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -13818,7 +13817,7 @@ Validated: 5
 EndChar
 
 StartChar: u12469
-Encoding: 74857 74857 1044
+Encoding: 1083 74857 1044
 Width: 804
 Flags: HW
 LayerCount: 2
@@ -13830,7 +13829,7 @@ Refer: 797 74507 N 1 0 0 1 210 -293 2
 EndChar
 
 StartChar: u1246A
-Encoding: 74858 74858 1045
+Encoding: 1084 74858 1045
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -13842,7 +13841,7 @@ Validated: 5
 EndChar
 
 StartChar: u1246B
-Encoding: 74859 74859 1046
+Encoding: 1085 74859 1046
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -13854,7 +13853,7 @@ Validated: 5
 EndChar
 
 StartChar: u1246C
-Encoding: 74860 74860 1047
+Encoding: 1086 74860 1047
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -13866,7 +13865,7 @@ Validated: 5
 EndChar
 
 StartChar: u1246D
-Encoding: 74861 74861 1048
+Encoding: 1087 74861 1048
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -13878,7 +13877,7 @@ Validated: 5
 EndChar
 
 StartChar: u1246E
-Encoding: 74862 74862 1049
+Encoding: 1088 74862 1049
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -13890,7 +13889,7 @@ Validated: 5
 EndChar
 
 StartChar: u1246F
-Encoding: 74863 74863 1050
+Encoding: 1089 74863 1050
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -13902,7 +13901,7 @@ Validated: 5
 EndChar
 
 StartChar: u12470
-Encoding: 74864 74864 1051
+Encoding: 1090 74864 1051
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -13914,7 +13913,7 @@ Validated: 5
 EndChar
 
 StartChar: u12471
-Encoding: 74865 74865 1052
+Encoding: 1091 74865 1052
 Width: 313
 VWidth: 1000
 Flags: HW
@@ -13925,7 +13924,7 @@ Refer: 9 61701 N 0.707107 -0.707107 0.707107 0.707107 -7.01134 264.017 2
 EndChar
 
 StartChar: u12472
-Encoding: 74866 74866 1053
+Encoding: 1092 74866 1053
 Width: 511
 VWidth: 1000
 Flags: HW
@@ -13936,7 +13935,7 @@ Refer: 9 61701 S 0.707107 -0.707107 0.707107 0.707107 -7.02068 154.017 2
 EndChar
 
 StartChar: u12473
-Encoding: 74867 74867 1054
+Encoding: 1093 74867 1054
 Width: 709
 VWidth: 1000
 Flags: W
@@ -13948,7 +13947,7 @@ Refer: 9 61701 S 0.707107 -0.707107 0.707107 0.707107 -7.02083 239.007 2
 EndChar
 
 StartChar: u12474
-Encoding: 74868 74868 1055
+Encoding: 1094 74868 1055
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -13960,7 +13959,7 @@ Validated: 5
 EndChar
 
 StartChar: uniF111
-Encoding: 61713 61713 1056
+Encoding: 23 61713 1056
 Width: 370
 VWidth: 1000
 Flags: W
@@ -13973,7 +13972,7 @@ Validated: 5
 EndChar
 
 StartChar: uniF112
-Encoding: 61714 61714 1057
+Encoding: 24 61714 1057
 Width: 458
 Flags: W
 LayerCount: 2
@@ -14017,7 +14016,7 @@ Validated: 37
 EndChar
 
 StartChar: uniF113
-Encoding: 61715 61715 1058
+Encoding: 25 61715 1058
 Width: 458
 Flags: W
 LayerCount: 2
@@ -14061,7 +14060,7 @@ Validated: 37
 EndChar
 
 StartChar: uniF114
-Encoding: 61716 61716 1059
+Encoding: 26 61716 1059
 Width: 800
 VWidth: 1000
 Flags: W
@@ -14074,7 +14073,7 @@ Validated: 5
 EndChar
 
 StartChar: uniF115
-Encoding: 61717 61717 1060
+Encoding: 27 61717 1060
 Width: 800
 VWidth: 1000
 Flags: W
@@ -14087,7 +14086,7 @@ Validated: 5
 EndChar
 
 StartChar: uniF116
-Encoding: 61718 61718 1061
+Encoding: 28 61718 1061
 Width: 370
 VWidth: 1000
 Flags: W
@@ -14099,7 +14098,7 @@ Refer: 11 61703 S 0.707107 -0.707107 0.707107 0.707107 -202.833 297.697 2
 EndChar
 
 StartChar: uniF117
-Encoding: 61719 61719 1062
+Encoding: 29 61719 1062
 Width: 370
 VWidth: 1000
 Flags: W
@@ -14148,7 +14147,7 @@ Validated: 41
 EndChar
 
 StartChar: uniF118
-Encoding: 61720 61720 1063
+Encoding: 30 61720 1063
 Width: 370
 VWidth: 1000
 Flags: W
@@ -14161,7 +14160,7 @@ Validated: 9
 EndChar
 
 StartChar: uni000D
-Encoding: 13 13 1064
+Encoding: 0 13 1064
 Width: 0
 Flags: W
 LayerCount: 2
@@ -14170,7 +14169,7 @@ Validated: 1
 EndChar
 
 StartChar: space
-Encoding: 32 32 1065
+Encoding: 1 32 1065
 Width: 462
 VWidth: 1000
 Flags: W
@@ -14180,7 +14179,7 @@ Validated: 1
 EndChar
 
 StartChar: uni00A0
-Encoding: 160 160 1066
+Encoding: 2 160 1066
 Width: 462
 VWidth: 1000
 Flags: W
@@ -14190,7 +14189,7 @@ Validated: 1
 EndChar
 
 StartChar: uni200B
-Encoding: 8203 8203 1067
+Encoding: 3 8203 1067
 Width: 0
 Flags: W
 LayerCount: 2
@@ -14199,7 +14198,7 @@ Validated: 1
 EndChar
 
 StartChar: uni200C
-Encoding: 8204 8204 1068
+Encoding: 4 8204 1068
 Width: 0
 Flags: W
 VStem: -10 20
@@ -14216,7 +14215,7 @@ Validated: 9
 EndChar
 
 StartChar: uni200D
-Encoding: 8205 8205 1069
+Encoding: 5 8205 1069
 Width: 0
 Flags: W
 LayerCount: 2
@@ -14243,7 +14242,7 @@ Validated: 5
 EndChar
 
 StartChar: .notdef
-Encoding: 1114112 -1 1070
+Encoding: 1095 -1 1070
 Width: 466
 VWidth: 1000
 Flags: W
@@ -14266,7 +14265,7 @@ Validated: 37
 EndChar
 
 StartChar: uniF120
-Encoding: 61728 61728 1071
+Encoding: 31 61728 1071
 Width: 370
 VWidth: 1000
 Flags: W
@@ -14276,7 +14275,7 @@ Refer: 4 61696 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uniF121
-Encoding: 61729 61729 1072
+Encoding: 32 61729 1072
 Width: 370
 VWidth: 1000
 Flags: W
@@ -14286,10 +14285,10 @@ Refer: 5 61697 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uniF122
-Encoding: 61730 61730 1073
+Encoding: 33 61730 1073
 Width: 416
 VWidth: 1000
-Flags: HWO
+Flags: HW
 HStem: 0 13.65G<79.5361 104.063>
 VStem: 79.5361 24.5273<0 186.058>
 LayerCount: 2
@@ -14313,7 +14312,7 @@ EndSplineSet
 EndChar
 
 StartChar: uniF123
-Encoding: 61731 61731 1074
+Encoding: 34 61731 1074
 Width: 416
 VWidth: 1000
 Flags: W
@@ -14338,7 +14337,7 @@ EndSplineSet
 EndChar
 
 StartChar: uniF124
-Encoding: 61732 61732 1075
+Encoding: 35 61732 1075
 Width: 416
 VWidth: 1000
 Flags: W
@@ -14352,7 +14351,7 @@ Refer: 1074 61731 S 1 0 0 0.65 0 0 2
 EndChar
 
 StartChar: uniF125
-Encoding: 61733 61733 1076
+Encoding: 36 61733 1076
 Width: 370
 VWidth: 1000
 Flags: W
@@ -14362,7 +14361,7 @@ Refer: 9 61701 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uniF126
-Encoding: 61734 61734 1077
+Encoding: 37 61734 1077
 Width: 370
 VWidth: 1000
 Flags: W
@@ -14372,7 +14371,7 @@ Refer: 10 61702 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uniF127
-Encoding: 61735 61735 1078
+Encoding: 38 61735 1078
 Width: 370
 VWidth: 1000
 Flags: W
@@ -14382,7 +14381,7 @@ Refer: 11 61703 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uniF128
-Encoding: 61736 61736 1079
+Encoding: 39 61736 1079
 Width: 416
 VWidth: 1000
 Flags: W
@@ -14396,7 +14395,7 @@ Refer: 1074 61731 N 1 0 0 1.35 0 -280 2
 EndChar
 
 StartChar: uniF129
-Encoding: 61737 61737 1080
+Encoding: 40 61737 1080
 Width: 370
 VWidth: 1000
 Flags: W
@@ -14406,7 +14405,7 @@ Refer: 13 61705 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uniF12A
-Encoding: 61738 61738 1081
+Encoding: 41 61738 1081
 Width: 416
 VWidth: 1000
 Flags: W
@@ -14420,7 +14419,7 @@ Refer: 1074 61731 S 1 0 0 0.825 0 0 2
 EndChar
 
 StartChar: uniF12B
-Encoding: 61739 61739 1082
+Encoding: 42 61739 1082
 Width: 370
 VWidth: 1000
 Flags: W
@@ -14430,7 +14429,7 @@ Refer: 15 61707 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uniF12C
-Encoding: 61740 61740 1083
+Encoding: 43 61740 1083
 Width: 370
 VWidth: 1000
 Flags: W
@@ -14440,7 +14439,7 @@ Refer: 16 61708 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uniF12D
-Encoding: 61741 61741 1084
+Encoding: 44 61741 1084
 Width: 370
 VWidth: 1000
 Flags: W
@@ -14450,7 +14449,7 @@ Refer: 17 61709 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uniF12E
-Encoding: 61742 61742 1085
+Encoding: 45 61742 1085
 Width: 370
 VWidth: 1000
 Flags: W
@@ -14460,7 +14459,7 @@ Refer: 18 61710 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uniF12F
-Encoding: 61743 61743 1086
+Encoding: 46 61743 1086
 Width: 370
 VWidth: 1000
 Flags: W
@@ -14470,7 +14469,7 @@ Refer: 19 61711 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uniF130
-Encoding: 61744 61744 1087
+Encoding: 47 61744 1087
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -14480,7 +14479,7 @@ Refer: 139 61712 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uniF131
-Encoding: 61745 61745 1088
+Encoding: 48 61745 1088
 Width: 370
 VWidth: 1000
 Flags: W
@@ -14490,7 +14489,7 @@ Refer: 1056 61713 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uniF132
-Encoding: 61746 61746 1089
+Encoding: 49 61746 1089
 Width: 629
 VWidth: 1000
 Flags: W
@@ -14516,7 +14515,7 @@ EndSplineSet
 EndChar
 
 StartChar: uniF133
-Encoding: 61747 61747 1090
+Encoding: 50 61747 1090
 Width: 629
 VWidth: 1000
 Flags: W
@@ -14529,7 +14528,7 @@ Refer: 1089 61746 N 0.75 0 0 0.75 30 89 2
 EndChar
 
 StartChar: uniF134
-Encoding: 61748 61748 1091
+Encoding: 51 61748 1091
 Width: 800
 VWidth: 1000
 Flags: W
@@ -14539,7 +14538,7 @@ Refer: 1059 61716 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uniF135
-Encoding: 61749 61749 1092
+Encoding: 52 61749 1092
 Width: 800
 VWidth: 1000
 Flags: W
@@ -14549,7 +14548,7 @@ Refer: 1060 61717 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uniF136
-Encoding: 61750 61750 1093
+Encoding: 53 61750 1093
 Width: 370
 VWidth: 1000
 Flags: W
@@ -14559,7 +14558,7 @@ Refer: 1061 61718 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uniF137
-Encoding: 61751 61751 1094
+Encoding: 54 61751 1094
 Width: 416
 VWidth: 1000
 Flags: W
@@ -14573,7 +14572,7 @@ Refer: 1074 61731 S 2.1624 0 0 0.5525 131.892 0 2
 EndChar
 
 StartChar: uniF138
-Encoding: 61752 61752 1095
+Encoding: 55 61752 1095
 Width: 370
 VWidth: 1000
 Flags: W
@@ -14583,7 +14582,7 @@ Refer: 1063 61720 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u12038_u122E9
-Encoding: 1114113 -1 1096
+Encoding: 1096 -1 1096
 Width: 1279
 VWidth: 1000
 Flags: HW
@@ -14593,6 +14592,26 @@ Refer: 9 61701 S 1 0 0 1 284.946 -55 2
 Refer: 763 74473 N 1 0 0 1 279.946 0 2
 Ligature2: "Standard Ligatures" u12038 u122E9
 LCarets2: 1 0
+EndChar
+
+StartChar: u1230B_u12306
+Encoding: 1097 -1 1097
+Width: 1127
+VWidth: 1000
+Flags: HWO
+VStem: 333.478 27.0928<-0.0380533 186.46> 973.477 27.0928<0.461947 298.167>
+LayerCount: 2
+Fore
+Refer: 11 61703 N 1 0 0 1 255 285 2
+Refer: 17 61709 N 1 0 0 1 695 95 2
+Refer: 7 61699 N 1 0 0 1 895 0.5 2
+Refer: 8 61700 N 1 0 0 1 255 0 2
+Refer: 1058 61715 N 1 0 0 1 -45 171 2
+Refer: 11 61703 N 1 0 0 1 475 -285 2
+Refer: 11 61703 N 1 0 0 1 475 -85 2
+Refer: 11 61703 N 1 0 0 1 475 115 2
+LCarets2: 1 0
+Ligature2: "Standard Ligatures" u1230B u12306
 EndChar
 EndChars
 EndSplineFont
